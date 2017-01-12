@@ -23023,10 +23023,10 @@
             {
                 "city": "Los Lunas",
                 "handle": "P000588-los-lunas",
-                "latitude": null,
+                "latitude": 34.805944,
                 "line1": "3445 Lambros Loop NE",
                 "line2": null,
-                "longitude": null,
+                "longitude": -106.701456,
                 "name": "Los Lunas",
                 "phone": "(855) 473-2723",
                 "state_code": "NM",

@@ -46263,6 +46263,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -106.701456,
+                    34.805944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Los Lunas",
+                "handle": "P000588-los-lunas",
+                "line1": "3445 Lambros Loop NE",
+                "line2": null,
+                "name": "Los Lunas",
+                "phone": "(855) 473-2723",
+                "rep": {
+                    "bioguide_id": "P000588",
+                    "chamber": "HOUSE",
+                    "district_code": "NM02",
+                    "district_number": 2,
+                    "district_ordinal": "2nd",
+                    "first_name": "Stevan",
+                    "last_name": "Pearce",
+                    "party": "REPUBLICAN",
+                    "state_code": "NM",
+                    "state_name": "New Mexico",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "http://pearce.house.gov"
+                },
+                "state_code": "NM",
+                "type": "DISTRICT",
+                "zip": "87031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -105.9594593,
                     32.9009617
                 ],

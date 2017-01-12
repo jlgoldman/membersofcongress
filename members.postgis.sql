@@ -1298,7 +1298,7 @@ INSERT INTO "office" VALUES('P000523-southern','P000523','DISTRICT','Southern','
 INSERT INTO "office" VALUES('P000523-raleigh','P000523','DISTRICT','Raleigh','436 N. Harrington St','Suite 100','Raleigh','NC','27603','(919) 859-5999','SRID=4326;POINT(-78.6442275 35.7866594)');
 INSERT INTO "office" VALUES('P000523-western','P000523','DISTRICT','Western','1777 Fordham Blvd, Suite 204',NULL,'Chapel Hill','NC','27514','(919) 967-7924','SRID=4326;POINT(-79.0136236 35.9455529)');
 INSERT INTO "office" VALUES('P000523-washington','P000523','DC','Washington','2108 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-1784','SRID=4326;POINT(-77.0104749 38.8871071)');
-INSERT INTO "office" VALUES('P000588-los-lunas','P000588','DISTRICT','Los Lunas','3445 Lambros Loop NE',NULL,'Los Lunas','NM','87031','(855) 473-2723',NULL);
+INSERT INTO "office" VALUES('P000588-los-lunas','P000588','DISTRICT','Los Lunas','3445 Lambros Loop NE',NULL,'Los Lunas','NM','87031','(855) 473-2723','SRID=4326;POINT(-106.701456 34.805944)');
 INSERT INTO "office" VALUES('P000588-alamogordo','P000588','DISTRICT','Alamogordo','1101 New York Avenue, Room 115',NULL,'Alamogordo','NM','88310','(855) 473-2723','SRID=4326;POINT(-105.9594593 32.9009617)');
 INSERT INTO "office" VALUES('P000588-hobbs','P000588','DISTRICT','Hobbs','200 East Broadway, Suite 200',NULL,'Hobbs','NM','88240','(855) 473-2723','SRID=4326;POINT(-103.1343786 32.7011128)');
 INSERT INTO "office" VALUES('P000588-las-cruces','P000588','DISTRICT','Las Cruces','570 N Telshor Blvd',NULL,'Las Cruces','NM','88011','(855) 473-2723','SRID=4326;POINT(-106.7539714 32.3269491)');
