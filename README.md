@@ -1,7 +1,7 @@
-# Members of Congress in Various Formats
+# Members of Congress with District Offices
 
 This project is a repository of members of Congress and their contact information.
-Most notably, in contains address, phone numbers, and latlngs for **district offices**.
+Most notably, it contains addresses, phone numbers, and latlngs for **district offices**.
 
 This project was created specifically because no database of district office
 information seemed to exist, since while Washington DC office information
