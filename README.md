@@ -100,7 +100,7 @@ until they could be parsed. Addresses were then sanity-checked and geocoded.
 ### Contributing
 
 If data seems to be incorrect or incomplete, please help contribute!
-The master file is #*`members.json`*#, please make changes to that file
+The master file is **`members.json`**, please make changes to that file
 and submit a pull request. You can optionally convert from the master JSON
 file to all other formats in a single command:
 
