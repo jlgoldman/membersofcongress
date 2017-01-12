@@ -1,0 +1,542 @@
+bioguide_id,first_name,last_name,state_code,state_name,district_number,district_code,district_ordinal,party,chamber,title,title_short,website
+A000055,Robert,Aderholt,AL,Alabama,4,AL04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://aderholt.house.gov
+A000360,Lamar,Alexander,TN,Tennessee,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.alexander.senate.gov/
+A000367,Justin,Amash,MI,Michigan,3,MI03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://amash.house.gov
+A000369,Mark,Amodei,NV,Nevada,2,NV02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://amodei.house.gov
+A000370,Alma,Adams,NC,North Carolina,12,NC12,12th,DEMOCRAT,HOUSE,Representative,Rep.,http://adams.house.gov
+A000371,Pete,Aguilar,CA,California,31,CA31,31st,DEMOCRAT,HOUSE,Representative,Rep.,https://aguilar.house.gov
+A000372,Rick,Allen,GA,Georgia,12,GA12,12th,REPUBLICAN,HOUSE,Representative,Rep.,http://allen.house.gov
+A000374,Ralph,Abraham,LA,Louisiana,5,LA05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://abraham.house.gov
+A000375,Jodey,Arrington,TX,Texas,19,TX19,19th,REPUBLICAN,HOUSE,Representative,Rep.,https://arrington.house.gov
+B000213,Joe,Barton,TX,Texas,6,TX06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://joebarton.house.gov
+B000287,Xavier,Becerra,CA,California,34,CA34,34th,DEMOCRAT,HOUSE,Representative,Rep.,https://becerra.house.gov
+B000490,Sanford,Bishop,GA,Georgia,2,GA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://bishop.house.gov
+B000574,Earl,Blumenauer,OR,Oregon,3,OR03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://blumenauer.house.gov
+B000575,Roy,Blunt,MO,Missouri,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.blunt.senate.gov
+B000755,Kevin,Brady,TX,Texas,8,TX08,8th,REPUBLICAN,HOUSE,Representative,Rep.,http://kevinbrady.house.gov
+B000944,Sherrod,Brown,OH,Ohio,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.brown.senate.gov/
+B001135,Richard,Burr,NC,North Carolina,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.burr.senate.gov
+B001227,Robert,Brady,PA,Pennsylvania,1,PA01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://brady.house.gov
+B001230,Tammy,Baldwin,WI,Wisconsin,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.baldwin.senate.gov/
+B001236,John,Boozman,AR,Arkansas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.boozman.senate.gov/
+B001243,Marsha,Blackburn,TN,Tennessee,7,TN07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://blackburn.house.gov
+B001245,Madeleine,Bordallo,GU,Guam,0,GU00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,https://bordallo.house.gov
+B001248,Michael,Burgess,TX,Texas,26,TX26,26th,REPUBLICAN,HOUSE,Representative,Rep.,http://burgess.house.gov
+B001250,Rob,Bishop,UT,Utah,1,UT01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://robbishop.house.gov
+B001251,G.,Butterfield,NC,North Carolina,1,NC01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://butterfield.house.gov
+B001257,Gus,Bilirakis,FL,Florida,12,FL12,12th,REPUBLICAN,HOUSE,Representative,Rep.,https://bilirakis.house.gov
+B001260,Vern,Buchanan,FL,Florida,16,FL16,16th,REPUBLICAN,HOUSE,Representative,Rep.,https://buchanan.house.gov
+B001261,John,Barrasso,WY,Wyoming,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.barrasso.senate.gov
+B001267,Michael F.,Bennet,CO,Colorado,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.bennet.senate.gov
+B001269,Lou,Barletta,PA,Pennsylvania,11,PA11,11th,REPUBLICAN,HOUSE,Representative,Rep.,http://barletta.house.gov
+B001270,Karen,Bass,CA,California,37,CA37,37th,DEMOCRAT,HOUSE,Representative,Rep.,https://bass.house.gov
+B001273,Diane,Black,TN,Tennessee,6,TN06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://black.house.gov
+B001274,Mo,Brooks,AL,Alabama,5,AL05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://brooks.house.gov
+B001275,Larry,Bucshon,IN,Indiana,8,IN08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://bucshon.house.gov
+B001277,Richard,Blumenthal,CT,Connecticut,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.blumenthal.senate.gov
+B001278,Suzanne,Bonamici,OR,Oregon,1,OR01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://bonamici.house.gov
+B001281,Joyce,Beatty,OH,Ohio,3,OH03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,http://beatty.house.gov
+B001282,Andy,Barr,KY,Kentucky,6,KY06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://barr.house.gov
+B001283,Jim,Bridenstine,OK,Oklahoma,1,OK01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://bridenstine.house.gov
+B001284,Susan,Brooks,IN,Indiana,5,IN05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://susanwbrooks.house.gov
+B001285,Julia,Brownley,CA,California,26,CA26,26th,DEMOCRAT,HOUSE,Representative,Rep.,http://juliabrownley.house.gov
+B001286,Cheri,Bustos,IL,Illinois,17,IL17,17th,DEMOCRAT,HOUSE,Representative,Rep.,https://bustos.house.gov
+B001287,Ami,Bera,CA,California,7,CA07,7th,DEMOCRAT,HOUSE,Representative,Rep.,http://bera.house.gov
+B001288,Cory A.,Booker,NJ,New Jersey,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.booker.senate.gov
+B001289,Bradley,Byrne,AL,Alabama,1,AL01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://byrne.house.gov
+B001290,Dave,Brat,VA,Virginia,7,VA07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://brat.house.gov
+B001291,Brian,Babin,TX,Texas,36,TX36,36th,REPUBLICAN,HOUSE,Representative,Rep.,http://babin.house.gov
+B001292,Donald,Beyer,VA,Virginia,8,VA08,8th,DEMOCRAT,HOUSE,Representative,Rep.,http://beyer.house.gov
+B001293,Mike,Bishop,MI,Michigan,8,MI08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://mikebishop.house.gov
+B001294,Rod,Blum,IA,Iowa,1,IA01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://blum.house.gov
+B001295,Mike,Bost,IL,Illinois,12,IL12,12th,REPUBLICAN,HOUSE,Representative,Rep.,https://bost.house.gov
+B001296,Brendan,Boyle,PA,Pennsylvania,13,PA13,13th,DEMOCRAT,HOUSE,Representative,Rep.,https://boyle.house.gov
+B001297,Ken,Buck,CO,Colorado,4,CO04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://buck.house.gov
+B001298,Don,Bacon,NE,Nebraska,2,NE02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://bacon.house.gov
+B001299,Jim,Banks,IN,Indiana,3,IN03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://banks.house.gov
+B001300,Nanette,Barragán,CA,California,44,CA44,44th,DEMOCRAT,HOUSE,Representative,Rep.,https://barragan.house.gov
+B001301,Jack,Bergman,MI,Michigan,1,MI01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://bergman.house.gov
+B001302,Andy,Biggs,AZ,Arizona,5,AZ05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://biggs.house.gov
+B001303,Lisa,Blunt Rochester,DE,Delaware,0,DE00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,https://bluntrochester.house.gov
+B001304,Anthony,Brown,MD,Maryland,4,MD04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://anthonybrown.house.gov
+B001305,Ted,Budd,NC,North Carolina,13,NC13,13th,REPUBLICAN,HOUSE,Representative,Rep.,https://budd.house.gov
+C000059,Ken,Calvert,CA,California,42,CA42,42nd,REPUBLICAN,HOUSE,Representative,Rep.,http://calvert.house.gov
+C000127,Maria,Cantwell,WA,Washington,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.cantwell.senate.gov
+C000141,Benjamin L.,Cardin,MD,Maryland,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.cardin.senate.gov/
+C000174,Thomas R.,Carper,DE,Delaware,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.carper.senate.gov
+C000266,Steve,Chabot,OH,Ohio,1,OH01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://chabot.house.gov
+C000537,James,Clyburn,SC,South Carolina,6,SC06,6th,DEMOCRAT,HOUSE,Representative,Rep.,http://clyburn.house.gov
+C000567,Thad,Cochran,MS,Mississippi,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.cochran.senate.gov
+C000714,John,Conyers,MI,Michigan,13,MI13,13th,DEMOCRAT,HOUSE,Representative,Rep.,https://conyers.house.gov
+C000754,Jim,Cooper,TN,Tennessee,5,TN05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://cooper.house.gov
+C000880,Mike,Crapo,ID,Idaho,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.crapo.senate.gov
+C000984,Elijah,Cummings,MD,Maryland,7,MD07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://cummings.house.gov
+C001035,Susan M.,Collins,ME,Maine,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.collins.senate.gov
+C001037,Michael,Capuano,MA,Massachusetts,7,MA07,7th,DEMOCRAT,HOUSE,Representative,Rep.,http://capuano.house.gov
+C001038,Joseph,Crowley,NY,New York,14,NY14,14th,DEMOCRAT,HOUSE,Representative,Rep.,http://crowley.house.gov
+C001047,Shelley Moore,Capito,WV,West Virginia,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.capito.senate.gov
+C001048,John,Culberson,TX,Texas,7,TX07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://culberson.house.gov
+C001049,Wm.,Clay,MO,Missouri,1,MO01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://lacyclay.house.gov
+C001051,John,Carter,TX,Texas,31,TX31,31st,REPUBLICAN,HOUSE,Representative,Rep.,https://carter.house.gov
+C001053,Tom,Cole,OK,Oklahoma,4,OK04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://cole.house.gov
+C001056,John,Cornyn,TX,Texas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.cornyn.senate.gov/
+C001059,Jim,Costa,CA,California,16,CA16,16th,DEMOCRAT,HOUSE,Representative,Rep.,https://costa.house.gov
+C001061,Emanuel,Cleaver,MO,Missouri,5,MO05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://cleaver.house.gov
+C001062,K.,Conaway,TX,Texas,11,TX11,11th,REPUBLICAN,HOUSE,Representative,Rep.,http://conaway.house.gov
+C001063,Henry,Cuellar,TX,Texas,28,TX28,28th,DEMOCRAT,HOUSE,Representative,Rep.,http://cuellar.house.gov
+C001066,Kathy,Castor,FL,Florida,14,FL14,14th,DEMOCRAT,HOUSE,Representative,Rep.,http://castor.house.gov
+C001067,Yvette,Clarke,NY,New York,9,NY09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://clarke.house.gov
+C001068,Steve,Cohen,TN,Tennessee,9,TN09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://cohen.house.gov
+C001069,Joe,Courtney,CT,Connecticut,2,CT02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://courtney.house.gov
+C001070,"Robert P., Jr.",Casey,PA,Pennsylvania,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.casey.senate.gov/
+C001071,Bob,Corker,TN,Tennessee,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.corker.senate.gov/
+C001072,André,Carson,IN,Indiana,7,IN07,7th,DEMOCRAT,HOUSE,Representative,Rep.,http://carson.house.gov
+C001075,Bill,Cassidy,LA,Louisiana,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.cassidy.senate.gov
+C001076,Jason,Chaffetz,UT,Utah,3,UT03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://chaffetz.house.gov
+C001077,Mike,Coffman,CO,Colorado,6,CO06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://coffman.house.gov
+C001078,Gerald,Connolly,VA,Virginia,11,VA11,11th,DEMOCRAT,HOUSE,Representative,Rep.,https://connolly.house.gov
+C001080,Judy,Chu,CA,California,27,CA27,27th,DEMOCRAT,HOUSE,Representative,Rep.,https://chu.house.gov
+C001084,David,Cicilline,RI,Rhode Island,1,RI01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://cicilline.house.gov
+C001087,Eric,Crawford,AR,Arkansas,1,AR01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://crawford.house.gov
+C001088,Christopher A.,Coons,DE,Delaware,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.coons.senate.gov/
+C001090,Matt,Cartwright,PA,Pennsylvania,17,PA17,17th,DEMOCRAT,HOUSE,Representative,Rep.,http://cartwright.house.gov
+C001091,Joaquin,Castro,TX,Texas,20,TX20,20th,DEMOCRAT,HOUSE,Representative,Rep.,https://castro.house.gov
+C001092,Chris,Collins,NY,New York,27,NY27,27th,REPUBLICAN,HOUSE,Representative,Rep.,https://chriscollins.house.gov
+C001093,Doug,Collins,GA,Georgia,9,GA09,9th,REPUBLICAN,HOUSE,Representative,Rep.,https://dougcollins.house.gov
+C001094,Paul,Cook,CA,California,8,CA08,8th,REPUBLICAN,HOUSE,Representative,Rep.,http://cook.house.gov
+C001095,Tom,Cotton,AR,Arkansas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.cotton.senate.gov
+C001096,Kevin,Cramer,ND,North Dakota,0,ND00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,http://cramer.house.gov
+C001097,Tony,Cárdenas,CA,California,29,CA29,29th,DEMOCRAT,HOUSE,Representative,Rep.,https://cardenas.house.gov
+C001098,Ted,Cruz,TX,Texas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.cruz.senate.gov
+C001101,Katherine,Clark,MA,Massachusetts,5,MA05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://katherineclark.house.gov
+C001103,Earl,Carter,GA,Georgia,1,GA01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://buddycarter.house.gov
+C001105,Barbara,Comstock,VA,Virginia,10,VA10,10th,REPUBLICAN,HOUSE,Representative,Rep.,https://comstock.house.gov
+C001106,Ryan,Costello,PA,Pennsylvania,6,PA06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://costello.house.gov
+C001107,Carlos,Curbelo,FL,Florida,26,FL26,26th,REPUBLICAN,HOUSE,Representative,Rep.,http://curbelo.house.gov
+C001108,James,Comer,KY,Kentucky,1,KY01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://comer.house.gov
+C001109,Liz,Cheney,WY,Wyoming,0,WY00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,https://cheney.house.gov
+C001110,J.,Correa,CA,California,46,CA46,46th,DEMOCRAT,HOUSE,Representative,Rep.,https://correa.house.gov
+C001111,Charlie,Crist,FL,Florida,13,FL13,13th,DEMOCRAT,HOUSE,Representative,Rep.,https://crist.house.gov
+C001112,Salud,Carbajal,CA,California,24,CA24,24th,DEMOCRAT,HOUSE,Representative,Rep.,https://carbajal.house.gov
+C001113,Catherine,Cortez Masto,NV,Nevada,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.cortezmasto.senate.gov
+D000096,Danny,Davis,IL,Illinois,7,IL07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://davis.house.gov
+D000191,Peter,DeFazio,OR,Oregon,4,OR04,4th,DEMOCRAT,HOUSE,Representative,Rep.,http://defazio.house.gov
+D000197,Diana,DeGette,CO,Colorado,1,CO01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://degette.house.gov
+D000216,Rosa,DeLauro,CT,Connecticut,3,CT03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://delauro.house.gov
+D000399,Lloyd,Doggett,TX,Texas,35,TX35,35th,DEMOCRAT,HOUSE,Representative,Rep.,https://doggett.house.gov
+D000482,Michael,Doyle,PA,Pennsylvania,14,PA14,14th,DEMOCRAT,HOUSE,Representative,Rep.,http://doyle.house.gov
+D000533,John,Duncan,TN,Tennessee,2,TN02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://duncan.house.gov
+D000563,Richard J.,Durbin,IL,Illinois,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.durbin.senate.gov
+D000598,Susan,Davis,CA,California,53,CA53,53rd,DEMOCRAT,HOUSE,Representative,Rep.,https://susandavis.house.gov
+D000600,Mario,Diaz-Balart,FL,Florida,25,FL25,25th,REPUBLICAN,HOUSE,Representative,Rep.,http://mariodiazbalart.house.gov
+D000604,Charles,Dent,PA,Pennsylvania,15,PA15,15th,REPUBLICAN,HOUSE,Representative,Rep.,https://dent.house.gov
+D000607,Joe,Donnelly,IN,Indiana,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.donnelly.senate.gov
+D000610,Theodore,Deutch,FL,Florida,21,FL21,21st,DEMOCRAT,HOUSE,Representative,Rep.,http://frankel.house.gov
+D000612,Jeff,Denham,CA,California,10,CA10,10th,REPUBLICAN,HOUSE,Representative,Rep.,http://denham.house.gov
+D000614,Sean,Duffy,WI,Wisconsin,7,WI07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://duffy.house.gov
+D000615,Jeff,Duncan,SC,South Carolina,3,SC03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://jeffduncan.house.gov
+D000616,Scott,DesJarlais,TN,Tennessee,4,TN04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://desjarlais.house.gov
+D000617,Suzan,DelBene,WA,Washington,1,WA01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://delbene.house.gov
+D000618,Steve,Daines,MT,Montana,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.daines.senate.gov
+D000619,Rodney,Davis,IL,Illinois,13,IL13,13th,REPUBLICAN,HOUSE,Representative,Rep.,http://rodneydavis.house.gov
+D000620,John,Delaney,MD,Maryland,6,MD06,6th,DEMOCRAT,HOUSE,Representative,Rep.,http://delaney.house.gov
+D000621,Ron,DeSantis,FL,Florida,6,FL06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://desantis.house.gov
+D000622,Tammy,Duckworth,IL,Illinois,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.duckworth.senate.gov
+D000623,Mark,DeSaulnier,CA,California,11,CA11,11th,DEMOCRAT,HOUSE,Representative,Rep.,https://desaulnier.house.gov
+D000624,Debbie,Dingell,MI,Michigan,12,MI12,12th,DEMOCRAT,HOUSE,Representative,Rep.,https://debbiedingell.house.gov
+D000625,Daniel,Donovan,NY,New York,11,NY11,11th,REPUBLICAN,HOUSE,Representative,Rep.,https://donovan.house.gov
+D000626,Warren,Davidson,OH,Ohio,8,OH08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://davidson.house.gov
+D000627,Val,Demings,FL,Florida,10,FL10,10th,DEMOCRAT,HOUSE,Representative,Rep.,https://demings.house.gov
+D000628,Neal,Dunn,FL,Florida,2,FL02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://dunn.house.gov
+E000179,Eliot,Engel,NY,New York,16,NY16,16th,DEMOCRAT,HOUSE,Representative,Rep.,https://engel.house.gov
+E000215,Anna,Eshoo,CA,California,18,CA18,18th,DEMOCRAT,HOUSE,Representative,Rep.,http://eshoo.house.gov
+E000285,Michael B.,Enzi,WY,Wyoming,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.enzi.senate.gov
+E000288,Keith,Ellison,MN,Minnesota,5,MN05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://ellison.house.gov
+E000293,Elizabeth,Esty,CT,Connecticut,5,CT05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://esty.house.gov
+E000294,Tom,Emmer,MN,Minnesota,6,MN06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://emmer.house.gov
+E000295,Joni,Ernst,IA,Iowa,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.ernst.senate.gov
+E000296,Dwight,Evans,PA,Pennsylvania,2,PA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://evans.house.gov
+E000297,Adriano,Espaillat,NY,New York,13,NY13,13th,DEMOCRAT,HOUSE,Representative,Rep.,https://espaillat.house.gov
+F000062,Dianne,Feinstein,CA,California,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.feinstein.senate.gov
+F000372,Rodney,Frelinghuysen,NJ,New Jersey,11,NJ11,11th,REPUBLICAN,HOUSE,Representative,Rep.,https://frelinghuysen.house.gov
+F000444,Jeff,Flake,AZ,Arizona,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.flake.senate.gov
+F000448,Trent,Franks,AZ,Arizona,8,AZ08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://franks.house.gov
+F000449,Jeff,Fortenberry,NE,Nebraska,1,NE01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://fortenberry.house.gov
+F000450,Virginia,Foxx,NC,North Carolina,5,NC05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://foxx.house.gov
+F000454,Bill,Foster,IL,Illinois,11,IL11,11th,DEMOCRAT,HOUSE,Representative,Rep.,http://foster.house.gov
+F000455,Marcia,Fudge,OH,Ohio,11,OH11,11th,DEMOCRAT,HOUSE,Representative,Rep.,https://fudge.house.gov
+F000457,Al,Franken,MN,Minnesota,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.franken.senate.gov
+F000459,Charles,Fleischmann,TN,Tennessee,3,TN03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://fleischmann.house.gov
+F000460,Blake,Farenthold,TX,Texas,27,TX27,27th,REPUBLICAN,HOUSE,Representative,Rep.,http://farenthold.house.gov
+F000461,Bill,Flores,TX,Texas,17,TX17,17th,REPUBLICAN,HOUSE,Representative,Rep.,http://flores.house.gov
+F000462,Lois,Frankel,FL,Florida,22,FL22,22nd,DEMOCRAT,HOUSE,Representative,Rep.,http://teddeutch.house.gov
+F000463,Deb,Fischer,NE,Nebraska,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.fischer.senate.gov
+F000464,John,Faso,NY,New York,19,NY19,19th,REPUBLICAN,HOUSE,Representative,Rep.,https://faso.house.gov
+F000465,A.,Ferguson,GA,Georgia,3,GA03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://ferguson.house.gov
+F000466,Brian,Fitzpatrick,PA,Pennsylvania,8,PA08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://brianfitzpatrick.house.gov
+G000289,Bob,Goodlatte,VA,Virginia,6,VA06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://goodlatte.house.gov
+G000359,Lindsey,Graham,SC,South Carolina,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.lgraham.senate.gov/
+G000377,Kay,Granger,TX,Texas,12,TX12,12th,REPUBLICAN,HOUSE,Representative,Rep.,http://kaygranger.house.gov
+G000386,Chuck,Grassley,IA,Iowa,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.grassley.senate.gov
+G000410,Gene,Green,TX,Texas,29,TX29,29th,DEMOCRAT,HOUSE,Representative,Rep.,https://green.house.gov
+G000535,Luis,Gutiérrez,IL,Illinois,4,IL04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://gutierrez.house.gov
+G000546,Sam,Graves,MO,Missouri,6,MO06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://graves.house.gov
+G000551,Raúl,Grijalva,AZ,Arizona,3,AZ03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://grijalva.house.gov
+G000552,Louie,Gohmert,TX,Texas,1,TX01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://gohmert.house.gov
+G000553,Al,Green,TX,Texas,9,TX09,9th,DEMOCRAT,HOUSE,Representative,Rep.,http://algreen.house.gov
+G000555,Kirsten E.,Gillibrand,NY,New York,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.gillibrand.senate.gov
+G000558,Brett,Guthrie,KY,Kentucky,2,KY02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://guthrie.house.gov
+G000559,John,Garamendi,CA,California,3,CA03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,http://garamendi.house.gov
+G000560,Tom,Graves,GA,Georgia,14,GA14,14th,REPUBLICAN,HOUSE,Representative,Rep.,http://tomgraves.house.gov
+G000562,Cory,Gardner,CO,Colorado,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.gardner.senate.gov
+G000563,Bob,Gibbs,OH,Ohio,7,OH07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://gibbs.house.gov
+G000565,Paul,Gosar,AZ,Arizona,4,AZ04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://gosar.house.gov
+G000566,Trey,Gowdy,SC,South Carolina,4,SC04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://gowdy.house.gov
+G000568,Morgan,Griffith,VA,Virginia,9,VA09,9th,REPUBLICAN,HOUSE,Representative,Rep.,http://morgangriffith.house.gov
+G000571,Tulsi,Gabbard,HI,Hawaii,2,HI02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://gabbard.house.gov
+G000574,Ruben,Gallego,AZ,Arizona,7,AZ07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://rubengallego.house.gov
+G000576,Glenn,Grothman,WI,Wisconsin,6,WI06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://grothman.house.gov
+G000577,Garret,Graves,LA,Louisiana,6,LA06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://garretgraves.house.gov
+G000578,Matt,Gaetz,FL,Florida,1,FL01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://gaetz.house.gov
+G000579,Mike,Gallagher,WI,Wisconsin,8,WI08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://gallagher.house.gov
+G000580,Thomas,Garrett,VA,Virginia,5,VA05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://tomgarrett.house.gov
+G000581,Vicente,Gonzalez,TX,Texas,15,TX15,15th,DEMOCRAT,HOUSE,Representative,Rep.,https://gonzalez.house.gov
+G000582,Jenniffer,González-Colón,PR,Puerto Rico,0,PR00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,https://gonzalez-colon.house.gov
+G000583,Josh,Gottheimer,NJ,New Jersey,5,NJ05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://gottheimer.house.gov
+H000324,Alcee,Hastings,FL,Florida,20,FL20,20th,DEMOCRAT,HOUSE,Representative,Rep.,http://alceehastings.house.gov
+H000338,Orrin G.,Hatch,UT,Utah,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.hatch.senate.gov/
+H000874,Steny,Hoyer,MD,Maryland,5,MD05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://hoyer.house.gov
+H001036,Jeb,Hensarling,TX,Texas,5,TX05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://hensarling.house.gov
+H001038,Brian,Higgins,NY,New York,26,NY26,26th,DEMOCRAT,HOUSE,Representative,Rep.,http://higgins.house.gov
+H001041,Dean,Heller,NV,Nevada,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.heller.senate.gov/
+H001042,Mazie K.,Hirono,HI,Hawaii,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.hirono.senate.gov/
+H001045,Gregg,Harper,MS,Mississippi,3,MS03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://harper.house.gov
+H001046,Martin,Heinrich,NM,New Mexico,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.heinrich.senate.gov/
+H001047,James,Himes,CT,Connecticut,4,CT04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://himes.house.gov
+H001048,Duncan,Hunter,CA,California,50,CA50,50th,REPUBLICAN,HOUSE,Representative,Rep.,https://hunter.house.gov
+H001050,Colleen,Hanabusa,HI,Hawaii,1,HI01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://hanabusa.house.gov
+H001052,Andy,Harris,MD,Maryland,1,MD01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://harris.house.gov
+H001053,Vicky,Hartzler,MO,Missouri,4,MO04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://hartzler.house.gov
+H001056,Jaime,Herrera Beutler,WA,Washington,3,WA03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://herrerabeutler.house.gov
+H001058,Bill,Huizenga,MI,Michigan,2,MI02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://huizenga.house.gov
+H001059,Randy,Hultgren,IL,Illinois,14,IL14,14th,REPUBLICAN,HOUSE,Representative,Rep.,http://hultgren.house.gov
+H001061,John,Hoeven,ND,North Dakota,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.hoeven.senate.gov
+H001064,Denny,Heck,WA,Washington,10,WA10,10th,DEMOCRAT,HOUSE,Representative,Rep.,http://dennyheck.house.gov
+H001065,George,Holding,NC,North Carolina,2,NC02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://holding.house.gov
+H001067,Richard,Hudson,NC,North Carolina,8,NC08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://hudson.house.gov
+H001068,Jared,Huffman,CA,California,2,CA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://huffman.house.gov
+H001069,Heidi,Heitkamp,ND,North Dakota,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.heitkamp.senate.gov/
+H001071,Jody,Hice,GA,Georgia,10,GA10,10th,REPUBLICAN,HOUSE,Representative,Rep.,https://hice.house.gov
+H001072,J.,Hill,AR,Arkansas,2,AR02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://hill.house.gov
+H001073,Will,Hurd,TX,Texas,23,TX23,23rd,REPUBLICAN,HOUSE,Representative,Rep.,https://hurd.house.gov
+H001074,Trey,Hollingsworth,IN,Indiana,9,IN09,9th,REPUBLICAN,HOUSE,Representative,Rep.,https://hollingsworth.house.gov
+H001075,Kamala D.,Harris,CA,California,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.harris.senate.gov
+H001076,Margaret Wood,Hassan,NH,New Hampshire,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.hassan.senate.gov
+H001077,Clay,Higgins,LA,Louisiana,3,LA03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://clayhiggins.house.gov
+I000024,James M.,Inhofe,OK,Oklahoma,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.inhofe.senate.gov/
+I000055,Johnny,Isakson,GA,Georgia,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.isakson.senate.gov
+I000056,Darrell,Issa,CA,California,49,CA49,49th,REPUBLICAN,HOUSE,Representative,Rep.,https://issa.house.gov
+J000032,Sheila,Jackson Lee,TX,Texas,18,TX18,18th,DEMOCRAT,HOUSE,Representative,Rep.,http://jacksonlee.house.gov
+J000126,Eddie,Johnson,TX,Texas,30,TX30,30th,DEMOCRAT,HOUSE,Representative,Rep.,http://ebjohnson.house.gov
+J000174,Sam,Johnson,TX,Texas,3,TX03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://samjohnson.house.gov
+J000255,Walter,Jones,NC,North Carolina,3,NC03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://jones.house.gov
+J000288,Henry,Johnson,GA,Georgia,4,GA04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://hankjohnson.house.gov
+J000289,Jim,Jordan,OH,Ohio,4,OH04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://jordan.house.gov
+J000290,Lynn,Jenkins,KS,Kansas,2,KS02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://lynnjenkins.house.gov
+J000292,Bill,Johnson,OH,Ohio,6,OH06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://billjohnson.house.gov
+J000293,Ron,Johnson,WI,Wisconsin,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.ronjohnson.senate.gov/
+J000294,Hakeem,Jeffries,NY,New York,8,NY08,8th,DEMOCRAT,HOUSE,Representative,Rep.,http://jeffries.house.gov
+J000295,David,Joyce,OH,Ohio,14,OH14,14th,REPUBLICAN,HOUSE,Representative,Rep.,https://joyce.house.gov
+J000297,Evan,Jenkins,WV,West Virginia,3,WV03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://evanjenkins.house.gov
+J000298,Pramila,Jayapal,WA,Washington,7,WA07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://jayapal.house.gov
+J000299,Mike,Johnson,LA,Louisiana,4,LA04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://mikejohnson.house.gov
+K000009,Marcy,Kaptur,OH,Ohio,9,OH09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://kaptur.house.gov
+K000188,Ron,Kind,WI,Wisconsin,3,WI03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://kind.house.gov
+K000210,Peter,King,NY,New York,2,NY02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://peteking.house.gov
+K000362,Steve,King,IA,Iowa,4,IA04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://steveking.house.gov
+K000367,Amy,Klobuchar,MN,Minnesota,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.klobuchar.senate.gov/
+K000375,William,Keating,MA,Massachusetts,9,MA09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://keating.house.gov
+K000376,Mike,Kelly,PA,Pennsylvania,3,PA03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://kelly.house.gov
+K000378,Adam,Kinzinger,IL,Illinois,16,IL16,16th,REPUBLICAN,HOUSE,Representative,Rep.,http://kinzinger.house.gov
+K000379,Joseph,Kennedy,MA,Massachusetts,4,MA04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://kennedy.house.gov
+K000380,Daniel,Kildee,MI,Michigan,5,MI05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://dankildee.house.gov
+K000381,Derek,Kilmer,WA,Washington,6,WA06,6th,DEMOCRAT,HOUSE,Representative,Rep.,https://kilmer.house.gov
+K000382,Ann,Kuster,NH,New Hampshire,2,NH02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://kuster.house.gov
+K000383,"Angus S., Jr.",King,ME,Maine,,,,INDEPENDENT,SENATE,Senator,Sen.,http://www.king.senate.gov/
+K000384,Tim,Kaine,VA,Virginia,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.kaine.senate.gov/
+K000385,Robin,Kelly,IL,Illinois,2,IL02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://robinkelly.house.gov
+K000386,John,Katko,NY,New York,24,NY24,24th,REPUBLICAN,HOUSE,Representative,Rep.,https://katko.house.gov
+K000387,Stephen,Knight,CA,California,25,CA25,25th,REPUBLICAN,HOUSE,Representative,Rep.,https://knight.house.gov
+K000388,Trent,Kelly,MS,Mississippi,1,MS01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://trentkelly.house.gov
+K000389,Ro,Khanna,CA,California,17,CA17,17th,DEMOCRAT,HOUSE,Representative,Rep.,https://khanna.house.gov
+K000390,Ruben,Kihuen,NV,Nevada,4,NV04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://kihuen.house.gov
+K000391,Raja,Krishnamoorthi,IL,Illinois,8,IL08,8th,DEMOCRAT,HOUSE,Representative,Rep.,https://krishnamoorthi.house.gov
+K000392,David,Kustoff,TN,Tennessee,8,TN08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://kustoff.house.gov
+K000393,John,Kennedy,LA,Louisiana,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.kennedy.senate.gov
+L000174,Patrick J.,Leahy,VT,Vermont,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.leahy.senate.gov/
+L000263,Sander,Levin,MI,Michigan,9,MI09,9th,DEMOCRAT,HOUSE,Representative,Rep.,http://levin.house.gov
+L000287,John,Lewis,GA,Georgia,5,GA05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://johnlewis.house.gov
+L000397,Zoe,Lofgren,CA,California,19,CA19,19th,DEMOCRAT,HOUSE,Representative,Rep.,https://lofgren.house.gov
+L000480,Nita,Lowey,NY,New York,17,NY17,17th,DEMOCRAT,HOUSE,Representative,Rep.,https://lowey.house.gov
+L000491,Frank,Lucas,OK,Oklahoma,3,OK03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://lucas.house.gov
+L000551,Barbara,Lee,CA,California,13,CA13,13th,DEMOCRAT,HOUSE,Representative,Rep.,https://lee.house.gov
+L000554,Frank,LoBiondo,NJ,New Jersey,2,NJ02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://lobiondo.house.gov
+L000557,John,Larson,CT,Connecticut,1,CT01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://larson.house.gov
+L000559,James,Langevin,RI,Rhode Island,2,RI02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://langevin.house.gov
+L000560,Rick,Larsen,WA,Washington,2,WA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://larsen.house.gov
+L000562,Stephen,Lynch,MA,Massachusetts,8,MA08,8th,DEMOCRAT,HOUSE,Representative,Rep.,http://lynch.house.gov
+L000563,Daniel,Lipinski,IL,Illinois,3,IL03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://lipinski.house.gov
+L000564,Doug,Lamborn,CO,Colorado,5,CO05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://lamborn.house.gov
+L000565,David,Loebsack,IA,Iowa,2,IA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://loebsack.house.gov
+L000566,Robert,Latta,OH,Ohio,5,OH05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://latta.house.gov
+L000567,Leonard,Lance,NJ,New Jersey,7,NJ07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://lance.house.gov
+L000569,Blaine,Luetkemeyer,MO,Missouri,3,MO03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://luetkemeyer.house.gov
+L000570,Ben,Luján,NM,New Mexico,3,NM03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://lujan.house.gov
+L000573,Raúl,Labrador,ID,Idaho,1,ID01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://labrador.house.gov
+L000575,James,Lankford,OK,Oklahoma,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.lankford.senate.gov
+L000576,Billy,Long,MO,Missouri,7,MO07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://long.house.gov
+L000577,Mike,Lee,UT,Utah,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.lee.senate.gov/
+L000578,Doug,LaMalfa,CA,California,1,CA01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://lamalfa.house.gov
+L000579,Alan,Lowenthal,CA,California,47,CA47,47th,DEMOCRAT,HOUSE,Representative,Rep.,http://lowenthal.house.gov
+L000580,Michelle,Lujan Grisham,NM,New Mexico,1,NM01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://lujangrisham.house.gov
+L000581,Brenda,Lawrence,MI,Michigan,14,MI14,14th,DEMOCRAT,HOUSE,Representative,Rep.,https://lawrence.house.gov
+L000582,Ted,Lieu,CA,California,33,CA33,33rd,DEMOCRAT,HOUSE,Representative,Rep.,https://lieu.house.gov
+L000583,Barry,Loudermilk,GA,Georgia,11,GA11,11th,REPUBLICAN,HOUSE,Representative,Rep.,http://loudermilk.house.gov
+L000584,Mia,Love,UT,Utah,4,UT04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://love.house.gov
+L000585,Darin,LaHood,IL,Illinois,18,IL18,18th,REPUBLICAN,HOUSE,Representative,Rep.,https://lahood.house.gov
+L000586,Al,Lawson,FL,Florida,5,FL05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://lawson.house.gov
+L000587,Jason,Lewis,MN,Minnesota,2,MN02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://jasonlewis.house.gov
+M000087,Carolyn,Maloney,NY,New York,12,NY12,12th,DEMOCRAT,HOUSE,Representative,Rep.,http://maloney.house.gov
+M000133,Edward J.,Markey,MA,Massachusetts,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.markey.senate.gov/
+M000303,John,McCain,AZ,Arizona,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.mccain.senate.gov/
+M000312,James,McGovern,MA,Massachusetts,2,MA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://mcgovern.house.gov
+M000355,Mitch,McConnell,KY,Kentucky,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.mcconnell.senate.gov/
+M000639,Robert,Menendez,NJ,New Jersey,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.menendez.senate.gov/
+M000934,Jerry,Moran,KS,Kansas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.moran.senate.gov
+M001111,Patty,Murray,WA,Washington,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.murray.senate.gov/
+M001137,Gregory,Meeks,NY,New York,5,NY05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://meeks.house.gov
+M001143,Betty,McCollum,MN,Minnesota,4,MN04,4th,DEMOCRAT,HOUSE,Representative,Rep.,http://mccollum.house.gov
+M001151,Tim,Murphy,PA,Pennsylvania,18,PA18,18th,REPUBLICAN,HOUSE,Representative,Rep.,https://murphy.house.gov
+M001153,Lisa,Murkowski,AK,Alaska,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.murkowski.senate.gov/
+M001156,Patrick,McHenry,NC,North Carolina,10,NC10,10th,REPUBLICAN,HOUSE,Representative,Rep.,http://mchenry.house.gov
+M001157,Michael,McCaul,TX,Texas,10,TX10,10th,REPUBLICAN,HOUSE,Representative,Rep.,http://mccaul.house.gov
+M001158,Kenny,Marchant,TX,Texas,24,TX24,24th,REPUBLICAN,HOUSE,Representative,Rep.,https://marchant.house.gov
+M001159,Cathy,McMorris Rodgers,WA,Washington,5,WA05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://mcmorris.house.gov
+M001160,Gwen,Moore,WI,Wisconsin,4,WI04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://gwenmoore.house.gov
+M001163,Doris,Matsui,CA,California,6,CA06,6th,DEMOCRAT,HOUSE,Representative,Rep.,https://matsui.house.gov
+M001165,Kevin,McCarthy,CA,California,23,CA23,23rd,REPUBLICAN,HOUSE,Representative,Rep.,http://kevinmccarthy.house.gov
+M001166,Jerry,McNerney,CA,California,9,CA09,9th,DEMOCRAT,HOUSE,Representative,Rep.,http://mcnerney.house.gov
+M001169,Christopher,Murphy,CT,Connecticut,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.murphy.senate.gov/
+M001170,Claire,McCaskill,MO,Missouri,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.mccaskill.senate.gov/
+M001176,Jeff,Merkley,OR,Oregon,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.merkley.senate.gov
+M001177,Tom,McClintock,CA,California,4,CA04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://mcclintock.house.gov
+M001179,Tom,Marino,PA,Pennsylvania,10,PA10,10th,REPUBLICAN,HOUSE,Representative,Rep.,https://marino.house.gov
+M001180,David,McKinley,WV,West Virginia,1,WV01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://mckinley.house.gov
+M001181,Patrick,Meehan,PA,Pennsylvania,7,PA07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://meehan.house.gov
+M001182,Mick,Mulvaney,SC,South Carolina,5,SC05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://mulvaney.house.gov
+M001183,"Joe, III",Manchin,WV,West Virginia,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.manchin.senate.gov/
+M001184,Thomas,Massie,KY,Kentucky,4,KY04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://massie.house.gov
+M001185,Sean,Maloney,NY,New York,18,NY18,18th,DEMOCRAT,HOUSE,Representative,Rep.,http://seanmaloney.house.gov
+M001187,Mark,Meadows,NC,North Carolina,11,NC11,11th,REPUBLICAN,HOUSE,Representative,Rep.,https://meadows.house.gov
+M001188,Grace,Meng,NY,New York,6,NY06,6th,DEMOCRAT,HOUSE,Representative,Rep.,http://meng.house.gov
+M001189,Luke,Messer,IN,Indiana,6,IN06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://messer.house.gov
+M001190,Markwayne,Mullin,OK,Oklahoma,2,OK02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://mullin.house.gov
+M001193,Thomas,MacArthur,NJ,New Jersey,3,NJ03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://macarthur.house.gov
+M001194,John,Moolenaar,MI,Michigan,4,MI04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://moolenaar.house.gov
+M001195,Alexander,Mooney,WV,West Virginia,2,WV02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://mooney.house.gov
+M001196,Seth,Moulton,MA,Massachusetts,6,MA06,6th,DEMOCRAT,HOUSE,Representative,Rep.,http://moulton.house.gov
+M001197,Martha,McSally,AZ,Arizona,2,AZ02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://mcsally.house.gov
+M001198,Roger,Marshall,KS,Kansas,1,KS01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://marshall.house.gov
+M001199,Brian,Mast,FL,Florida,18,FL18,18th,REPUBLICAN,HOUSE,Representative,Rep.,https://mast.house.gov
+M001200,A.,McEachin,VA,Virginia,4,VA04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://mceachin.house.gov
+M001201,Paul,Mitchell,MI,Michigan,10,MI10,10th,REPUBLICAN,HOUSE,Representative,Rep.,https://mitchell.house.gov
+M001202,Stephanie,Murphy,FL,Florida,7,FL07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://stephaniemurphy.house.gov
+N000002,Jerrold,Nadler,NY,New York,10,NY10,10th,DEMOCRAT,HOUSE,Representative,Rep.,http://nadler.house.gov
+N000015,Richard,Neal,MA,Massachusetts,1,MA01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://neal.house.gov
+N000032,Bill,Nelson,FL,Florida,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.billnelson.senate.gov/
+N000127,Richard,Nolan,MN,Minnesota,8,MN08,8th,DEMOCRAT,HOUSE,Representative,Rep.,http://nolan.house.gov
+N000147,Eleanor,Norton,DC,District of Columbia,0,DC00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,https://norton.house.gov
+N000179,Grace,Napolitano,CA,California,32,CA32,32nd,DEMOCRAT,HOUSE,Representative,Rep.,http://napolitano.house.gov
+N000181,Devin,Nunes,CA,California,22,CA22,22nd,REPUBLICAN,HOUSE,Representative,Rep.,http://nunes.house.gov
+N000184,Kristi,Noem,SD,South Dakota,0,SD00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,https://noem.house.gov
+N000188,Donald,Norcross,NJ,New Jersey,1,NJ01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://norcross.house.gov
+N000189,Dan,Newhouse,WA,Washington,4,WA04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://newhouse.house.gov
+O000168,Pete,Olson,TX,Texas,22,TX22,22nd,REPUBLICAN,HOUSE,Representative,Rep.,https://olson.house.gov
+O000170,Beto,O'Rourke,TX,Texas,16,TX16,16th,DEMOCRAT,HOUSE,Representative,Rep.,http://orourke.house.gov
+O000171,Tom,O'Halleran,AZ,Arizona,1,AZ01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://ohalleran.house.gov
+P000034,Frank,Pallone,NJ,New Jersey,6,NJ06,6th,DEMOCRAT,HOUSE,Representative,Rep.,https://pallone.house.gov
+P000096,Bill,Pascrell,NJ,New Jersey,9,NJ09,9th,DEMOCRAT,HOUSE,Representative,Rep.,http://pascrell.house.gov
+P000197,Nancy,Pelosi,CA,California,12,CA12,12th,DEMOCRAT,HOUSE,Representative,Rep.,http://pelosi.house.gov
+P000258,Collin,Peterson,MN,Minnesota,7,MN07,7th,DEMOCRAT,HOUSE,Representative,Rep.,http://collinpeterson.house.gov
+P000449,Rob,Portman,OH,Ohio,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.portman.senate.gov
+P000523,David,Price,NC,North Carolina,4,NC04,4th,DEMOCRAT,HOUSE,Representative,Rep.,https://price.house.gov
+P000588,Stevan,Pearce,NM,New Mexico,2,NM02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://pearce.house.gov
+P000591,Tom,Price,GA,Georgia,6,GA06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://tomprice.house.gov
+P000592,Ted,Poe,TX,Texas,2,TX02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://poe.house.gov
+P000593,Ed,Perlmutter,CO,Colorado,7,CO07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://perlmutter.house.gov
+P000594,Erik,Paulsen,MN,Minnesota,3,MN03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://paulsen.house.gov
+P000595,Gary C.,Peters,MI,Michigan,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.peters.senate.gov
+P000597,Chellie,Pingree,ME,Maine,1,ME01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://pingree.house.gov
+P000598,Jared,Polis,CO,Colorado,2,CO02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://polis.house.gov
+P000599,Bill,Posey,FL,Florida,8,FL08,8th,REPUBLICAN,HOUSE,Representative,Rep.,http://posey.house.gov
+P000601,Steven,Palazzo,MS,Mississippi,4,MS04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://palazzo.house.gov
+P000602,Mike,Pompeo,KS,Kansas,4,KS04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://pompeo.house.gov
+P000603,Rand,Paul,KY,Kentucky,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.paul.senate.gov
+P000604,Donald,Payne,NJ,New Jersey,10,NJ10,10th,DEMOCRAT,HOUSE,Representative,Rep.,http://payne.house.gov
+P000605,Scott,Perry,PA,Pennsylvania,4,PA04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://perry.house.gov
+P000606,Robert,Pittenger,NC,North Carolina,9,NC09,9th,REPUBLICAN,HOUSE,Representative,Rep.,https://pittenger.house.gov
+P000607,Mark,Pocan,WI,Wisconsin,2,WI02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://pocan.house.gov
+P000608,Scott,Peters,CA,California,52,CA52,52nd,DEMOCRAT,HOUSE,Representative,Rep.,http://scottpeters.house.gov
+P000609,Gary,Palmer,AL,Alabama,6,AL06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://palmer.house.gov
+P000610,Stacey,Plaskett,VI,Virgin Islands of the U.S.,0,VI00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,https://plaskett.house.gov
+P000611,Bruce,Poliquin,ME,Maine,2,ME02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://poliquin.house.gov
+P000612,David,Perdue,GA,Georgia,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.perdue.senate.gov
+P000613,Jimmy,Panetta,CA,California,20,CA20,20th,DEMOCRAT,HOUSE,Representative,Rep.,https://panetta.house.gov
+Q000023,Mike,Quigley,IL,Illinois,5,IL05,5th,DEMOCRAT,HOUSE,Representative,Rep.,https://quigley.house.gov
+R000122,Jack,Reed,RI,Rhode Island,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.reed.senate.gov/
+R000307,Pat,Roberts,KS,Kansas,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.roberts.senate.gov/
+R000395,Harold,Rogers,KY,Kentucky,5,KY05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://halrogers.house.gov
+R000409,Dana,Rohrabacher,CA,California,48,CA48,48th,REPUBLICAN,HOUSE,Representative,Rep.,https://rohrabacher.house.gov
+R000435,Ileana,Ros-Lehtinen,FL,Florida,27,FL27,27th,REPUBLICAN,HOUSE,Representative,Rep.,http://ros-lehtinen.house.gov
+R000486,Lucille,Roybal-Allard,CA,California,40,CA40,40th,DEMOCRAT,HOUSE,Representative,Rep.,http://roybal-allard.house.gov
+R000487,Edward,Royce,CA,California,39,CA39,39th,REPUBLICAN,HOUSE,Representative,Rep.,http://royce.house.gov
+R000515,Bobby,Rush,IL,Illinois,1,IL01,1st,DEMOCRAT,HOUSE,Representative,Rep.,http://rush.house.gov
+R000570,Paul,Ryan,WI,Wisconsin,1,WI01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://paulryan.house.gov
+R000575,Mike,Rogers,AL,Alabama,3,AL03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://mikerogers.house.gov
+R000576,C.,Ruppersberger,MD,Maryland,2,MD02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,http://ruppersberger.house.gov
+R000577,Tim,Ryan,OH,Ohio,13,OH13,13th,DEMOCRAT,HOUSE,Representative,Rep.,http://timryan.house.gov
+R000578,David,Reichert,WA,Washington,8,WA08,8th,REPUBLICAN,HOUSE,Representative,Rep.,http://reichert.house.gov
+R000580,Peter,Roskam,IL,Illinois,6,IL06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://roskam.house.gov
+R000582,David,Roe,TN,Tennessee,1,TN01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://roe.house.gov
+R000583,Thomas,Rooney,FL,Florida,17,FL17,17th,REPUBLICAN,HOUSE,Representative,Rep.,https://rooney.house.gov
+R000584,James E.,Risch,ID,Idaho,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.risch.senate.gov
+R000585,Tom,Reed,NY,New York,23,NY23,23rd,REPUBLICAN,HOUSE,Representative,Rep.,https://reed.house.gov
+R000586,James,Renacci,OH,Ohio,16,OH16,16th,REPUBLICAN,HOUSE,Representative,Rep.,https://renacci.house.gov
+R000588,Cedric,Richmond,LA,Louisiana,2,LA02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://richmond.house.gov
+R000591,Martha,Roby,AL,Alabama,2,AL02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://roby.house.gov
+R000592,Todd,Rokita,IN,Indiana,4,IN04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://rokita.house.gov
+R000593,Dennis,Ross,FL,Florida,15,FL15,15th,REPUBLICAN,HOUSE,Representative,Rep.,http://dennisross.house.gov
+R000595,Marco,Rubio,FL,Florida,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.rubio.senate.gov
+R000597,Tom,Rice,SC,South Carolina,7,SC07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://rice.house.gov
+R000598,Keith,Rothfus,PA,Pennsylvania,12,PA12,12th,REPUBLICAN,HOUSE,Representative,Rep.,https://rothfus.house.gov
+R000599,Raul,Ruiz,CA,California,36,CA36,36th,DEMOCRAT,HOUSE,Representative,Rep.,https://ruiz.house.gov
+R000600,Aumua Amata,Radewagen,AS,American Samoa,0,AQ00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,https://radewagen.house.gov
+R000601,John,Ratcliffe,TX,Texas,4,TX04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://ratcliffe.house.gov
+R000602,Kathleen,Rice,NY,New York,4,NY04,4th,DEMOCRAT,HOUSE,Representative,Rep.,http://kathleenrice.house.gov
+R000603,David,Rouzer,NC,North Carolina,7,NC07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://rouzer.house.gov
+R000604,Steve,Russell,OK,Oklahoma,5,OK05,5th,REPUBLICAN,HOUSE,Representative,Rep.,https://russell.house.gov
+R000605,Mike,Rounds,SD,South Dakota,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.rounds.senate.gov
+R000606,Jamie,Raskin,MD,Maryland,8,MD08,8th,DEMOCRAT,HOUSE,Representative,Rep.,https://raskin.house.gov
+R000607,Francis,Rooney,FL,Florida,19,FL19,19th,REPUBLICAN,HOUSE,Representative,Rep.,https://francisrooney.house.gov
+R000608,Jacky,Rosen,NV,Nevada,3,NV03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://rosen.house.gov
+R000609,John,Rutherford,FL,Florida,4,FL04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://rutherford.house.gov
+S000033,Bernard,Sanders,VT,Vermont,,,,INDEPENDENT,SENATE,Senator,Sen.,http://www.sanders.senate.gov/
+S000051,Mark,Sanford,SC,South Carolina,1,SC01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://sanford.house.gov
+S000148,Charles E.,Schumer,NY,New York,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.schumer.senate.gov/
+S000185,Robert,Scott,VA,Virginia,3,VA03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,http://bobbyscott.house.gov
+S000244,F. James,Sensenbrenner,WI,Wisconsin,5,WI05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://sensenbrenner.house.gov
+S000248,José,Serrano,NY,New York,15,NY15,15th,DEMOCRAT,HOUSE,Representative,Rep.,https://serrano.house.gov
+S000250,Pete,Sessions,TX,Texas,32,TX32,32nd,REPUBLICAN,HOUSE,Representative,Rep.,https://sessions.house.gov
+S000320,Richard C.,Shelby,AL,Alabama,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.shelby.senate.gov/
+S000344,Brad,Sherman,CA,California,30,CA30,30th,DEMOCRAT,HOUSE,Representative,Rep.,http://sherman.house.gov
+S000364,John,Shimkus,IL,Illinois,15,IL15,15th,REPUBLICAN,HOUSE,Representative,Rep.,https://shimkus.house.gov
+S000480,Louise,Slaughter,NY,New York,25,NY25,25th,DEMOCRAT,HOUSE,Representative,Rep.,https://louise.house.gov
+S000510,Adam,Smith,WA,Washington,9,WA09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://adamsmith.house.gov
+S000522,Christopher,Smith,NJ,New Jersey,4,NJ04,4th,REPUBLICAN,HOUSE,Representative,Rep.,http://chrissmith.house.gov
+S000583,Lamar,Smith,TX,Texas,21,TX21,21st,REPUBLICAN,HOUSE,Representative,Rep.,http://lamarsmith.house.gov
+S000770,Debbie,Stabenow,MI,Michigan,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.stabenow.senate.gov/
+S001141,Jeff,Sessions,AL,Alabama,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.sessions.senate.gov/
+S001145,Janice,Schakowsky,IL,Illinois,9,IL09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://schakowsky.house.gov
+S001148,Michael,Simpson,ID,Idaho,2,ID02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://simpson.house.gov
+S001150,Adam,Schiff,CA,California,28,CA28,28th,DEMOCRAT,HOUSE,Representative,Rep.,http://schiff.house.gov
+S001154,Bill,Shuster,PA,Pennsylvania,9,PA09,9th,REPUBLICAN,HOUSE,Representative,Rep.,https://shuster.house.gov
+S001156,Linda,Sánchez,CA,California,38,CA38,38th,DEMOCRAT,HOUSE,Representative,Rep.,https://lindasanchez.house.gov
+S001157,David,Scott,GA,Georgia,13,GA13,13th,DEMOCRAT,HOUSE,Representative,Rep.,http://davidscott.house.gov
+S001165,Albio,Sires,NJ,New Jersey,8,NJ08,8th,DEMOCRAT,HOUSE,Representative,Rep.,https://sires.house.gov
+S001168,John,Sarbanes,MD,Maryland,3,MD03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://sarbanes.house.gov
+S001170,Carol,Shea-Porter,NH,New Hampshire,1,NH01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://shea-porter.house.gov
+S001172,Adrian,Smith,NE,Nebraska,3,NE03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://adriansmith.house.gov
+S001175,Jackie,Speier,CA,California,14,CA14,14th,DEMOCRAT,HOUSE,Representative,Rep.,https://speier.house.gov
+S001176,Steve,Scalise,LA,Louisiana,1,LA01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://scalise.house.gov
+S001177,Gregorio,Sablan,MP,Northern Mariana Islands,0,MP00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,http://sablan.house.gov
+S001180,Kurt,Schrader,OR,Oregon,5,OR05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://schrader.house.gov
+S001181,Jeanne,Shaheen,NH,New Hampshire,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.shaheen.senate.gov
+S001183,David,Schweikert,AZ,Arizona,6,AZ06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://schweikert.house.gov
+S001184,Tim,Scott,SC,South Carolina,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.scott.senate.gov/
+S001185,Terri,Sewell,AL,Alabama,7,AL07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://sewell.house.gov
+S001187,Steve,Stivers,OH,Ohio,15,OH15,15th,REPUBLICAN,HOUSE,Representative,Rep.,http://stivers.house.gov
+S001189,Austin,Scott,GA,Georgia,8,GA08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://austinscott.house.gov
+S001190,Bradley,Schneider,IL,Illinois,10,IL10,10th,DEMOCRAT,HOUSE,Representative,Rep.,https://schneider.house.gov
+S001191,Kyrsten,Sinema,AZ,Arizona,9,AZ09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://sinema.house.gov
+S001192,Chris,Stewart,UT,Utah,2,UT02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://stewart.house.gov
+S001193,Eric,Swalwell,CA,California,15,CA15,15th,DEMOCRAT,HOUSE,Representative,Rep.,https://swalwell.house.gov
+S001194,Brian,Schatz,HI,Hawaii,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.schatz.senate.gov
+S001195,Jason,Smith,MO,Missouri,8,MO08,8th,REPUBLICAN,HOUSE,Representative,Rep.,https://jasonsmith.house.gov
+S001196,Elise,Stefanik,NY,New York,21,NY21,21st,REPUBLICAN,HOUSE,Representative,Rep.,https://stefanik.house.gov
+S001197,Ben,Sasse,NE,Nebraska,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.sasse.senate.gov
+S001198,Daniel,Sullivan,AK,Alaska,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.sullivan.senate.gov
+S001199,Lloyd,Smucker,PA,Pennsylvania,16,PA16,16th,REPUBLICAN,HOUSE,Representative,Rep.,https://smucker.house.gov
+S001200,Darren,Soto,FL,Florida,9,FL09,9th,DEMOCRAT,HOUSE,Representative,Rep.,https://soto.house.gov
+S001201,Thomas,Suozzi,NY,New York,3,NY03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://suozzi.house.gov
+T000193,Bennie,Thompson,MS,Mississippi,2,MS02,2nd,DEMOCRAT,HOUSE,Representative,Rep.,https://benniethompson.house.gov
+T000238,Mac,Thornberry,TX,Texas,13,TX13,13th,REPUBLICAN,HOUSE,Representative,Rep.,http://thornberry.house.gov
+T000250,John,Thune,SD,South Dakota,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.thune.senate.gov/
+T000460,Mike,Thompson,CA,California,5,CA05,5th,DEMOCRAT,HOUSE,Representative,Rep.,http://mikethompson.house.gov
+T000461,Patrick J.,Toomey,PA,Pennsylvania,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.toomey.senate.gov/
+T000462,Patrick,Tiberi,OH,Ohio,12,OH12,12th,REPUBLICAN,HOUSE,Representative,Rep.,http://tiberi.house.gov
+T000463,Michael,Turner,OH,Ohio,10,OH10,10th,REPUBLICAN,HOUSE,Representative,Rep.,https://turner.house.gov
+T000464,Jon,Tester,MT,Montana,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.tester.senate.gov/
+T000465,Niki,Tsongas,MA,Massachusetts,3,MA03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://tsongas.house.gov
+T000467,Glenn,Thompson,PA,Pennsylvania,5,PA05,5th,REPUBLICAN,HOUSE,Representative,Rep.,http://thompson.house.gov
+T000468,Dina,Titus,NV,Nevada,1,NV01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://titus.house.gov
+T000469,Paul,Tonko,NY,New York,20,NY20,20th,DEMOCRAT,HOUSE,Representative,Rep.,https://tonko.house.gov
+T000470,Scott,Tipton,CO,Colorado,3,CO03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://tipton.house.gov
+T000472,Mark,Takano,CA,California,41,CA41,41st,DEMOCRAT,HOUSE,Representative,Rep.,https://takano.house.gov
+T000474,Norma,Torres,CA,California,35,CA35,35th,DEMOCRAT,HOUSE,Representative,Rep.,https://torres.house.gov
+T000475,David,Trott,MI,Michigan,11,MI11,11th,REPUBLICAN,HOUSE,Representative,Rep.,https://trott.house.gov
+T000476,Thom,Tillis,NC,North Carolina,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.tillis.senate.gov
+T000477,Scott,Taylor,VA,Virginia,2,VA02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://taylor.house.gov
+T000478,Claudia,Tenney,NY,New York,22,NY22,22nd,REPUBLICAN,HOUSE,Representative,Rep.,https://tenney.house.gov
+U000031,Fred,Upton,MI,Michigan,6,MI06,6th,REPUBLICAN,HOUSE,Representative,Rep.,http://upton.house.gov
+U000039,Tom,Udall,NM,New Mexico,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.tomudall.senate.gov
+V000081,Nydia,Velázquez,NY,New York,7,NY07,7th,DEMOCRAT,HOUSE,Representative,Rep.,https://velazquez.house.gov
+V000108,Peter,Visclosky,IN,Indiana,1,IN01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://visclosky.house.gov
+V000128,Chris,Van Hollen,MD,Maryland,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.vanhollen.senate.gov
+V000129,David,Valadao,CA,California,21,CA21,21st,REPUBLICAN,HOUSE,Representative,Rep.,http://valadao.house.gov
+V000130,Juan,Vargas,CA,California,51,CA51,51st,DEMOCRAT,HOUSE,Representative,Rep.,http://vargas.house.gov
+V000131,Marc,Veasey,TX,Texas,33,TX33,33rd,DEMOCRAT,HOUSE,Representative,Rep.,http://veasey.house.gov
+V000132,Filemon,Vela,TX,Texas,34,TX34,34th,DEMOCRAT,HOUSE,Representative,Rep.,https://vela.house.gov
+W000187,Maxine,Waters,CA,California,43,CA43,43rd,DEMOCRAT,HOUSE,Representative,Rep.,https://waters.house.gov
+W000437,Roger F.,Wicker,MS,Mississippi,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.wicker.senate.gov
+W000779,Ron,Wyden,OR,Oregon,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.wyden.senate.gov/
+W000791,Greg,Walden,OR,Oregon,2,OR02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,https://walden.house.gov
+W000795,Joe,Wilson,SC,South Carolina,2,SC02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://joewilson.house.gov
+W000797,Debbie,Wasserman Schultz,FL,Florida,23,FL23,23rd,DEMOCRAT,HOUSE,Representative,Rep.,https://wassermanschultz.house.gov
+W000798,Tim,Walberg,MI,Michigan,7,MI07,7th,REPUBLICAN,HOUSE,Representative,Rep.,http://walberg.house.gov
+W000799,Timothy,Walz,MN,Minnesota,1,MN01,1st,DEMOCRAT,HOUSE,Representative,Rep.,https://walz.house.gov
+W000800,Peter,Welch,VT,Vermont,0,VT00,At-Large,DEMOCRAT,HOUSE,Representative,Rep.,https://welch.house.gov
+W000802,Sheldon,Whitehouse,RI,Rhode Island,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.whitehouse.senate.gov/
+W000804,Robert,Wittman,VA,Virginia,1,VA01,1st,REPUBLICAN,HOUSE,Representative,Rep.,http://wittman.house.gov
+W000805,Mark R.,Warner,VA,Virginia,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.warner.senate.gov
+W000806,Daniel,Webster,FL,Florida,11,FL11,11th,REPUBLICAN,HOUSE,Representative,Rep.,http://webster.house.gov
+W000808,Frederica,Wilson,FL,Florida,24,FL24,24th,DEMOCRAT,HOUSE,Representative,Rep.,https://wilson.house.gov
+W000809,Steve,Womack,AR,Arkansas,3,AR03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://womack.house.gov
+W000810,Rob,Woodall,GA,Georgia,7,GA07,7th,REPUBLICAN,HOUSE,Representative,Rep.,https://woodall.house.gov
+W000812,Ann,Wagner,MO,Missouri,2,MO02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://wagner.house.gov
+W000813,Jackie,Walorski,IN,Indiana,2,IN02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://walorski.house.gov
+W000814,Randy,Weber,TX,Texas,14,TX14,14th,REPUBLICAN,HOUSE,Representative,Rep.,http://weber.house.gov
+W000815,Brad,Wenstrup,OH,Ohio,2,OH02,2nd,REPUBLICAN,HOUSE,Representative,Rep.,http://wenstrup.house.gov
+W000816,Roger,Williams,TX,Texas,25,TX25,25th,REPUBLICAN,HOUSE,Representative,Rep.,http://williams.house.gov
+W000817,Elizabeth,Warren,MA,Massachusetts,,,,DEMOCRAT,SENATE,Senator,Sen.,http://www.warren.senate.gov
+W000819,Mark,Walker,NC,North Carolina,6,NC06,6th,REPUBLICAN,HOUSE,Representative,Rep.,https://walker.house.gov
+W000820,Mimi,Walters,CA,California,45,CA45,45th,REPUBLICAN,HOUSE,Representative,Rep.,https://walters.house.gov
+W000821,Bruce,Westerman,AR,Arkansas,4,AR04,4th,REPUBLICAN,HOUSE,Representative,Rep.,https://westerman.house.gov
+W000822,Bonnie,Watson Coleman,NJ,New Jersey,12,NJ12,12th,DEMOCRAT,HOUSE,Representative,Rep.,https://watsoncoleman.house.gov
+Y000033,Don,Young,AK,Alaska,0,AK00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,http://donyoung.house.gov
+Y000062,John,Yarmuth,KY,Kentucky,3,KY03,3rd,DEMOCRAT,HOUSE,Representative,Rep.,https://yarmuth.house.gov
+Y000063,Kevin,Yoder,KS,Kansas,3,KS03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://yoder.house.gov
+Y000064,Todd,Young,IN,Indiana,,,,REPUBLICAN,SENATE,Senator,Sen.,http://www.young.senate.gov
+Y000065,Ted,Yoho,FL,Florida,3,FL03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,http://yoho.house.gov
+Y000066,David,Young,IA,Iowa,3,IA03,3rd,REPUBLICAN,HOUSE,Representative,Rep.,https://davidyoung.house.gov
+Z000017,Lee,Zeldin,NY,New York,1,NY01,1st,REPUBLICAN,HOUSE,Representative,Rep.,https://zeldin.house.gov
+Z000018,Ryan,Zinke,MT,Montana,0,MT00,At-Large,REPUBLICAN,HOUSE,Representative,Rep.,https://zinke.house.gov
