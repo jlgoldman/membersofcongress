@@ -1,7 +1,7 @@
 # Members of Congress in Various Formats
 
 This project is a repository of members of Congress and their contact information.
-Most notably, in contains address, phone numbers, and latlngs for *district offices*.
+Most notably, in contains address, phone numbers, and latlngs for **district offices**.
 
 This project was created specifically because no database of district office
 information seemed to exist, since while Washington DC office information
@@ -24,7 +24,7 @@ including both Washington DC and district offices.
 For spreadsheet use, the same data have been split into `members.csv` and
 `offices.csv`. The `bioguide_id` field, the seemingly official id assigned
 by Congressional clerk websites, can be used as a join key between
-member and office
+member and office.
 
 ### SQL
 
@@ -35,7 +35,7 @@ The SQL syntax is basic and should be compatible with sqlite, PostgreSQL, and My
 
 #### sqlite
 
-```
+```bash
 # Create and populate the DB
 cat members.sql | sqlite3 members.sqlite
 # Connect to the DB
@@ -44,9 +44,10 @@ sqlite3 members.sqlite
 
 #### PostgreSQL
 
-```
+```bash
 # Create the DB
 createdb members
+# Populate the DB
 psql -d members -f members.sql
 # Connect to the DB
 psql members
@@ -61,9 +62,10 @@ For that, do the same as above with a regular SQL database but make sure
 PostGIS is [installed](http://postgis.net/install/) first, and then
 use `members.postgis.sql` instead.
 
-```
+```bash
 # Create the DB
 createdb members
+# Populate the DB
 psql -d members -f members.postgis.sql
 # Connect to the DB
 psql members
@@ -74,13 +76,15 @@ psql members
 Since there are coordinates for each office, an alternate JSON file containing
 GeoJSON has been provided, that is ready to be imported in any compatible GIS
 program or [Google Maps](https://developers.google.com/maps/documentation/javascript/datalayer#load_geojson)
-or perhaps client-side geospatial libraries like [Turf](http://turfjs.org/)
+or perhaps client-side geospatial libraries like [Turf](http://turfjs.org/).
 
 ## The Data
 
-The data were initally collected from individual Congressional websites the week of January 9, 2017. Washington DC offices are included for all 541 members. At least
-one district office is included for 527 members; 14 newly-elected members have yet
-to publish district office information on their still-being-constructed websites.
+The data were initally collected from individual Congressional websites the week of
+January 9, 2017. Washington DC offices are included for all 541 members. At least
+one district office is included for 527 members, currently totaling 1331 district
+offices; 14 newly-elected members have yet to publish district office information
+ on their still-being-constructed websites.
 
 This repository will be updated as soon as information for the remaining offices
 is available.
@@ -96,11 +100,11 @@ until they could be parsed. Addresses were then sanity-checked and geocoded.
 ### Contributing
 
 If data seems to be incorrect or incomplete, please help contribute!
-The master file is *`members.json`*, please make changes to that file
+The master file is #*`members.json`*#, please make changes to that file
 and submit a pull request. You can optionally convert from the master JSON
 file to all other formats in a single command:
 
-```
+```bash
 python tools/json_to_all_other_formats.py members.json
 ```
 
