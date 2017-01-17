@@ -37,7 +37,7 @@ INSERT INTO "office" VALUES('A000371-san-bernardino','A000371','DISTRICT','San B
 INSERT INTO "office" VALUES('A000371-washington','A000371','DC','Washington','1223 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-3201',38.8867621,-77.0069216);
 INSERT INTO "office" VALUES('A000372-dublin','A000372','DISTRICT','Dublin','100 S. Church St.',NULL,'Dublin','GA','31021','(478) 272-4030',32.5383565,-82.9084154);
 INSERT INTO "office" VALUES('A000372-statesboro','A000372','DISTRICT','Statesboro','50 E. Main Street',NULL,'Statesboro','GA','30458','(912) 243-9452',32.4484951,-81.781533);
-INSERT INTO "office" VALUES('A000372-vidalia','A000372','DISTRICT','Vidalia','107 Old Airport Road, Suite A',NULL,'Vidalia','GA','30475','(912) 403-3311',32.2037946,-82.3763107);
+INSERT INTO "office" VALUES('A000372-vidalia','A000372','DISTRICT','Vidalia','107 Old Airport Road, Suite A',NULL,'Vidalia','GA','30475','(912) 403-3311',32.2046881,-8.23763264999999904585e+01);
 INSERT INTO "office" VALUES('A000372-washington','A000372','DC','Washington','513 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-2823',38.8868,-77.0085);
 INSERT INTO "office" VALUES('A000372-augusta','A000372','DISTRICT','Augusta','2743 Perimeter Parkway','Bldg. 200, Suite 225','Augusta','GA','30909','(706) 228-1980',33.4875735,-82.0846666);
 INSERT INTO "office" VALUES('A000374-northeast-louisiana','A000374','DISTRICT','Northeast Louisiana','426 DeSiard St.',NULL,'Monroe','LA','71201','(318) 322-3500',32.5036093,-92.1144236);
@@ -157,7 +157,7 @@ INSERT INTO "office" VALUES('B001283-washington','B001283','DC','Washington','21
 INSERT INTO "office" VALUES('B001284-carmel','B001284','DISTRICT','Carmel','11611 N. Meridian Street','Suite 415','Carmel','IN','46032','(317) 848-0201',39.9569089,-86.1563927);
 INSERT INTO "office" VALUES('B001284-anderson','B001284','DISTRICT','Anderson','120 East 8th Street','Suite 101','Anderson','IN','46016','(765) 640-5115',40.1083423,-85.6776394);
 INSERT INTO "office" VALUES('B001284-washington','B001284','DC','Washington','1505 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-2276',38.8867621,-77.0069216);
-INSERT INTO "office" VALUES('B001285-thousand-oaks','B001285','DISTRICT','Thousand Oaks','223 E. Thousand Oaks Blvd., Suite 411',NULL,'Thousand Oaks','CA','91360','(805) 379-1779',34.179694,-118.8828971);
+INSERT INTO "office" VALUES('B001285-thousand-oaks','B001285','DISTRICT','Thousand Oaks','223 E. Thousand Oaks Blvd., Suite 411',NULL,'Thousand Oaks','CA','91360','(805) 379-1779',34.1794905,-118.8726791);
 INSERT INTO "office" VALUES('B001285-oxnard','B001285','DISTRICT','Oxnard','300 E. Esplanade Drive, Suite 470',NULL,'Oxnard','CA','93036','(805) 379-1779',34.2283405,-119.1745197);
 INSERT INTO "office" VALUES('B001285-washington','B001285','DC','Washington','1019 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-5811',38.8867621,-77.0069216);
 INSERT INTO "office" VALUES('B001286-peoria','B001286','DISTRICT','Peoria','3100 N. Knoxville Ave.','Suite 205','Peoria','IL','61603','(309) 966-1813',40.7252144,-89.5930768);
@@ -314,7 +314,7 @@ INSERT INTO "office" VALUES('C001062-midland','C001062','DISTRICT','Midland','6 
 INSERT INTO "office" VALUES('C001062-brownwood','C001062','DISTRICT','Brownwood','Brownwood City Hall','501 Center Ave.','Brownwood','TX','76801','(325) 646-1950',31.7197496,-98.9836114);
 INSERT INTO "office" VALUES('C001062-granbury','C001062','DISTRICT','Granbury','132 Houston St.',NULL,'Granbury','TX','76048','(682) 936-2577',32.44305,-97.787906);
 INSERT INTO "office" VALUES('C001062-washington','C001062','DC','Washington','2430 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-3605',38.8871071,-77.0104749);
-INSERT INTO "office" VALUES('C001062-san-angelo','C001062','DISTRICT','San Angelo','33 Twohig, Suite 307',NULL,'San Angelo','TX','76903','(325) 659-4010',31.4608136,-100.4374899);
+INSERT INTO "office" VALUES('C001062-san-angelo','C001062','DISTRICT','San Angelo','33 Twohig, Suite 307',NULL,'San Angelo','TX','76903','(325) 659-4010',31.4614147,-100.4355616);
 INSERT INTO "office" VALUES('C001063-san-antonio','C001063','DISTRICT','San Antonio','615 E. Houston Street, Suite 563',NULL,'San Antonio','TX','78205','(210) 271-2851',29.4270611,-98.4862276);
 INSERT INTO "office" VALUES('C001063-laredo','C001063','DISTRICT','Laredo','602 E. Calton Road, Suite 2',NULL,'Laredo','TX','78041','(956) 725-0639',27.5423782,-99.4887937);
 INSERT INTO "office" VALUES('C001063-mission','C001063','DISTRICT','Mission','117 E. Tom Landry',NULL,'Mission','TX','78572','(956) 424-3942',26.2161009,-98.324999);
@@ -642,7 +642,7 @@ INSERT INTO "office" VALUES('G000386-davenport','G000386','DISTRICT','Davenport'
 INSERT INTO "office" VALUES('G000386-des-moines','G000386','DISTRICT','Des Moines','721 Federal Building','210 Walnut Street','Des Moines','IA','50309','(515) 288-1145',41.5864152,-93.6201532);
 INSERT INTO "office" VALUES('G000386-sioux-city','G000386','DISTRICT','Sioux City','120 Federal Building','320 6th Street','Sioux City','IA','51101','(712) 233-1860',42.4963125,-96.4075836);
 INSERT INTO "office" VALUES('G000386-washington','G000386','DC','Washington','135 Hart Senate Office Building',NULL,'Washington','DC','20510','(202) 224-3744',38.8928388,-77.0043561);
-INSERT INTO "office" VALUES('G000386-waterloo','G000386','DISTRICT','Waterloo','210 Waterloo Building','531 Commercial Street','Waterloo','IA','50701','(319) 232-6657',42.4976514,-92.3435665);
+INSERT INTO "office" VALUES('G000386-waterloo','G000386','DISTRICT','Waterloo','210 Waterloo Building','531 Commercial Street','Waterloo','IA','50701','(319) 232-6657',42.4953784,-92.339384);
 INSERT INTO "office" VALUES('G000410-houston-north','G000410','DISTRICT','Houston North','256 North Sam Houston Parkway East','Suite 29','Houston','TX','77060','(281) 999-5879',29.9398853,-95.4046901);
 INSERT INTO "office" VALUES('G000410-washington','G000410','DC','Washington','2470 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-1688',38.8871071,-77.0104749);
 INSERT INTO "office" VALUES('G000410-houston-east','G000410','DISTRICT','Houston East','11811 East Freeway','Suite 430','Houston','TX','77029-1974','(713) 330-0761',29.771125,-95.224792);
@@ -669,7 +669,7 @@ INSERT INTO "office" VALUES('G000555-long-island','G000555','DISTRICT','Long Isl
 INSERT INTO "office" VALUES('G000555-rochester','G000555','DISTRICT','Rochester','Kenneth B. Keating Federal Office Building','100 State Street, Room 4195','Rochester','NY','14614','(585) 263-6250',43.1576631,-77.613515);
 INSERT INTO "office" VALUES('G000555-syracusecentral-new-york','G000555','DISTRICT','Syracuse/Central New York','James M. Hanley Federal Building','100 South Clinton Street, Room 1470','Syracuse','NY','13261','(315) 448-0470',43.0501042,-76.1543204);
 INSERT INTO "office" VALUES('G000555-new-york-city','G000555','DISTRICT','New York City','780 Third Avenue','Suite 2601','New York','NY','10017','(212) 688-6262',40.7550353,-73.9718588);
-INSERT INTO "office" VALUES('G000555-albanycapital-district','G000555','DISTRICT','Albany/Capital District','Leo W. O’Brien Federal Office Building','11A Clinton Avenue, Room 821','Albany','NY','12207','(518) 431-0120',42.655222,-73.7492819);
+INSERT INTO "office" VALUES('G000555-albanycapital-district','G000555','DISTRICT','Albany/Capital District','Leo W. O''Brien Federal Office Building','11A Clinton Avenue, Room 821','Albany','NY','12207','(518) 431-0120',42.655222,-73.7492819);
 INSERT INTO "office" VALUES('G000555-washington','G000555','DC','Washington','478 Russell Senate Office Building',NULL,'Washington','DC','20510','(202) 224-4451',38.8925417,-77.0074155);
 INSERT INTO "office" VALUES('G000558-bowling-green','G000558','DISTRICT','Bowling Green','996 Wilkinson Trace, Suite B2',NULL,'Bowling Green','KY','42103','(270) 842-9896',36.9671412,-86.4282633);
 INSERT INTO "office" VALUES('G000558-washington','G000558','DC','Washington','2434 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-3501',38.8871071,-77.0104749);
@@ -752,7 +752,7 @@ INSERT INTO "office" VALUES('H001042-hawaii','H001042','DISTRICT','Hawaii','300 
 INSERT INTO "office" VALUES('H001042-washington','H001042','DC','Washington','330 Hart Senate Office Building',NULL,'Washington','DC','20510','(202) 224-6361',38.8928388,-77.0043561);
 INSERT INTO "office" VALUES('H001045-brookhaven','H001045','DISTRICT','Brookhaven','230 South Whitworth St.',NULL,'Brookhaven','MS','39601','(601) 823-3400',31.5774837,-90.4440201);
 INSERT INTO "office" VALUES('H001045-pearl','H001045','DISTRICT','Pearl','2507-A Old Brandon Rd.',NULL,'Pearl','MS','39208','(601) 932-2410',32.2751731,-90.1296633);
-INSERT INTO "office" VALUES('H001045-starkville','H001045','DISTRICT','Starkville','The Mill at Mississippi State','600 Russell St., Suite 160','Starkville','MS','39759','(662) 324-0007',33.4583431,-88.8038588);
+INSERT INTO "office" VALUES('H001045-starkville','H001045','DISTRICT','Starkville','The Mill at Mississippi State','600 Russell St., Suite 160','Starkville','MS','39759','(662) 324-0007',33.4573663,-88.8027055);
 INSERT INTO "office" VALUES('H001045-meridian','H001045','DISTRICT','Meridian','1901 Front St., Suite A',NULL,'Meridian','MS','39301','(601) 693-6681',32.3639891,-88.6963131);
 INSERT INTO "office" VALUES('H001045-washington','H001045','DC','Washington','307 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-5031',38.8868,-77.0085);
 INSERT INTO "office" VALUES('H001046-albuquerque','H001046','DISTRICT','Albuquerque','400 Gold Avenue SW, Ste. 1080',NULL,'Albuquerque','NM','87102','(505) 346-6601',35.0833514,-106.6521937);
@@ -770,7 +770,7 @@ INSERT INTO "office" VALUES('H001048-washington','H001048','DC','Washington','24
 INSERT INTO "office" VALUES('H001050-honolulu','H001050','DISTRICT','Honolulu','300 Ala Moana Blvd.','Room 4-104','Honolulu','HI','96850','(808) 541-2570',21.3036893,-157.862353);
 INSERT INTO "office" VALUES('H001050-washington','H001050','DC','Washington','422 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-2726',38.8868,-77.0085);
 INSERT INTO "office" VALUES('H001052-bel-air','H001052','DISTRICT','Bel Air','15 East Churchville Road Suite 102B',NULL,'Bel Air','MD','21014','(410) 588-5670',39.535151,-76.3464629);
-INSERT INTO "office" VALUES('H001052-chester','H001052','DISTRICT','Chester','100 Olde Point Village Suite 101',NULL,'Chester','MD','21619','(410) 643-5425',38.985554,-76.309633);
+INSERT INTO "office" VALUES('H001052-chester','H001052','DISTRICT','Chester','100 Olde Point Village Suite 101',NULL,'Chester','MD','21619','(410) 643-5425',38.975324,-76.28993);
 INSERT INTO "office" VALUES('H001052-washington','H001052','DC','Washington','1533 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-5311',38.8867621,-77.0069216);
 INSERT INTO "office" VALUES('H001052-salisbury','H001052','DISTRICT','Salisbury','100 East Main Street, Suite 702',NULL,'Salisbury','MD','21801','(443) 944-8624',38.3652997,-75.600858);
 INSERT INTO "office" VALUES('H001053-harrisonville','H001053','DISTRICT','Harrisonville','1909 North Commercial Street',NULL,'Harrisonville','MO','64701','(816) 884-3411',38.6630256,-94.3644632);
@@ -1052,7 +1052,7 @@ INSERT INTO "office" VALUES('L000579-washington','L000579','DC','Washington','10
 INSERT INTO "office" VALUES('L000580-washington','L000580','DC','Washington','214 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-6316',38.8868,-77.0085);
 INSERT INTO "office" VALUES('L000580-albuquerque','L000580','DISTRICT','Albuquerque','400 Gold Avenue SW','Suite 680','Albuquerque','NM','87102','(505) 346-6781',35.0833514,-106.6521937);
 INSERT INTO "office" VALUES('L000581-detroit','L000581','DISTRICT','Detroit','5555 Conner Avenue','Suite 3015','Detroit','MI','48213','(313) 423-6183',42.3902033,-82.9819582);
-INSERT INTO "office" VALUES('L000581-southfield','L000581','DISTRICT','Southfield','26700 Lahser Road','Suite 330','Southfield','MI','48033','(248) 356-2052',42.4838377,-83.2611179);
+INSERT INTO "office" VALUES('L000581-southfield','L000581','DISTRICT','Southfield','26700 Lahser Road','Suite 330','Southfield','MI','48033','(248) 356-2052',42.483811,-8.32598862999999909072e+01);
 INSERT INTO "office" VALUES('L000581-washington','L000581','DC','Washington','1237 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-5802',38.8867621,-77.0069216);
 INSERT INTO "office" VALUES('L000582-manhattan-beach','L000582','DISTRICT','Manhattan Beach','1600 Rosecrans Avenue, 4th Floor',NULL,'Manhattan Beach','CA','90266','(310) 321-7664',33.9015419,-118.383875);
 INSERT INTO "office" VALUES('L000582-los-angeles','L000582','DISTRICT','Los Angeles','5055 Wilshire Boulevard, Suite 310',NULL,'Los Angeles','CA','90036','(323) 651-1040',34.062551,-118.3402319);
@@ -1278,7 +1278,7 @@ INSERT INTO "office" VALUES('P000034-washington','P000034','DC','Washington','23
 INSERT INTO "office" VALUES('P000034-new-brunswick','P000034','DISTRICT','New Brunswick','67/69 Church St.',NULL,'New Brunswick','NJ','08901','(732) 249-8892',40.4962332,-74.4427084);
 INSERT INTO "office" VALUES('P000096-englewood','P000096','DISTRICT','Englewood','2-10 North Van Brunt St.',NULL,'Englewood','NJ','07631','(201) 935-2248',40.8946254,-73.975403);
 INSERT INTO "office" VALUES('P000096-lyndhurst','P000096','DISTRICT','Lyndhurst','367 Valley Brook Ave',NULL,'Lyndhurst','NJ','07071','(201) 935-2248',40.8126716,-74.1243659);
-INSERT INTO "office" VALUES('P000096-passaic','P000096','DISTRICT','Passaic','330 Passaic Street','1st Street','Passaic','NJ','07055','(973) 472-4510',40.8681508,-74.1181626);
+INSERT INTO "office" VALUES('P000096-passaic','P000096','DISTRICT','Passaic','330 Passaic Street',NULL,'Passaic','NJ','07055','(973) 472-4510',40.8612025,-7.41238089000000144324e+01);
 INSERT INTO "office" VALUES('P000096-washington','P000096','DC','Washington','2370 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-5751',38.8871071,-77.0104749);
 INSERT INTO "office" VALUES('P000096-paterson','P000096','DISTRICT','Paterson','200 Federal Plaza','Suite 500 Robert A. Roe Federal Building','Paterson','NJ','07505','(973) 523-5152',40.9151292,-74.1699153);
 INSERT INTO "office" VALUES('P000197-san-francisco','P000197','DISTRICT','San Francisco','90 7th Street','Suite 2-800','San Francisco','CA','94103','(415) 556-4862',37.7791976,-122.4121784);
@@ -1510,7 +1510,7 @@ INSERT INTO "office" VALUES('S000033-washington','S000033','DC','Washington','33
 INSERT INTO "office" VALUES('S000051-mount-pleasant','S000051','DISTRICT','Mount Pleasant','530 Johnnie Dodds Boulevard, Suite 201',NULL,'Mount Pleasant','SC','29464-3083','(843) 352-7572',32.8060149,-79.8879337);
 INSERT INTO "office" VALUES('S000051-beaufort','S000051','DISTRICT','Beaufort','710 Boundary Street, Suite 1D',NULL,'Beaufort','SC','29902','(843) 521-2530',32.439287,-80.670472);
 INSERT INTO "office" VALUES('S000051-washington','S000051','DC','Washington','2201 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-3176',38.8871071,-77.0104749);
-INSERT INTO "office" VALUES('S000148-albany','S000148','DISTRICT','Albany','1 Clinton Square','Leo O''Brien Federal Building, Room 420','Albany','NY','12207','(518) 431-4070',42.6537028,-73.7505332);
+INSERT INTO "office" VALUES('S000148-albany','S000148','DISTRICT','Albany','1 Clinton Ave','Leo O''Brien Federal Building, Room 420','Albany','NY','12207','(518) 431-4070',4.2655138699999987752e+01,-73.749201);
 INSERT INTO "office" VALUES('S000148-buffalo','S000148','DISTRICT','Buffalo','130 South Elmwood Avenue, #660',NULL,'Buffalo','NY','14202','(716) 846-4111',42.8890285,-78.8795419);
 INSERT INTO "office" VALUES('S000148-melville','S000148','DISTRICT','Melville','145 Pine Lawn Road, #300',NULL,'Melville','NY','11747','(631) 753-0978',40.7708436,-73.4078757);
 INSERT INTO "office" VALUES('S000148-new-york','S000148','DISTRICT','New York','780 Third Avenue, Suite 2301',NULL,'New York','NY','10017','(212) 486-4430',40.7550353,-73.9718588);
@@ -1554,7 +1554,7 @@ INSERT INTO "office" VALUES('S000583-san-antonio','S000583','DISTRICT','San Anto
 INSERT INTO "office" VALUES('S000583-washington','S000583','DC','Washington','2409 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-4236',38.8871071,-77.0104749);
 INSERT INTO "office" VALUES('S000770-midmichigan','S000770','DISTRICT','Mid-Michigan','221 W. Lake Lansing Road','Suite 100','East Lansing','MI','48823','(517) 203-1760',42.757677,-84.485392);
 INSERT INTO "office" VALUES('S000770-southeast-michigan','S000770','DISTRICT','Southeast Michigan','719 Griswold St.','Suite 700','Detroit','MI','48226','(313) 961-4330',42.3307555,-83.048152);
-INSERT INTO "office" VALUES('S000770-west-michigan','S000770','DISTRICT','West Michigan','3280 E. Beltline Court NE','Suite 400','Grand Rapids','MI','49525','(616) 975-0052',43.0221534,-85.5901479);
+INSERT INTO "office" VALUES('S000770-west-michigan','S000770','DISTRICT','West Michigan','3280 E. Beltline Court NE','Suite 400','Grand Rapids','MI','49525','(616) 975-0052',43.037652,-85.588081);
 INSERT INTO "office" VALUES('S000770-flintsaginaw-bay','S000770','DISTRICT','Flint/Saginaw Bay','432 N. Saginaw St','Suite 301','Flint','MI','48502','(810) 720-4172',43.0201574,-83.6930672);
 INSERT INTO "office" VALUES('S000770-northern-michigan','S000770','DISTRICT','Northern Michigan','3335 S. Airport Road West','Suite 6B','Traverse City','MI','49684','(231) 929-1031',44.7222478,-85.642375);
 INSERT INTO "office" VALUES('S000770-upper-peninsula','S000770','DISTRICT','Upper Peninsula','1901 W. Ridge','Suite 7','Marquette','MI','49855','(906) 228-8756',46.5484343,-87.4269822);
@@ -1627,7 +1627,7 @@ INSERT INTO "office" VALUES('S001185-selma','S001185','DISTRICT','Selma','908 Al
 INSERT INTO "office" VALUES('S001185-birmingham','S001185','DISTRICT','Birmingham','Two 20th Street North','Suite 1130','Birmingham','AL','35203','(205) 254-1960',33.5132889,-86.8058256);
 INSERT INTO "office" VALUES('S001185-tuscaloosa','S001185','DISTRICT','Tuscaloosa','2501 7th Street','Suite 300','Tuscaloosa','AL','35401','(205) 752-5380',33.2071459,-87.56926);
 INSERT INTO "office" VALUES('S001185-washington','S001185','DC','Washington','1133 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-2665',38.8867621,-77.0069216);
-INSERT INTO "office" VALUES('S001185-montgomery','S001185','DISTRICT','Montgomery','101 South Lawrence St.','Courthouse Annex 3','Montgomery','AL','36104','(334) 262-1919',32.3757506,-86.3065335);
+INSERT INTO "office" VALUES('S001185-montgomery','S001185','DISTRICT','Montgomery','101 South Lawrence St.','Courthouse Annex 3','Montgomery','AL','36104','(334) 262-1919',32.3759486,-86.3054822);
 INSERT INTO "office" VALUES('S001187-central-ohio','S001187','DISTRICT','Central Ohio','3790 Municipal Way',NULL,'Hilliard','OH','43026','(614) 771-4968',40.0297127,-83.150804);
 INSERT INTO "office" VALUES('S001187-clinton-county','S001187','DISTRICT','Clinton County','69 N. South Street',NULL,'Wilmington','OH','45177','(937) 283-7049',39.4462521,-83.8288317);
 INSERT INTO "office" VALUES('S001187-washington','S001187','DC','Washington','1022 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-2015',38.8867621,-77.0069216);
@@ -1796,7 +1796,7 @@ INSERT INTO "office" VALUES('W000791-la-grande','W000791','DISTRICT','La Grande'
 INSERT INTO "office" VALUES('W000791-medford','W000791','DISTRICT','Medford','14 N. Central Ave.','Suite 112','Medford','OR','97501','(541) 776-4646',42.3270103,-122.8722747);
 INSERT INTO "office" VALUES('W000791-bend','W000791','DISTRICT','Bend','1051 NW Bond St.','Suite 400','Bend','OR','97701','(541) 389-4408',44.0598422,-121.3117677);
 INSERT INTO "office" VALUES('W000791-washington','W000791','DC','Washington','2185 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-6730',38.8871071,-77.0104749);
-INSERT INTO "office" VALUES('W000795-midlands','W000795','DISTRICT','Midlands','1700 Sunset Blvd (US 378), Suite 1',NULL,'West Columbia','SC','29169','(803) 939-0041',33.9964175,-81.0591869);
+INSERT INTO "office" VALUES('W000795-midlands','W000795','DISTRICT','Midlands','1700 Sunset Blvd (US 378), Suite 1',NULL,'West Columbia','SC','29169','(803) 939-0041',33.9993356,-81.0889668);
 INSERT INTO "office" VALUES('W000795-aikenbarnwell','W000795','DISTRICT','Aiken/Barnwell','1930 University Parkway, Suite 1600',NULL,'Aiken','SC','29801','(803) 642-6416',33.5823882,-81.7275886);
 INSERT INTO "office" VALUES('W000795-washington','W000795','DC','Washington','2229 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-2452',38.8871071,-77.0104749);
 INSERT INTO "office" VALUES('W000797-aventura','W000797','DISTRICT','Aventura','19200 West Country Club Drive',NULL,'Aventura','FL','33180','(305) 936-5724',25.9528671,-80.1390699);

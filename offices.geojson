@@ -867,8 +867,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -82.3763107,
-                    32.2037946
+                    -82.37632649999999,
+                    32.2046881
                 ],
                 "type": "Point"
             },
@@ -5187,8 +5187,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.8828971,
-                    34.179694
+                    -118.8726791,
+                    34.1794905
                 ],
                 "type": "Point"
             },
@@ -10839,8 +10839,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -100.4374899,
-                    31.4608136
+                    -100.4355616,
+                    31.4614147
                 ],
                 "type": "Point"
             },
@@ -22647,8 +22647,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -92.3435665,
-                    42.4976514
+                    -92.339384,
+                    42.4953784
                 ],
                 "type": "Point"
             },
@@ -23627,7 +23627,7 @@
             "properties": {
                 "city": "Albany",
                 "handle": "G000555-albanycapital-district",
-                "line1": "Leo W. O\u2019Brien Federal Office Building",
+                "line1": "Leo W. O'Brien Federal Office Building",
                 "line2": "11A Clinton Avenue, Room 821",
                 "name": "Albany/Capital District",
                 "phone": "(518) 431-0120",
@@ -26607,8 +26607,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -88.8038588,
-                    33.4583431
+                    -88.8027055,
+                    33.4573663
                 ],
                 "type": "Point"
             },
@@ -27255,8 +27255,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.309633,
-                    38.985554
+                    -76.28993,
+                    38.975324
                 ],
                 "type": "Point"
             },
@@ -37407,8 +37407,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -83.2611179,
-                    42.4838377
+                    -83.25988629999999,
+                    42.483811
                 ],
                 "type": "Point"
             },
@@ -45543,8 +45543,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -74.1181626,
-                    40.8681508
+                    -74.12380890000001,
+                    40.8612025
                 ],
                 "type": "Point"
             },
@@ -45552,7 +45552,7 @@
                 "city": "Passaic",
                 "handle": "P000096-passaic",
                 "line1": "330 Passaic Street",
-                "line2": "1st Street",
+                "line2": null,
                 "name": "Passaic",
                 "phone": "(973) 472-4510",
                 "rep": {
@@ -53895,15 +53895,15 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.7505332,
-                    42.6537028
+                    -73.749201,
+                    42.65513869999999
                 ],
                 "type": "Point"
             },
             "properties": {
                 "city": "Albany",
                 "handle": "S000148-albany",
-                "line1": "1 Clinton Square",
+                "line1": "1 Clinton Ave",
                 "line2": "Leo O'Brien Federal Building, Room 420",
                 "name": "Albany",
                 "phone": "(518) 431-4070",
@@ -55479,8 +55479,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -85.5901479,
-                    43.0221534
+                    -85.588081,
+                    43.037652
                 ],
                 "type": "Point"
             },
@@ -58107,8 +58107,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -86.3065335,
-                    32.3757506
+                    -86.3054822,
+                    32.3759486
                 ],
                 "type": "Point"
             },
@@ -64191,8 +64191,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -81.0591869,
-                    33.9964175
+                    -81.0889668,
+                    33.9993356
                 ],
                 "type": "Point"
             },
