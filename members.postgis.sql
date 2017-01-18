@@ -72,7 +72,7 @@ INSERT INTO "office" VALUES('B000944-columbus','B000944','DISTRICT','Columbus','
 INSERT INTO "office" VALUES('B000944-washington','B000944','DC','Washington','713 Hart Senate Office Building',NULL,'Washington','DC','20510','(202) 224-2315','SRID=4326;POINT(-77.0043561 38.8928388)');
 INSERT INTO "office" VALUES('B000944-lorain','B000944','DISTRICT','Lorain','200 West Erie Ave.','Suite 312','Lorain','OH','44052','(440) 242-4100','SRID=4326;POINT(-82.1792684 41.4685695)');
 INSERT INTO "office" VALUES('B001135-asheville','B001135','DISTRICT','Asheville','Federal Building','151 Patton Avenue, Suite 204','Asheville','NC','28801','(828) 350-2437','SRID=4326;POINT(-82.55792 35.594066)');
-INSERT INTO "office" VALUES('B001135-winstonsalem','B001135','DISTRICT','Winston-Salem','2000 West First Street','Suite 508','Winston-Salem','NC','27104','(800) 685-8916','SRID=4326;POINT(-80.2748025 36.0960116)');
+INSERT INTO "office" VALUES('B001135-winstonsalem','B001135','DISTRICT','Winston-Salem','2000 West First Street','Suite 508','Winston-Salem','NC','27104','(336) 631-5125','SRID=4326;POINT(-80.2748025 36.0960116)');
 INSERT INTO "office" VALUES('B001135-wilmington','B001135','DISTRICT','Wilmington','201 North Front Street','Suite 809','Wilmington','NC','28401','(888) 848-1833','SRID=4326;POINT(-77.9492582 34.2376985)');
 INSERT INTO "office" VALUES('B001135-rocky-mount','B001135','DISTRICT','Rocky Mount','100 Coast Line Street','Room 210','Rocky Mount','NC','27804','(252) 977-9522','SRID=4326;POINT(-77.7977748 35.9379802)');
 INSERT INTO "office" VALUES('B001135-washington','B001135','DC','Washington','217 Russell Senate Office Building',NULL,'Washington','DC','20510','(202) 224-3154','SRID=4326;POINT(-77.0074155 38.8925417)');
@@ -390,7 +390,7 @@ INSERT INTO "office" VALUES('C001094-apple-valley','C001094','DISTRICT','Apple V
 INSERT INTO "office" VALUES('C001094-washington','C001094','DC','Washington','1222 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-5861','SRID=4326;POINT(-77.0069216 38.8867621)');
 INSERT INTO "office" VALUES('C001095-springdale','C001095','DISTRICT','Springdale','1108 South Old Missouri Road','Suite B','Springdale','AR','72764','(479) 751-0879','SRID=4326;POINT(-94.1176151 36.174571)');
 INSERT INTO "office" VALUES('C001095-jonesboro','C001095','DISTRICT','Jonesboro','300 South Church','Suite 338','Jonesboro','AR','72401','(870) 933-6223','SRID=4326;POINT(-90.7036855 35.8404281)');
-INSERT INTO "office" VALUES('C001095-little-rock','C001095','DISTRICT','Little Rock','1401 West Capitol Ave','Suite 235','Little Rock','AR','72201','(479) 751-0879','SRID=4326;POINT(-92.2865752 34.7456872)');
+INSERT INTO "office" VALUES('C001095-little-rock','C001095','DISTRICT','Little Rock','1401 West Capitol Ave','Suite 235','Little Rock','AR','72201','(501) 223-9081','SRID=4326;POINT(-92.2865752 34.7456872)');
 INSERT INTO "office" VALUES('C001095-washington','C001095','DC','Washington','124 Russell Senate Office Building',NULL,'Washington','DC','20510','(202) 224-2353','SRID=4326;POINT(-77.0074155 38.8925417)');
 INSERT INTO "office" VALUES('C001095-el-dorado','C001095','DISTRICT','El Dorado','106 West Main Street','Suite 410','El Dorado','AR','71730','(870) 864-8582','SRID=4326;POINT(-92.664046 33.2120448)');
 INSERT INTO "office" VALUES('C001096-fargo','C001096','DISTRICT','Fargo','3217 Fiechtner Drive','Suite D','Fargo','ND','58103','(701) 356-2216','SRID=4326;POINT(-96.8314895 46.8653775)');
