@@ -2016,7 +2016,7 @@ INSERT INTO "rep" VALUES('C001106','Ryan','Costello','PA','Pennsylvania',6,'PA06
 INSERT INTO "rep" VALUES('C001107','Carlos','Curbelo','FL','Florida',26,'FL26','26th','REPUBLICAN','HOUSE','Representative','Rep.','http://curbelo.house.gov');
 INSERT INTO "rep" VALUES('C001108','James','Comer','KY','Kentucky',1,'KY01','1st','REPUBLICAN','HOUSE','Representative','Rep.','https://comer.house.gov');
 INSERT INTO "rep" VALUES('C001109','Liz','Cheney','WY','Wyoming',0,'WY00','At-Large','REPUBLICAN','HOUSE','Representative','Rep.','https://cheney.house.gov');
-INSERT INTO "rep" VALUES('C001110','J.','Correa','CA','California',46,'CA46','46th','DEMOCRAT','HOUSE','Representative','Rep.','https://correa.house.gov');
+INSERT INTO "rep" VALUES('C001110','J. Luis','Correa','CA','California',46,'CA46','46th','DEMOCRAT','HOUSE','Representative','Rep.','https://correa.house.gov');
 INSERT INTO "rep" VALUES('C001111','Charlie','Crist','FL','Florida',13,'FL13','13th','DEMOCRAT','HOUSE','Representative','Rep.','https://crist.house.gov');
 INSERT INTO "rep" VALUES('C001112','Salud','Carbajal','CA','California',24,'CA24','24th','DEMOCRAT','HOUSE','Representative','Rep.','https://carbajal.house.gov');
 INSERT INTO "rep" VALUES('C001113','Catherine','Cortez Masto','NV','Nevada',NULL,NULL,NULL,'DEMOCRAT','SENATE','Senator','Sen.','http://www.cortezmasto.senate.gov');
@@ -2073,7 +2073,7 @@ INSERT INTO "rep" VALUES('F000461','Bill','Flores','TX','Texas',17,'TX17','17th'
 INSERT INTO "rep" VALUES('F000462','Lois','Frankel','FL','Florida',22,'FL22','22nd','DEMOCRAT','HOUSE','Representative','Rep.','http://teddeutch.house.gov');
 INSERT INTO "rep" VALUES('F000463','Deb','Fischer','NE','Nebraska',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','http://www.fischer.senate.gov');
 INSERT INTO "rep" VALUES('F000464','John','Faso','NY','New York',19,'NY19','19th','REPUBLICAN','HOUSE','Representative','Rep.','https://faso.house.gov');
-INSERT INTO "rep" VALUES('F000465','A.','Ferguson','GA','Georgia',3,'GA03','3rd','REPUBLICAN','HOUSE','Representative','Rep.','https://ferguson.house.gov');
+INSERT INTO "rep" VALUES('F000465','Drew','Ferguson','GA','Georgia',3,'GA03','3rd','REPUBLICAN','HOUSE','Representative','Rep.','https://ferguson.house.gov');
 INSERT INTO "rep" VALUES('F000466','Brian','Fitzpatrick','PA','Pennsylvania',8,'PA08','8th','REPUBLICAN','HOUSE','Representative','Rep.','https://brianfitzpatrick.house.gov');
 INSERT INTO "rep" VALUES('G000289','Bob','Goodlatte','VA','Virginia',6,'VA06','6th','REPUBLICAN','HOUSE','Representative','Rep.','https://goodlatte.house.gov');
 INSERT INTO "rep" VALUES('G000359','Lindsey','Graham','SC','South Carolina',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','http://www.lgraham.senate.gov/');
@@ -2249,7 +2249,7 @@ INSERT INTO "rep" VALUES('M001196','Seth','Moulton','MA','Massachusetts',6,'MA06
 INSERT INTO "rep" VALUES('M001197','Martha','McSally','AZ','Arizona',2,'AZ02','2nd','REPUBLICAN','HOUSE','Representative','Rep.','https://mcsally.house.gov');
 INSERT INTO "rep" VALUES('M001198','Roger','Marshall','KS','Kansas',1,'KS01','1st','REPUBLICAN','HOUSE','Representative','Rep.','https://marshall.house.gov');
 INSERT INTO "rep" VALUES('M001199','Brian','Mast','FL','Florida',18,'FL18','18th','REPUBLICAN','HOUSE','Representative','Rep.','https://mast.house.gov');
-INSERT INTO "rep" VALUES('M001200','A.','McEachin','VA','Virginia',4,'VA04','4th','DEMOCRAT','HOUSE','Representative','Rep.','https://mceachin.house.gov');
+INSERT INTO "rep" VALUES('M001200','A. Donald','McEachin','VA','Virginia',4,'VA04','4th','DEMOCRAT','HOUSE','Representative','Rep.','https://mceachin.house.gov');
 INSERT INTO "rep" VALUES('M001201','Paul','Mitchell','MI','Michigan',10,'MI10','10th','REPUBLICAN','HOUSE','Representative','Rep.','https://mitchell.house.gov');
 INSERT INTO "rep" VALUES('M001202','Stephanie','Murphy','FL','Florida',7,'FL07','7th','DEMOCRAT','HOUSE','Representative','Rep.','https://stephaniemurphy.house.gov');
 INSERT INTO "rep" VALUES('N000002','Jerrold','Nadler','NY','New York',10,'NY10','10th','DEMOCRAT','HOUSE','Representative','Rep.','http://nadler.house.gov');
