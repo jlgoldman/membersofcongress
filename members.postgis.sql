@@ -882,7 +882,7 @@ INSERT INTO "office" VALUES('J000297-beckley','J000297','DISTRICT','Beckley','30
 INSERT INTO "office" VALUES('J000297-bluefield','J000297','DISTRICT','Bluefield','601 Federal St. Suite 1003','Elizabeth Kee Federal Building','Bluefield','WV','24701','(304) 325-6800','SRID=4326;POINT(-81.2215008 37.267208)');
 INSERT INTO "office" VALUES('J000297-huntington','J000297','DISTRICT','Huntington','845 Fifth Ave.','Suite 314','Huntington','WV','25701','(304) 522-2201','SRID=4326;POINT(-82.4441521 38.4189915)');
 INSERT INTO "office" VALUES('J000297-washington','J000297','DC','Washington','502 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-3452','SRID=4326;POINT(-77.0085 38.8868)');
-INSERT INTO "office" VALUES('J000298-seattle','J000298','DISTRICT','Seattle','1904 3rd Ave., Suite 510',NULL,'Seattle','WA','98101',NULL,'SRID=4326;POINT(-122.3397313 47.6119653)');
+INSERT INTO "office" VALUES('J000298-seattle','J000298','DISTRICT','Seattle','1904 3rd Ave., Suite 510',NULL,'Seattle','WA','98101','(206) 674-0040','SRID=4326;POINT(-122.3397313 47.6119653)');
 INSERT INTO "office" VALUES('J000298-washington','J000298','DC','Washington','319 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-3106','SRID=4326;POINT(-77.0085 38.8868)');
 INSERT INTO "office" VALUES('J000299-bossier-city','J000299','DISTRICT','Bossier City','2250 Hospital Drive','Suite 248','Bossier City','LA','71111',NULL,'SRID=4326;POINT(-93.7228425 32.5579513)');
 INSERT INTO "office" VALUES('J000299-washington','J000299','DC','Washington','327 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-2777','SRID=4326;POINT(-77.0085 38.8868)');
