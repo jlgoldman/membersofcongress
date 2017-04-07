@@ -1764,6 +1764,8 @@ INSERT INTO "office" VALUES('V000081-washington','V000081','DC','Washington','23
 INSERT INTO "office" VALUES('V000108-merrillville','V000108','DISTRICT','Merrillville','7895 Broadway, Suite A',NULL,'Merrillville','IN','46410','(219) 795-1844','SRID=4326;POINT(-87.3354152 41.4752503)');
 INSERT INTO "office" VALUES('V000108-washington','V000108','DC','Washington','2328 Rayburn House Office Building',NULL,'Washington','DC','20515','(202) 225-2461','SRID=4326;POINT(-77.0104749 38.8871071)');
 INSERT INTO "office" VALUES('V000128-washington','V000128','DC','Washington','B40C Dirksen Senate Office Building',NULL,'Washington','DC','20510','(202) 224-4654','SRID=4326;POINT(-77.0051216 38.8928369)');
+INSERT INTO "office" VALUES('V000128-rockville','V000128','DISTRICT','Rockville','111 Rockville Pike','Suite 960','Rockville','MD','20850','(301) 545-1500','SRID=4326;POINT(-77.1492547 39.0858512)');
+INSERT INTO "office" VALUES('V000128-hagerstown','V000128','DISTRICT','Hagerstown','32 West Washington Street','Suite 203','Hagerstown','MD','21740','(301) 797-2826','SRID=4326;POINT(-77.721057 39.642645)');
 INSERT INTO "office" VALUES('V000129-hanford','V000129','DISTRICT','Hanford','101 North Irwin Street','Suite 110B','Hanford','CA','93230','(559) 582-5526','SRID=4326;POINT(-119.646568 36.3257372)');
 INSERT INTO "office" VALUES('V000129-washington','V000129','DC','Washington','1004 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-4695','SRID=4326;POINT(-77.0069216 38.8867621)');
 INSERT INTO "office" VALUES('V000129-bakersfield','V000129','DISTRICT','Bakersfield','2700 M Street','Suite #250B','Bakersfield','CA','93301','(661) 864-7736','SRID=4326;POINT(-119.0145887 35.3835765)');
