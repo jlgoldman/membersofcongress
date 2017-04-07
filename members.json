@@ -31304,6 +31304,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            {
+                "city": "Rockville",
+                "handle": "V000128-rockville",
+                "latitude": 39.0858512,
+                "line1": "111 Rockville Pike",
+                "line2": "Suite 960",
+                "longitude": -77.1492547,
+                "name": "Rockville",
+                "phone": "(301) 545-1500",
+                "state_code": "MD",
+                "type": "DISTRICT",
+                "zip": "20850"
+            },
+            {
+                "city": "Hagerstown",
+                "handle": "V000128-hagerstown",
+                "latitude": 39.642645,
+                "line1": "32 West Washington Street",
+                "line2": "Suite 203",
+                "longitude": -77.721057,
+                "name": "Hagerstown",
+                "phone": "(301) 797-2826",
+                "state_code": "MD",
+                "type": "DISTRICT",
+                "zip": "21740"
             }
         ],
         "party": "DEMOCRAT",
