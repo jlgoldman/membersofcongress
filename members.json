@@ -542,7 +542,7 @@
                 "line2": "#819",
                 "longitude": -99.7346145,
                 "name": "Abilene",
-                "phone": null,
+                "phone": "(325) 675-9779",
                 "state_code": "TX",
                 "type": "DISTRICT",
                 "zip": "79602"
@@ -551,11 +551,11 @@
                 "city": "Lubbock",
                 "handle": "A000375-lubbock",
                 "latitude": 33.5885782,
-                "line1": "611 University Ave. #220",
-                "line2": null,
+                "line1": "1312 Texas Ave.",
+                "line2": "Suite 219",
                 "longitude": -101.8702325,
                 "name": "Lubbock",
-                "phone": null,
+                "phone": "(806) 763 - 1611",
                 "state_code": "TX",
                 "type": "DISTRICT",
                 "zip": "79401"
@@ -3361,7 +3361,7 @@
                 "line2": "Suite 101",
                 "longitude": -96.1296555,
                 "name": "Omaha",
-                "phone": null,
+                "phone": "(402) 938-0300",
                 "state_code": "NE",
                 "type": "DISTRICT",
                 "zip": "68144"
@@ -3404,7 +3404,7 @@
                 "line2": null,
                 "longitude": -85.1404535,
                 "name": "Fort Wayne",
-                "phone": null,
+                "phone": "(260) 702-4750",
                 "state_code": "IN",
                 "type": "DISTRICT",
                 "zip": "46802"
@@ -3447,7 +3447,7 @@
                 "line2": null,
                 "longitude": -118.2051037,
                 "name": "South Gate",
-                "phone": "(323) 563-9562",
+                "phone": "(310) 831-1799",
                 "state_code": "CA",
                 "type": "DISTRICT",
                 "zip": "90280"
@@ -3464,6 +3464,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Carson",
+              "handle": "B001300-carson",
+              "latitude": xxx,
+              "line1": "701 E. Carson St",
+              "line2": null,
+              "longitude": xxx,
+              "name": "Carson",
+              "phone": "(310) 831-1799",
+              "state_code": "CA",
+              "type": "DISTRICT",
+              "zip": "90745"
+            },
+            {
+              "city": "San Pedro",
+              "handle": "B001300-san-pedro",
+              "latitude": xxx,
+              "line1": "302 W. Fifth St",
+              "line2": "Suite 201",
+              "longitude": xxx,
+              "name": "San Pedro",
+              "phone": "(310) 831-1799",
+              "state_code": "CA",
+              "type": "DISTRICT",
+              "zip": "90731"
             }
         ],
         "party": "DEMOCRAT",
@@ -3494,6 +3520,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Traverse City",
+              "handle": "B001301-traverse-city",
+              "latitude": xxx,
+              "line1": "1396 Douglas Drive",
+              "line2": "Suite 22B",
+              "longitude": xxx,
+              "name": "Traverse City",
+              "phone": "(231) 944-7633",
+              "state_code": "MI",
+              "type": "DISTRICT",
+              "zip": "49696"
+            },
+            {
+              "city": "Marquette",
+              "handle": "B001301-marquette",
+              "latitude": xxx,
+              "line1": "1500 W. Washington St.",
+              "line2": "Suite 2",
+              "longitude": xxx,
+              "name": "Marquette",
+              "phone": "(906) 273-2227",
+              "state_code": "MI",
+              "type": "DISTRICT",
+              "zip": "49855"
             }
         ],
         "party": "REPUBLICAN",
@@ -3517,10 +3569,10 @@
                 "handle": "B001302-mesa",
                 "latitude": 33.3712904,
                 "line1": "2509 S Power Rd",
-                "line2": "Suite 205",
+                "line2": "Suite 204",
                 "longitude": -111.6870648,
                 "name": "Mesa",
-                "phone": null,
+                "phone": "(480) 699-8239",
                 "state_code": "AZ",
                 "type": "DISTRICT",
                 "zip": "85209"
@@ -3563,7 +3615,7 @@
                 "line2": "Suite 400",
                 "longitude": -75.5471367,
                 "name": "Wilmington",
-                "phone": null,
+                "phone": "(302) 830-2330",
                 "state_code": "DE",
                 "type": "DISTRICT",
                 "zip": "19801"
@@ -3606,7 +3658,7 @@
                 "line2": "Ste 103",
                 "longitude": -76.8384674,
                 "name": "Upper Marlboro",
-                "phone": null,
+                "phone": "(301) 458-2600",
                 "state_code": "MD",
                 "type": "DISTRICT",
                 "zip": "20774"
@@ -3645,11 +3697,11 @@
                 "city": "Advance",
                 "handle": "B001305-advance",
                 "latitude": 36.0038879,
-                "line1": "128 Peachtree Lane-Suite A",
-                "line2": null,
+                "line1": "128 Peachtree Lane",
+                "line2": "Suite A",
                 "longitude": -80.4394348,
                 "name": "Advance",
-                "phone": null,
+                "phone": "(336) 998-1313",
                 "state_code": "NC",
                 "type": "DISTRICT",
                 "zip": "27006"
@@ -3666,19 +3718,6 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
-            },
-            {
-                "city": "Mooresville",
-                "handle": "B001305-mooresville",
-                "latitude": 35.599466,
-                "line1": "116 Morlake Dr",
-                "line2": "Suite 101A",
-                "longitude": -80.863322,
-                "name": "Mooresville",
-                "phone": null,
-                "state_code": "NC",
-                "type": "DISTRICT",
-                "zip": "28117"
             }
         ],
         "party": "REPUBLICAN",
@@ -7370,6 +7409,19 @@
                 "state_code": "WY",
                 "type": "DISTRICT",
                 "zip": "82801"
+            },
+            {
+              "city": "Gillette",
+              "handle": "C001109-gillette",
+              "latitude": xxx,
+              "line1": "300 S.Gillette Ave",
+              "line2": "Suite 2000",
+              "longitude": xxx,
+              "name": "Gillette",
+              "phone": "(307) 414-1677",
+              "state_code": "WY",
+              "type": "DISTRICT",
+              "zip": "82716"
             }
         ],
         "party": "REPUBLICAN",
@@ -7430,6 +7482,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "St. Petersburg",
+              "handle": "C001111-st-petersburg",
+              "latitude": xxx,
+              "line1": "696 1st Avenue North",
+              "line2": "Suite 203",
+              "longitude": xxx,
+              "name": "St. Petersburg",
+              "phone": "(727) 318-6770",
+              "state_code": "FL",
+              "type": "DISTRICT",
+              "zip": "33701"
             }
         ],
         "party": "DEMOCRAT",
@@ -7456,7 +7521,7 @@
                 "line2": "Suite 205",
                 "longitude": -120.6538213,
                 "name": "San Luis Obispo",
-                "phone": "(888) 202-8934",
+                "phone": "(805) 546-8348",
                 "state_code": "CA",
                 "type": "DISTRICT",
                 "zip": "93401"
@@ -7473,6 +7538,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Santa Barbara",
+              "handle": "C001112-santa-barbara",
+              "latitude": xxx,
+              "line1": "360 S. Hope Ave",
+              "line2": "Suite C-301",
+              "longitude": xxx,
+              "name": "Santa Barbara",
+              "phone": "(805) 730-1710",
+              "state_code": "CA",
+              "type": "DISTRICT",
+              "zip": "93105"
             }
         ],
         "party": "DEMOCRAT",
@@ -7503,6 +7581,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            {
+              "city": "Las Vegas",
+              "handle": "C001113-las-vegas",
+              "latitude": xxx,
+              "line1": "333 Las Vegas Blvd South",
+              "line2": "Suite 8016",
+              "longitude": xxx,
+              "name": "Las Vegas",
+              "phone": "(702) 388-5020",
+              "state_code": "NV",
+              "type": "DISTRICT",
+              "zip": "89101"
+            },
+            {
+              "city": "Reno",
+              "handle": "C001113-reno",
+              "latitude": xxx,
+              "line1": "400 S. Virginia St, Suite 902",
+              "line2": "Courthouse and Federal Building",
+              "longitude": xxx,
+              "name": "Reno",
+              "phone": " (775) 686-5750",
+              "state_code": "NV",
+              "type": "DISTRICT",
+              "zip": "89501"
             }
         ],
         "party": "DEMOCRAT",
@@ -9025,6 +9129,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            {
+              "city": "Springfield",
+              "handle": "D000622-springfield",
+              "latitude": xxx,
+              "line1": "8 South Old State Capitol Plaza",
+              "line2": null,
+              "longitude": xxx,
+              "name": "Springfield",
+              "phone": "(217) 528-6124",
+              "state_code": "IL",
+              "type": "DISTRICT",
+              "zip": "62701"
             }
         ],
         "party": "DEMOCRAT",
@@ -9288,7 +9405,7 @@
                 "line2": "Suite 301",
                 "longitude": -81.4818644,
                 "name": "Orlando",
-                "phone": null,
+                "phone": "(321) 388-9808",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "32835"
@@ -9353,8 +9470,8 @@
                 "city": "Panama City",
                 "handle": "D000628-panama-city",
                 "latitude": 30.167961,
-                "line1": "840 W. 11th St. Suite 2250",
-                "line2": null,
+                "line1": "840 W. 11th St.",
+                "line2": "Suite 2250",
                 "longitude": -85.671895,
                 "name": "Panama City",
                 "phone": "(850) 785-0812",
@@ -9865,6 +9982,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Bronx",
+              "handle": "E000297-bronx",
+              "latitude": xxx,
+              "line1": "2530 Grand Concourse",
+              "line2": "Ground Floor",
+              "longitude": xxx,
+              "name": "Bronx",
+              "phone": "(718) 450-8241",
+              "state_code": "NY",
+              "type": "DISTRICT",
+              "zip": "10458"
+            },
+            {
+              "city": "New York",
+              "handle": "E000297-new-york",
+              "latitude": xxx,
+              "line1": "163 West 125th Street",
+              "line2": "Harlem State Office Building",
+              "longitude": xxx,
+              "name": "New York",
+              "phone": "(212) 663-3900",
+              "state_code": "NY",
+              "type": "DISTRICT",
+              "zip": "10027"
             }
         ],
         "party": "DEMOCRAT",
@@ -12482,10 +12625,10 @@
                 "line2": "6th Floor",
                 "longitude": -87.2143001,
                 "name": "Pensacola",
-                "phone": null,
+                "phone": "(850) 479-1183",
                 "state_code": "FL",
                 "type": "DISTRICT",
-                "zip": "32502"
+                "zip": "32503"
             },
             {
                 "city": "Washington",
@@ -12499,6 +12642,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Fort Walton Beach",
+              "handle": "G000578-fort-walton-beach",
+              "latitude": xxx,
+              "line1": "1170 Martin Luther King, Jr. Blvd",
+              "line2": "Bldg. 4, Rm 454",
+              "longitude": xxx,
+              "name": "Fort Walton Beach",
+              "phone": "(850) 479-1183",
+              "state_code": "FL",
+              "type": "DISTRICT",
+              "zip": "32547"
             }
         ],
         "party": "REPUBLICAN",
@@ -12525,7 +12681,7 @@
                 "line2": null,
                 "longitude": -88.4094435,
                 "name": "Appleton",
-                "phone": null,
+                "phone": "(920) 903-9806",
                 "state_code": "WI",
                 "type": "DISTRICT",
                 "zip": "54911"
@@ -12542,6 +12698,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Green Bay",
+              "handle": "G000579-green-bay",
+              "latitude": xxx,
+              "line1": "1915 S. Webster Avenue",
+              "line2": "Suite D",
+              "longitude": xxx,
+              "name": "Greey Bay",
+              "phone": "(920) 301-4500",
+              "state_code": "WI",
+              "type": "DISTRICT",
+              "zip": "54301"
             }
         ],
         "party": "REPUBLICAN",
@@ -12710,7 +12879,7 @@
                 "line2": "Suite 104",
                 "longitude": -74.143801,
                 "name": "Glen Rock",
-                "phone": "(888) 216-5646",
+                "phone": "(201) 389-1100",
                 "state_code": "NJ",
                 "type": "DISTRICT",
                 "zip": "07452"
@@ -12727,6 +12896,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Newton",
+              "handle": "G000583-newton",
+              "latitude": xxx,
+              "line1": "93 Spring Street",
+              "line2": "Suite 408",
+              "longitude": xxx,
+              "name": "Newton",
+              "phone": "(973) 814-4078",
+              "state_code": "NJ",
+              "type": "DISTRICT",
+              "zip": "07860"
             }
         ],
         "party": "DEMOCRAT",
@@ -14469,10 +14651,23 @@
                 "line2": null,
                 "longitude": -85.7413663,
                 "name": "Jeffersonville",
-                "phone": null,
+                "phone": "(812) 288-3999",
                 "state_code": "IN",
                 "type": "DISTRICT",
                 "zip": "47130"
+            },
+            {
+              "city": "Greenwood",
+              "handle": "H001074-greenwood",
+              "latitude": xxx,
+              "line1": "720 Executive Park Dr.",
+              "line2": "Suite 3000B",
+              "longitude": xxx,
+              "name": "Greenwood",
+              "phone": "(317) 851-8710",
+              "state_code": "IN",
+              "type": "DISTRICT",
+              "zip": "46143"
             }
         ],
         "party": "REPUBLICAN",
@@ -14598,6 +14793,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            {
+              "city": "Manchester",
+              "handle": "H001076-manchester",
+              "latitude": xxx,
+              "line1": "1589 Elm Street",
+              "line2": "Third Floor",
+              "longitude": xxx,
+              "name": "Manchester",
+              "phone": "(603) 622-2204",
+              "state_code": "NH",
+              "type": "DISTRICT",
+              "zip": "03101"
+            },
+            {
+              "city": "Portsmouth",
+              "handle": "H001076-portsmouth",
+              "latitude": xxx,
+              "line1": "14 Manchester Square",
+              "line2": "Suite #140",
+              "longitude": xxx,
+              "name": "Portsmouth",
+              "phone": "(603) 433-4445",
+              "state_code": "NH",
+              "type": "DISTRICT",
+              "zip": "03801"
             }
         ],
         "party": "DEMOCRAT",
@@ -14628,6 +14849,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Lafayette",
+              "handle": "H001077-Lafayette",
+              "latitude": xxx,
+              "line1": "600 Jefferson Street",
+              "line2": "Suite 808",
+              "longitude": xxx,
+              "name": "Lafayette",
+              "phone": "(337) 703-6105",
+              "state_code": "LA",
+              "type": "DISTRICT",
+              "zip": "70501"
+            },
+            {
+              "city": "Lake Charles",
+              "handle": "H001077-lake-charles",
+              "latitude": xxx,
+              "line1": "1 Lakeshore Drive",
+              "line2": "Suite 1670",
+              "longitude": xxx,
+              "name": "Lake Charles",
+              "phone": "(337) 656-2833",
+              "state_code": "LA",
+              "type": "DISTRICT",
+              "zip": "70629"
             }
         ],
         "party": "REPUBLICAN",
@@ -15589,7 +15836,7 @@
                 "line2": "Suite 248",
                 "longitude": -93.7228425,
                 "name": "Bossier City",
-                "phone": null,
+                "phone": "(318) 840-0309",
                 "state_code": "LA",
                 "type": "DISTRICT",
                 "zip": "71111"
@@ -15606,6 +15853,32 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Natchitoches",
+              "handle": "J000299-natchitoches",
+              "latitude": xxx,
+              "line1": "444 Caspari Drive",
+              "line2": "South Hall Room 224",
+              "longitude": xxx,
+              "name": "Natchitoches",
+              "phone": "(318) 357-5731",
+              "state_code": "LA",
+              "type": "DISTRICT",
+              "zip": "71497"
+            },
+            {
+              "city": "Leesville",
+              "handle": "J000299-leesville",
+              "latitude": xxx,
+              "line1": "3329 University Parkway",
+              "line2": "Building 552, Room 24",
+              "longitude": xxx,
+              "name": "Leesville",
+              "phone": "(337) 392-3146",
+              "state_code": "LA",
+              "type": "DISTRICT",
+              "zip": "71446"
             }
         ],
         "party": "REPUBLICAN",
@@ -16943,7 +17216,7 @@
                 "line2": "Suite 500",
                 "longitude": -115.1214764,
                 "name": "North Las Vegas",
-                "phone": null,
+                "phone": "(702) 963-9360",
                 "state_code": "NV",
                 "type": "DISTRICT",
                 "zip": "89030"
@@ -17029,7 +17302,7 @@
                 "line2": null,
                 "longitude": -89.3845615,
                 "name": "Dyersburg",
-                "phone": null,
+                "phone": "(731) 412-1037",
                 "state_code": "TN",
                 "type": "DISTRICT",
                 "zip": "38024"
@@ -17042,7 +17315,7 @@
                 "line2": null,
                 "longitude": -88.850229,
                 "name": "Martin",
-                "phone": null,
+                "phone": "(731) 412-1043",
                 "state_code": "TN",
                 "type": "DISTRICT",
                 "zip": "38237"
@@ -17055,7 +17328,7 @@
                 "line2": "Suite 202",
                 "longitude": -89.8641093,
                 "name": "Memphis",
-                "phone": null,
+                "phone": "(901) 682-4422",
                 "state_code": "TN",
                 "type": "DISTRICT",
                 "zip": "38119"
@@ -17072,6 +17345,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Jackson",
+              "handle": "K000392-jackson",
+              "latitude": xxx,
+              "line1": "117 North Liberty Street",
+              "line2": null,
+              "longitude": xxx,
+              "name": "Jackson",
+              "phone": "(731) 423-4848",
+              "state_code": "TN",
+              "type": "DISTRICT",
+              "zip": "38301"
             }
         ],
         "party": "REPUBLICAN",
@@ -17094,7 +17380,7 @@
                 "city": "Washington",
                 "handle": "K000393-washington",
                 "latitude": 38.8925417,
-                "line1": "B11 Russell Senate Office Building",
+                "line1": "SR383 Russell Senate Building",
                 "line2": null,
                 "longitude": -77.0074155,
                 "name": "Washington",
@@ -18916,7 +19202,7 @@
                 "line2": null,
                 "longitude": -84.2881976,
                 "name": "Tallahassee",
-                "phone": null,
+                "phone": "(850) 558-9450",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "32301"
@@ -18933,6 +19219,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Jacksonville",
+              "handle": "L000586-jacksonville",
+              "latitude": xxx,
+              "line1": "1010 N. Davis St",
+              "line2": "Suite 206",
+              "longitude": xxx,
+              "name": "Jacksonville",
+              "phone": "(904) 354-1652",
+              "state_code": "FL",
+              "type": "DISTRICT",
+              "zip": "32209"
             }
         ],
         "party": "DEMOCRAT",
@@ -18959,7 +19258,7 @@
                 "line2": "Ste 200",
                 "longitude": -93.236107,
                 "name": "Burnsville",
-                "phone": null,
+                "phone": "(651) 846-2120",
                 "state_code": "MN",
                 "type": "DISTRICT",
                 "zip": "55337"
@@ -21593,7 +21892,7 @@
                 "line2": null,
                 "longitude": -97.6077412,
                 "name": "Salina",
-                "phone": null,
+                "phone": "(785) 829-9000",
                 "state_code": "KS",
                 "type": "DISTRICT",
                 "zip": "67401"
@@ -21636,7 +21935,7 @@
                 "line2": null,
                 "longitude": -80.3430288,
                 "name": "Port St Lucie",
-                "phone": null,
+                "phone": "(772) 336-2877",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "34984"
@@ -21649,7 +21948,7 @@
                 "line2": null,
                 "longitude": -80.2560599,
                 "name": "Stuart",
-                "phone": null,
+                "phone": "(772) 403-0900",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "34994"
@@ -21696,6 +21995,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Richmond",
+              "handle": "M001200-richmond",
+              "latitude": xxx,
+              "line1": "110 North Robinson Street",
+              "line2": "Suite 401",
+              "longitude": xxx,
+              "name": "Richmond",
+              "phone": "(804) 486-1840",
+              "state_code": "VA",
+              "type": "DISTRICT",
+              "zip": "23220"
             }
         ],
         "party": "DEMOCRAT",
@@ -21782,6 +22094,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Sanford",
+              "handle": "M001202-sanford",
+              "latitude": xxx,
+              "line1": "110 W. First Street",
+              "line2": "Suite 210",
+              "longitude": xxx,
+              "name": "Sanford",
+              "phone": "(888) 205-5421",
+              "state_code": "FL",
+              "type": "DISTRICT",
+              "zip": "32771"
             }
         ],
         "party": "DEMOCRAT",
@@ -22575,6 +22900,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Tucson",
+              "handle": "O000171-tucson",
+              "latitude": xxx,
+              "line1": "3037 W. Ina Rd",
+              "line2": "Suite 101",
+              "longitude": xxx,
+              "name": "Tucson",
+              "phone": "(928) 304-0131",
+              "state_code": "AZ",
+              "type": "DISTRICT",
+              "zip": "85741"
             }
         ],
         "party": "DEMOCRAT",
@@ -26558,6 +26896,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Rockville",
+              "handle": "R000606-rockville",
+              "latitude": xxx,
+              "line1": "51 Monroe St",
+              "line2": "Suite 503",
+              "longitude": xxx,
+              "name": "Rockville",
+              "phone": "(301) 354-1000",
+              "state_code": "MD",
+              "type": "DISTRICT",
+              "zip": "20850"
             }
         ],
         "party": "DEMOCRAT",
@@ -26584,7 +26935,7 @@
                 "line2": "Suite 105",
                 "longitude": -81.7664209,
                 "name": "Naples",
-                "phone": null,
+                "phone": "(239) 252-6225",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "34112"
@@ -26606,11 +26957,11 @@
                 "city": "Cape Coral",
                 "handle": "R000607-cape-coral",
                 "latitude": 26.6320987,
-                "line1": "1039 S.E. 9th Place",
+                "line1": "1039 S.E. 9th Ave",
                 "line2": "Suite 308",
                 "longitude": -81.9561391,
                 "name": "Cape Coral",
-                "phone": null,
+                "phone": "(239) 599-6033",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "33990"
@@ -26637,10 +26988,10 @@
                 "handle": "R000608-las-vegas",
                 "latitude": 36.0279118,
                 "line1": "8872 S Eastern Ave",
-                "line2": "Suite 210/220",
+                "line2": "Suite 220",
                 "longitude": -115.1158569,
                 "name": "Las Vegas",
-                "phone": null,
+                "phone": "(702) 963-9500",
                 "state_code": "NV",
                 "type": "DISTRICT",
                 "zip": "89123"
@@ -26683,7 +27034,7 @@
                 "line2": "Suite 2500",
                 "longitude": -81.5959646,
                 "name": "Jacksonville",
-                "phone": null,
+                "phone": "(904) 831-5205",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "32216"
@@ -28301,10 +28652,10 @@
                 "handle": "S001170-dover",
                 "latitude": 43.205869,
                 "line1": "660 Central Ave",
-                "line2": null,
+                "line2": "Unit 101",
                 "longitude": -70.8756835,
                 "name": "Dover",
-                "phone": "(888) 216-5373",
+                "phone": "(603) 285-4300",
                 "state_code": "NH",
                 "type": "DISTRICT",
                 "zip": "03820"
@@ -29041,7 +29392,7 @@
                 "line2": "Suite 200",
                 "longitude": -87.9362154,
                 "name": "Lincolnshire",
-                "phone": null,
+                "phone": "(847) 383-4870",
                 "state_code": "IL",
                 "type": "DISTRICT",
                 "zip": "60069"
@@ -29623,7 +29974,7 @@
                 "line2": "Suite 201",
                 "longitude": -76.3031804,
                 "name": "Lancaster",
-                "phone": null,
+                "phone": "(717) 393-0667",
                 "state_code": "PA",
                 "type": "DISTRICT",
                 "zip": "17602"
@@ -29662,11 +30013,11 @@
                 "city": "Kissimmee",
                 "handle": "S001200-kissimmee",
                 "latitude": 28.2906297,
-                "line1": "804 Bryan Street",
+                "line1": "804 W Bryan Street",
                 "line2": null,
                 "longitude": -81.4123113,
                 "name": "Kissimmee",
-                "phone": null,
+                "phone": "(407) 452-1171",
                 "state_code": "FL",
                 "type": "DISTRICT",
                 "zip": "34741"
@@ -29683,6 +30034,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Orlando",
+              "handle": "S001200-orlando",
+              "latitude": xxx,
+              "line1": "6900 Lake Nona Blvd",
+              "line2": "Suites #101A & #101B",
+              "longitude": xxx,
+              "name": "Orlando",
+              "phone": "(407) 266-7161",
+              "state_code": "FL",
+              "type": "DISTRICT",
+              "zip": "32827"
             }
         ],
         "party": "DEMOCRAT",
@@ -29709,7 +30073,7 @@
                 "line2": null,
                 "longitude": -73.411319,
                 "name": "Huntington",
-                "phone": null,
+                "phone": "(631) 923-4100",
                 "state_code": "NY",
                 "type": "DISTRICT",
                 "zip": "11743"
@@ -29726,6 +30090,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Little Neck",
+              "handle": "S001201-little-neck",
+              "latitude": xxx,
+              "line1": "250-02 Northern Boulevard",
+              "line2": null,
+              "longitude": xxx,
+              "name": "Little Neck",
+              "phone": "(631) 923-4100",
+              "state_code": "NY",
+              "type": "DISTRICT",
+              "zip": "11362"
             }
         ],
         "party": "DEMOCRAT",
@@ -30968,6 +31345,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Virginia Beach",
+              "handle": "T000477-virginia-beach",
+              "latitude": xxx,
+              "line1": "1 Columbus Center",
+              "line2": "Suite 900",
+              "longitude": xxx,
+              "name": "Virginia Beach",
+              "phone": null,
+              "state_code": "VA",
+              "type": "DISTRICT",
+              "zip": "23462"
             }
         ],
         "party": "REPUBLICAN",
@@ -30991,10 +31381,10 @@
                 "handle": "T000478-new-hartford",
                 "latitude": 43.0903185,
                 "line1": "555 French Rd",
-                "line2": null,
+                "line2": "Suite 101",
                 "longitude": -75.278421,
                 "name": "New Hartford",
-                "phone": null,
+                "phone": "(315) 732-0713",
                 "state_code": "NY",
                 "type": "DISTRICT",
                 "zip": "13413"
@@ -31011,6 +31401,19 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            {
+              "city": "Binghamton",
+              "handle": "T000478-binghamton",
+              "latitude": xxx,
+              "line1": "49 Court Street",
+              "line2": "Metro Center, Suite 210",
+              "longitude": xxx,
+              "name": "Binghamton",
+              "phone": "(607) 376-6002",
+              "state_code": "NY",
+              "type": "DISTRICT",
+              "zip": "13901"
             }
         ],
         "party": "REPUBLICAN",
@@ -33286,6 +33689,58 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            {
+              "city": "Indianapolis",
+              "handle": "Y000064-indianapolis",
+              "latitude": xxx,
+              "line1": "46 East Ohio Street",
+              "line2": "Suite 462",
+              "longitude": xxx,
+              "name": "Indianapolis",
+              "phone": "(317) 226-6700",
+              "state_code": "IN",
+              "type": "DISTRICT",
+              "zip": "46204"
+            },
+            {
+              "city": "New Albany",
+              "handle": "Y000064-new-albany",
+              "latitude": xxx,
+              "line1": "121 West Spring Street",
+              "line2": "Suite 130-C & 225",
+              "longitude": xxx,
+              "name": "New Albany",
+              "phone": "(812) 542-4820",
+              "state_code": "IN",
+              "type": "DISTRICT",
+              "zip": "47150"
+            },
+            {
+              "city": "Evansville",
+              "handle": "Y000064-evansville",
+              "latitude": xxx,
+              "line1": "101 Martin Luther King Jr. Blvd",
+              "line2": "Suite 110",
+              "longitude": xxx,
+              "name": "Evansville",
+              "phone": "",
+              "state_code": "IN",
+              "type": "DISTRICT",
+              "zip": "47708"
+            },
+            {
+              "city": "Fort Wayne",
+              "handle": "Y000064-fort-wayne",
+              "latitude": xxx,
+              "line1": "1300 South Harrison Street",
+              "line2": "Suite # 3161",
+              "longitude": xxx,
+              "name": "Fort Wayne",
+              "phone": "",
+              "state_code": "IN",
+              "type": "DISTRICT",
+              "zip": "46802"
             }
         ],
         "party": "REPUBLICAN",
