@@ -9984,19 +9984,6 @@
                 "zip": "20515"
             },
             {
-                "city": "Bronx",
-                "handle": "E000297-bronx",
-                "latitude": "ZERO_RESULTS",
-                "line1": "2530 Grand Concourse",
-                "line2": "Ground Floor",
-                "longitude": "ZERO_RESULTS",
-                "name": "Bronx",
-                "phone": "(718) 450-8241",
-                "state_code": "NY",
-                "type": "DISTRICT",
-                "zip": "10458"
-            },
-            {
                 "city": "New York",
                 "handle": "E000297-new-york",
                 "latitude": 40.8092263,
