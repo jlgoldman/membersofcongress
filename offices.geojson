@@ -1130,7 +1130,7 @@
                 "line1": "1312 Texas Ave.",
                 "line2": "Suite 219",
                 "name": "Lubbock",
-                "phone": "(806) 763 - 1611",
+                "phone": "(806) 763-1611",
                 "rep": {
                     "bioguide_id": "A000375",
                     "chamber": "HOUSE",
@@ -25592,7 +25592,7 @@
                 },
                 "state_code": "FL",
                 "type": "DISTRICT",
-                "zip": "32503"
+                "zip": "32502"
             },
             "type": "Feature"
         },

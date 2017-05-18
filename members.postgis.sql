@@ -44,7 +44,7 @@ INSERT INTO "office" VALUES('A000374-northeast-louisiana','A000374','DISTRICT','
 INSERT INTO "office" VALUES('A000374-washington','A000374','DC','Washington','417 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-8490','SRID=4326;POINT(-77.0085 38.8868)');
 INSERT INTO "office" VALUES('A000374-central-louisiana','A000374','DISTRICT','Central Louisiana','2003 MacArthur Dr., Bldg. 5',NULL,'Alexandria','LA','71301','(318) 445-0818','SRID=4326;POINT(-92.46964 31.27656)');
 INSERT INTO "office" VALUES('A000375-abilene','A000375','DISTRICT','Abilene','500 Chestnut St','#819','Abilene','TX','79602','(325) 675-9779','SRID=4326;POINT(-99.7346145 32.4443053)');
-INSERT INTO "office" VALUES('A000375-lubbock','A000375','DISTRICT','Lubbock','1312 Texas Ave.','Suite 219','Lubbock','TX','79401','(806) 763 - 1611','SRID=4326;POINT(-101.8702325 33.5885782)');
+INSERT INTO "office" VALUES('A000375-lubbock','A000375','DISTRICT','Lubbock','1312 Texas Ave.','Suite 219','Lubbock','TX','79401','(806) 763-1611','SRID=4326;POINT(-101.8702325 33.5885782)');
 INSERT INTO "office" VALUES('A000375-washington','A000375','DC','Washington','1029 Longworth House Office Building',NULL,'Washington','DC','20515','(202) 225-4005','SRID=4326;POINT(-77.0069216 38.8867621)');
 INSERT INTO "office" VALUES('B000213-ennis','B000213','DISTRICT','Ennis','2106 A W. Ennis Ave.',NULL,'Ennis','TX','75119','(972) 875-8488','SRID=4326;POINT(-96.6470243 32.3198509)');
 INSERT INTO "office" VALUES('B000213-arlington','B000213','DISTRICT','Arlington','6001 W. Ronald Reagan Memorial Hwy, #200',NULL,'Arlington','TX','76017','(817) 543-1000','SRID=4326;POINT(-97.2021179 32.6740058)');
@@ -723,7 +723,7 @@ INSERT INTO "office" VALUES('G000577-baton-rouge','G000577','DISTRICT','Baton Ro
 INSERT INTO "office" VALUES('G000577-livingston','G000577','DISTRICT','Livingston','Livingston Parish Government Building','29261 Frost Rd, 2nd Floor','Livingston','LA','70754','(225) 686-4413','SRID=4326;POINT(-90.7486419 30.4830241)');
 INSERT INTO "office" VALUES('G000577-washington','G000577','DC','Washington','430 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-3901','SRID=4326;POINT(-77.0085 38.8868)');
 INSERT INTO "office" VALUES('G000577-thibodaux','G000577','DISTRICT','Thibodaux','908 East 1st Street','NSU Campus, Candies Hall, Suite 405','Thibodaux','LA','70301','(985) 448-4103','SRID=4326;POINT(-90.8011997 29.795623)');
-INSERT INTO "office" VALUES('G000578-pensacola','G000578','DISTRICT','Pensacola','226 S Palafox Pl','6th Floor','Pensacola','FL','32503','(850) 479-1183','SRID=4326;POINT(-87.2143001 30.4094572)');
+INSERT INTO "office" VALUES('G000578-pensacola','G000578','DISTRICT','Pensacola','226 S Palafox Pl','6th Floor','Pensacola','FL','32502','(850) 479-1183','SRID=4326;POINT(-87.2143001 30.4094572)');
 INSERT INTO "office" VALUES('G000578-washington','G000578','DC','Washington','507 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-4136','SRID=4326;POINT(-77.0085 38.8868)');
 INSERT INTO "office" VALUES('G000578-fort-walton-beach','G000578','DISTRICT','Fort Walton Beach','1170 Martin Luther King, Jr. Blvd','Bldg. 4, Rm 454','Fort Walton Beach','FL','32547','(850) 479-1183','SRID=4326;POINT(-86.6530906 30.4533919)');
 INSERT INTO "office" VALUES('G000579-appleton','G000579','DISTRICT','Appleton','333 W. College Ave',NULL,'Appleton','WI','54911','(920) 903-9806','SRID=4326;POINT(-88.4094435 44.2614778)');
