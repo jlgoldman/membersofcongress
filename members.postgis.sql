@@ -1702,6 +1702,12 @@ INSERT INTO "office" VALUES('S001200-orlando','S001200','DISTRICT','Orlando','69
 INSERT INTO "office" VALUES('S001201-huntington','S001201','DISTRICT','Huntington','478A Park Avenue',NULL,'Huntington','NY','11743','(631) 923-4100','SRID=4326;POINT(-73.411319 40.873976)');
 INSERT INTO "office" VALUES('S001201-washington','S001201','DC','Washington','226 Cannon House Office Building',NULL,'Washington','DC','20515','(202) 225-3335','SRID=4326;POINT(-77.0085 38.8868)');
 INSERT INTO "office" VALUES('S001201-little-neck','S001201','DISTRICT','Little Neck','250-02 Northern Boulevard',NULL,'Little Neck','NY','11362','(631) 923-4100','SRID=4326;POINT(-73.7372765 40.7683151)');
+INSERT INTO "office" VALUES('S001201-montgomerey','S001202','DISTRICT','Montgomerey','478A Park Avenue',NULL,'Montgomery','AB','36104','(334) 230-0698','SRID=4326;POINT(-86.309939 32.374321)');
+INSERT INTO "office" VALUES('S001201-dothan','S001202','DISTRICT','Dothan','100 West Troy Street','Room 302','Dothan','AB','36303','(334) 792-4924)','SRID=4326;POINT(-85.392544 31.225404)');
+INSERT INTO "office" VALUES('S001201-birmingham','S001202','DISTRICT','Birmingham','Vance Federal Building','1800 Fifth Avenue North','Birmingham','AB','35203-2171','(205) 731-1500','SRID=4326;POINT(-86.810237 33.517338)');
+INSERT INTO "office" VALUES('S001201-huntsville','S001202','DISTRICT','Huntsville','200 Clinton Avenue, NW','Suite 802','Huntsville','AB','35801-4932','(256) 533-0979','SRID=4326;POINT(-86.588209 34.730743)');
+INSERT INTO "office" VALUES('S001201-mobile','S001202','DISTRICT','Mobile','BB&T Centre, Suite 2300-A','41 West I-65 Service Road North','Mobile','AB','36608-1291','(251) 414-3083','SRID=4326;POINT(-86.588209 34.730743)');
+INSERT INTO "office" VALUES('S001202-washington','S001202','DC','Washington','326 Russell Senate Office Building',NULL,'Washington','DC','20515','(202) 224-4124','SRID=4326;POINT(-77.0074155 38.8925417)');
 INSERT INTO "office" VALUES('T000193-bolton','T000193','DISTRICT','Bolton','107 West Madison Street',NULL,'Bolton','MS','39041','(601) 866-9003','SRID=4326;POINT(-90.459947 32.348821)');
 INSERT INTO "office" VALUES('T000193-greenville','T000193','DISTRICT','Greenville','910 Courthouse Lane',NULL,'Greenville','MS','38701','(662) 335-9003','SRID=4326;POINT(-91.051782 33.4079337)');
 INSERT INTO "office" VALUES('T000193-greenwood','T000193','DISTRICT','Greenwood','509 Highway 82 West',NULL,'Greenwood','MS','38930','(662) 455-9003','SRID=4326;POINT(-90.1865523 33.5051438)');
@@ -2415,6 +2421,7 @@ INSERT INTO "rep" VALUES('S001198','Daniel','Sullivan','AK','Alaska',NULL,NULL,N
 INSERT INTO "rep" VALUES('S001199','Lloyd','Smucker','PA','Pennsylvania',16,'PA16','16th','REPUBLICAN','HOUSE','Representative','Rep.','https://smucker.house.gov');
 INSERT INTO "rep" VALUES('S001200','Darren','Soto','FL','Florida',9,'FL09','9th','DEMOCRAT','HOUSE','Representative','Rep.','https://soto.house.gov');
 INSERT INTO "rep" VALUES('S001201','Thomas','Suozzi','NY','New York',3,'NY03','3rd','DEMOCRAT','HOUSE','Representative','Rep.','https://suozzi.house.gov');
+INSERT INTO "rep" VALUES('S001202','Luther','Strange','AB','Alabama',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','https://www.strange.senate.gov/');
 INSERT INTO "rep" VALUES('T000193','Bennie','Thompson','MS','Mississippi',2,'MS02','2nd','DEMOCRAT','HOUSE','Representative','Rep.','https://benniethompson.house.gov');
 INSERT INTO "rep" VALUES('T000238','Mac','Thornberry','TX','Texas',13,'TX13','13th','REPUBLICAN','HOUSE','Representative','Rep.','http://thornberry.house.gov');
 INSERT INTO "rep" VALUES('T000250','John','Thune','SD','South Dakota',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','http://www.thune.senate.gov/');

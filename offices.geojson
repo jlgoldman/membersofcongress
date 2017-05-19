@@ -60807,6 +60807,222 @@
         {
             "geometry": {
                 "coordinates": [
+                    -86.309939,
+                    32.374321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Montgomery",
+                "handle": "S001201-montgomerey",
+                "line1": "478A Park Avenue",
+                "line2": null,
+                "name": "Montgomerey",
+                "phone": "(334) 230-0698",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "AB",
+                "type": "DISTRICT",
+                "zip": "36104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.392544,
+                    31.225404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Dothan",
+                "handle": "S001201-dothan",
+                "line1": "100 West Troy Street",
+                "line2": "Room 302",
+                "name": "Dothan",
+                "phone": "(334) 792-4924)",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "AB",
+                "type": "DISTRICT",
+                "zip": "36303"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.810237,
+                    33.517338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Birmingham",
+                "handle": "S001201-birmingham",
+                "line1": "Vance Federal Building",
+                "line2": "1800 Fifth Avenue North",
+                "name": "Birmingham",
+                "phone": "(205) 731-1500",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "AB",
+                "type": "DISTRICT",
+                "zip": "35203-2171"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.588209,
+                    34.730743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Huntsville",
+                "handle": "S001201-huntsville",
+                "line1": "200 Clinton Avenue, NW",
+                "line2": "Suite 802",
+                "name": "Huntsville",
+                "phone": "(256) 533-0979",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "AB",
+                "type": "DISTRICT",
+                "zip": "35801-4932"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.588209,
+                    34.730743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Mobile",
+                "handle": "S001201-mobile",
+                "line1": "BB&T Centre, Suite 2300-A",
+                "line2": "41 West I-65 Service Road North",
+                "name": "Mobile",
+                "phone": "(251) 414-3083",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "AB",
+                "type": "DISTRICT",
+                "zip": "36608-1291"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0074155,
+                    38.8925417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Washington",
+                "handle": "S001202-washington",
+                "line1": "326 Russell Senate Office Building",
+                "line2": null,
+                "name": "Washington",
+                "phone": "(202) 224-4124",
+                "rep": {
+                    "bioguide_id": "S001202",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Luther",
+                    "last_name": "Strange",
+                    "party": "REPUBLICAN",
+                    "state_code": "AB",
+                    "state_name": "Alabama",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "https://www.strange.senate.gov/"
+                },
+                "state_code": "DC",
+                "type": "DC",
+                "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -90.459947,
                     32.348821
                 ],
