@@ -29,8 +29,8 @@ A000372-augusta,A000372,DISTRICT,Augusta,2743 Perimeter Parkway,"Bldg. 200, Suit
 A000374-northeast-louisiana,A000374,DISTRICT,Northeast Louisiana,426 DeSiard St.,,Monroe,LA,71201,(318) 322-3500,32.5036093,-92.1144236
 A000374-washington,A000374,DC,Washington,417 Cannon House Office Building,,Washington,DC,20515,(202) 225-8490,38.8868,-77.0085
 A000374-central-louisiana,A000374,DISTRICT,Central Louisiana,"2003 MacArthur Dr., Bldg. 5",,Alexandria,LA,71301,(318) 445-0818,31.27656,-92.46964
-A000375-abilene,A000375,DISTRICT,Abilene,500 Chestnut St,#819,Abilene,TX,79602,,32.4443053,-99.7346145
-A000375-lubbock,A000375,DISTRICT,Lubbock,611 University Ave. #220,,Lubbock,TX,79401,,33.5885782,-101.8702325
+A000375-abilene,A000375,DISTRICT,Abilene,500 Chestnut St,#819,Abilene,TX,79602,(325) 675-9779,32.4443053,-99.7346145
+A000375-lubbock,A000375,DISTRICT,Lubbock,1312 Texas Ave.,Suite 219,Lubbock,TX,79401,(806) 763-1611,33.5885782,-101.8702325
 A000375-washington,A000375,DC,Washington,1029 Longworth House Office Building,,Washington,DC,20515,(202) 225-4005,38.8867621,-77.0069216
 B000213-ennis,B000213,DISTRICT,Ennis,2106 A W. Ennis Ave.,,Ennis,TX,75119,(972) 875-8488,32.3198509,-96.6470243
 B000213-arlington,B000213,DISTRICT,Arlington,"6001 W. Ronald Reagan Memorial Hwy, #200",,Arlington,TX,76017,(817) 543-1000,32.6740058,-97.2021179
@@ -187,22 +187,25 @@ B001296-northeast-philadelphia,B001296,DISTRICT,Northeast Philadelphia,The Tower
 B001297-greeley,B001297,DISTRICT,Greeley,1023 39th Ave,Unit B,Greeley,CO,80634,(970) 702-2136,40.4205693,-104.7446355
 B001297-washington,B001297,DC,Washington,1130 Longworth House Office Building,,Washington,DC,20515,(202) 225-4676,38.8868,-77.0085
 B001297-castle-rock,B001297,DISTRICT,Castle Rock,900 Castleton Rd.,Suite 112,Castle Rock,CO,80109,(720) 639-9165,39.4092665,-104.8684125
-B001298-omaha,B001298,DISTRICT,Omaha,13906 Gold Circle,Suite 101,Omaha,NE,68144,,41.2350981,-96.1296555
+B001298-omaha,B001298,DISTRICT,Omaha,13906 Gold Circle,Suite 101,Omaha,NE,68144,(402) 938-0300,41.2350981,-96.1296555
 B001298-washington,B001298,DC,Washington,1516 Longworth House Office Building,,Washington,DC,20515,(202) 225-4155,38.8867621,-77.0069216
-B001299-fort-wayne,B001299,DISTRICT,Fort Wayne,1300 S Harrison St,,Fort Wayne,IN,46802,,41.0737372,-85.1404535
+B001299-fort-wayne,B001299,DISTRICT,Fort Wayne,1300 S Harrison St,,Fort Wayne,IN,46802,(260) 702-4750,41.0737372,-85.1404535
 B001299-washington,B001299,DC,Washington,509 Cannon House Office Building,,Washington,DC,20515,(202) 225-4436,38.8868,-77.0085
-B001300-south-gate,B001300,DISTRICT,South Gate,8650 California Ave,,South Gate,CA,90280,(323) 563-9562,33.9556898,-118.2051037
+B001300-south-gate,B001300,DISTRICT,South Gate,8650 California Ave,,South Gate,CA,90280,(310) 831-1799,33.9556898,-118.2051037
 B001300-washington,B001300,DC,Washington,1320 Longworth House Office Building,,Washington,DC,20515,(202) 225-8220,38.8867621,-77.0069216
+B001300-carson,B001300,DISTRICT,Carson,701 E. Carson St,,Carson,CA,90745,(310) 831-1799,33.8322958,-118.2629115
+B001300-san-pedro,B001300,DISTRICT,San Pedro,302 W. Fifth St,Suite 201,San Pedro,CA,90731,(310) 831-1799,33.7398775,-118.2839378
 B001301-washington,B001301,DC,Washington,414 Cannon House Office Building,,Washington,DC,20515,(202) 225-4735,38.8868,-77.0085
-B001302-mesa,B001302,DISTRICT,Mesa,2509 S Power Rd,Suite 205,Mesa,AZ,85209,,33.3712904,-111.6870648
+B001301-traverse-city,B001301,DISTRICT,Traverse City,1396 Douglas Drive,Suite 22B,Traverse City,MI,49696,(231) 944-7633,44.7066718,-85.5961732
+B001301-marquette,B001301,DISTRICT,Marquette,1500 W. Washington St.,Suite 2,Marquette,MI,49855,(906) 273-2227,46.54703800000001,-87.4227729
+B001302-mesa,B001302,DISTRICT,Mesa,2509 S Power Rd,Suite 204,Mesa,AZ,85209,(480) 699-8239,33.3712904,-111.6870648
 B001302-washington,B001302,DC,Washington,1626 Longworth House Office Building,,Washington,DC,20515,(202) 225-2635,38.8867621,-77.0069216
-B001303-wilmington,B001303,DISTRICT,Wilmington,1105 N Market St,Suite 400,Wilmington,DE,19801,,39.7473432,-75.5471367
+B001303-wilmington,B001303,DISTRICT,Wilmington,1105 N Market St,Suite 400,Wilmington,DE,19801,(302) 830-2330,39.7473432,-75.5471367
 B001303-washington,B001303,DC,Washington,1123 Longworth House Office Building,,Washington,DC,20515,(202) 225-4165,38.8867621,-77.0069216
-B001304-upper-marlboro,B001304,DISTRICT,Upper Marlboro,9701 Apollo Dr,Ste 103,Upper Marlboro,MD,20774,,38.9044752,-76.8384674
+B001304-upper-marlboro,B001304,DISTRICT,Upper Marlboro,9701 Apollo Dr,Ste 103,Upper Marlboro,MD,20774,(301) 458-2600,38.9044752,-76.8384674
 B001304-washington,B001304,DC,Washington,1505 Longworth House Office Building,,Washington,DC,20515,(202) 225-8699,38.8867621,-77.0069216
-B001305-advance,B001305,DISTRICT,Advance,128 Peachtree Lane-Suite A,,Advance,NC,27006,,36.0038879,-80.4394348
+B001305-advance,B001305,DISTRICT,Advance,128 Peachtree Lane,Suite A,Advance,NC,27006,(336) 998-1313,36.0038879,-80.4394348
 B001305-washington,B001305,DC,Washington,118 Cannon House Office Building,,Washington,DC,20515,(202) 225-4531,38.8868,-77.0085
-B001305-mooresville,B001305,DISTRICT,Mooresville,116 Morlake Dr,Suite 101A,Mooresville,NC,28117,,35.599466,-80.863322
 C000059-corona,C000059,DISTRICT,Corona,"400 S. Vicentia Avenue, Suite 125",,Corona,CA,92882,(951) 277-0042,33.8784386,-117.5759232
 C000059-washington,C000059,DC,Washington,2205 Rayburn House Office Building,,Washington,DC,20515,(202) 225-1986,38.8871071,-77.0104749
 C000127-seattle,C000127,DISTRICT,Seattle,"915 Second Avenue, Suite 3206",,Seattle,WA,98174,(206) 220-6400,47.6046037,-122.3356036
@@ -415,11 +418,16 @@ C001109-casper,C001109,DISTRICT,Casper,100 East B Street,Room 4003,Casper,WY,826
 C001109-cheyenne,C001109,DISTRICT,Cheyenne,2120 Capitol Ave,Ste. 8005,Cheyenne,WY,82001,(307) 772-2595,41.1374591,-104.8189674
 C001109-washington,C001109,DC,Washington,416 Cannon House Office Building,,Washington,DC,20515,(202) 225-2311,38.8868,-77.0085
 C001109-sheridan,C001109,DISTRICT,Sheridan,45 East Loucks St.,,Sheridan,WY,82801,(307) 673-4608,44.7974845,-106.9548869
+C001109-gillette,C001109,DISTRICT,Gillette,300 S.Gillette Ave,Suite 2000,Gillette,WY,82716,(307) 414-1677,44.2920649,-105.5044127
 C001110-washington,C001110,DC,Washington,1039 Longworth House Office Building,,Washington,DC,20515,(202) 225-2965,38.8867621,-77.0069216
 C001111-washington,C001111,DC,Washington,427 Cannon House Office Building,,Washington,DC,20515,(202) 225-5961,38.8868,-77.0085
-C001112-san-luis-obispo,C001112,DISTRICT,San Luis Obispo,1411 Marsh St,Suite 205,San Luis Obispo,CA,93401,(888) 202-8934,35.2838648,-120.6538213
+C001111-st-petersburg,C001111,DISTRICT,St. Petersburg,696 1st Avenue North,Suite 203,St. Petersburg,FL,33701,(727) 318-6770,27.7717703,-82.6435748
+C001112-san-luis-obispo,C001112,DISTRICT,San Luis Obispo,1411 Marsh St,Suite 205,San Luis Obispo,CA,93401,(805) 546-8348,35.2838648,-120.6538213
 C001112-washington,C001112,DC,Washington,212 Cannon House Office Building,,Washington,DC,20515,(202) 225-3601,38.8868,-77.0085
+C001112-santa-barbara,C001112,DISTRICT,Santa Barbara,360 S. Hope Ave,Suite C-301,Santa Barbara,CA,93105,(805) 730-1710,34.4349008,-119.7468517
 C001113-washington,C001113,DC,Washington,B40a Dirksen Senate Office Building,,Washington,DC,20510,(202) 224-3542,38.8928369,-77.0051216
+C001113-las-vegas,C001113,DISTRICT,Las Vegas,333 Las Vegas Blvd South,Suite 8016,Las Vegas,NV,89101,(702) 388-5020,36.1651154,-115.1424185
+C001113-reno,C001113,DISTRICT,Reno,"400 S. Virginia St, Suite 902",Courthouse and Federal Building,Reno,NV,89501, (775) 686-5750,39.5215352,-119.810287
 D000096-chicago,D000096,DISTRICT,Chicago,2746 West Madison Street,,Chicago,IL,60612,(773) 533-7520,41.8812579,-87.6957293
 D000096-washington,D000096,DC,Washington,2159 Rayburn House Office Building,,Washington,DC,20515,(202) 225-5006,38.8871071,-77.0104749
 D000191-coos-bay,D000191,DISTRICT,Coos Bay,125 Central Ave,Suite 350,Coos Bay,OR,97420,(541) 269-2609,43.367748,-124.213429
@@ -507,6 +515,7 @@ D000621-port-orange,D000621,DISTRICT,Port Orange,1000 City Center Circle,,Port O
 D000621-washington,D000621,DC,Washington,1524 Longworth House Office Building,,Washington,DC,20515,(202) 225-2706,38.8868,-77.0085
 D000622-chicago,D000622,DISTRICT,Chicago,230 S Dearborn Suite 3900,,Chicago,IL,60604,(312) 886-3506,41.8784454,-87.63
 D000622-washington,D000622,DC,Washington,524 Hart Senate Office Building,,Washington,DC,20510,(202) 224-2854,38.8928369,-77.0051216
+D000622-springfield,D000622,DISTRICT,Springfield,8 South Old State Capitol Plaza,,Springfield,IL,62701,(217) 528-6124,39.800468,-89.64871409999999
 D000623-richmond,D000623,DISTRICT,Richmond,440 Civic Center Plaza,2nd Floor,Richmond,CA,94804,(510) 620-1000,37.9367699,-122.3428337
 D000623-walnut-creek,D000623,DISTRICT,Walnut Creek,101 Ygnacio Valley Road,Suite #210,Walnut Creek,CA,94596,(925) 933-2660,37.9043441,-122.0688945
 D000623-washington,D000623,DC,Washington,115 Cannon House Office Building,,Washington,DC,20515,(202) 225-2095,38.8868,-77.0085
@@ -520,11 +529,11 @@ D000626-springfield,D000626,DISTRICT,Springfield,76 E. High Street,3rd Floor,Spr
 D000626-troy,D000626,DISTRICT,Troy,12 S. Plum Street,,Troy,OH,45373,(937) 339-1524,40.0401311,-84.2056989
 D000626-washington,D000626,DC,Washington,1004 Longworth House Office Building,,Washington,DC,20515,(202) 225-6205,38.8867621,-77.0069216
 D000626-west-chester,D000626,DISTRICT,West Chester,8857 Cincinnati-Dayton Rd.,Suite #102,West Chester,OH,45069,(513) 779-5400,39.3315731,-84.4063897
-D000627-orlando,D000627,DISTRICT,Orlando,2295 S Hiawassee Rd,Suite 301,Orlando,FL,32835,,28.517804,-81.4818644
+D000627-orlando,D000627,DISTRICT,Orlando,2295 S Hiawassee Rd,Suite 301,Orlando,FL,32835,(321) 388-9808,28.517804,-81.4818644
 D000627-washington,D000627,DC,Washington,238 Cannon House Office Building,,Washington,DC,20515,(202) 225-2176,38.8868,-77.0085
 D000628-tallahassee,D000628,DISTRICT,Tallahassee,300 South Adams Street,,Tallahassee,FL,32301,(850) 891-8610,30.4395286,-84.2826688
 D000628-washington,D000628,DC,Washington,423 Cannon House Office Building,,Washington,DC,20515,(202) 225-5235,38.8868,-77.0085
-D000628-panama-city,D000628,DISTRICT,Panama City,840 W. 11th St. Suite 2250,,Panama City,FL,32401,(850) 785-0812,30.167961,-85.671895
+D000628-panama-city,D000628,DISTRICT,Panama City,840 W. 11th St.,Suite 2250,Panama City,FL,32401,(850) 785-0812,30.167961,-85.671895
 E000179-bronx,E000179,DISTRICT,Bronx,3655 Johnson Avenue,,Bronx,NY,10463,(718) 796-9700,40.8881337,-73.909585
 E000179-westchester,E000179,DISTRICT,Westchester,6 Gramatan Avenue; Suite 205,,Mt. Vernon,NY,10550,(914) 699-4100,40.9124845,-73.8376727
 E000179-coop-city,E000179,DISTRICT,Co-Op City,"177 Dreiser Loop, Rm 3",,Bronx,NY,10475,(718) 320-2314,40.8777838,-73.8292461
@@ -552,6 +561,7 @@ E000295-washington,E000295,DC,Washington,111 Russell Senate Office Building,,Was
 E000296-philadelphia,E000296,DISTRICT,Philadelphia,7174 Ogontz Avenue,,Philadelphia,PA,19138,(215) 276-0340,40.063831,-75.153345
 E000296-washington,E000296,DC,Washington,1105 Longworth House Office Building,,Washington,DC,20515,(202) 225-4001,38.8867621,-77.0069216
 E000297-washington,E000297,DC,Washington,1630 Longworth House Office Building,,Washington,DC,20515,(202) 225-4365,38.8867621,-77.0069216
+E000297-new-york,E000297,DISTRICT,New York,163 West 125th Street,Harlem State Office Building,New York,NY,10027,(212) 663-3900,40.8092263,-73.9474304
 F000062-san-francisco,F000062,DISTRICT,San Francisco,"One Post Street, Suite 2450",,San Francisco,CA,94104,(415) 393-0707,37.7887748,-122.4026656
 F000062-san-diego,F000062,DISTRICT,San Diego,"880 Front Street, Suite 4236",,San Diego,CA,92101,(619) 231-9712,32.7143481,-117.1647085
 F000062-fresno,F000062,DISTRICT,Fresno,"2500 Tulare Street, Suite 4290",,Fresno,CA,93721,(559) 485-7430,36.7374775,-119.7836709
@@ -699,10 +709,12 @@ G000577-baton-rouge,G000577,DISTRICT,Baton Rouge,2351 Energy Drive,Suite 1200,Ba
 G000577-livingston,G000577,DISTRICT,Livingston,Livingston Parish Government Building,"29261 Frost Rd, 2nd Floor",Livingston,LA,70754,(225) 686-4413,30.4830241,-90.7486419
 G000577-washington,G000577,DC,Washington,430 Cannon House Office Building,,Washington,DC,20515,(202) 225-3901,38.8868,-77.0085
 G000577-thibodaux,G000577,DISTRICT,Thibodaux,908 East 1st Street,"NSU Campus, Candies Hall, Suite 405",Thibodaux,LA,70301,(985) 448-4103,29.795623,-90.8011997
-G000578-pensacola,G000578,DISTRICT,Pensacola,226 S Palafox Pl,6th Floor,Pensacola,FL,32502,,30.4094572,-87.2143001
+G000578-pensacola,G000578,DISTRICT,Pensacola,226 S Palafox Pl,6th Floor,Pensacola,FL,32502,(850) 479-1183,30.4094572,-87.2143001
 G000578-washington,G000578,DC,Washington,507 Cannon House Office Building,,Washington,DC,20515,(202) 225-4136,38.8868,-77.0085
-G000579-appleton,G000579,DISTRICT,Appleton,333 W. College Ave,,Appleton,WI,54911,,44.2614778,-88.4094435
+G000578-fort-walton-beach,G000578,DISTRICT,Fort Walton Beach,"1170 Martin Luther King, Jr. Blvd","Bldg. 4, Rm 454",Fort Walton Beach,FL,32547,(850) 479-1183,30.4533919,-86.6530906
+G000579-appleton,G000579,DISTRICT,Appleton,333 W. College Ave,,Appleton,WI,54911,(920) 903-9806,44.2614778,-88.4094435
 G000579-washington,G000579,DC,Washington,1007 Longworth House Office Building,,Washington,DC,20515,(202) 225-5665,38.8867621,-77.0069216
+G000579-green-bay,G000579,DISTRICT,Greey Bay,1915 S. Webster Avenue,Suite D,Green Bay,WI,54301,(920) 301-4500,44.4852063,-88.0200192
 G000580-danville,G000580,DISTRICT,Danville,308 Craghead Street,Suite 102D,Danville,VA,24541,(434) 791-2596,36.5867166,-79.389396
 G000580-charlottesville,G000580,DISTRICT,Charlottesville,686 Berkmar Circle,2nd Floor,Charlottesville,VA,22901,(434) 973-9631,38.0847006,-78.4784307
 G000580-washington,G000580,DC,Washington,415 Cannon House Office Building,,Washington,DC,20515,(202) 225-4711,38.8868,-77.0085
@@ -710,8 +722,9 @@ G000581-washington,G000581,DC,Washington,113 Cannon House Office Building,,Washi
 G000581-edinburg,G000581,DISTRICT,Edinburg,2864 West Trenton Rd,,Edinburg,TX,78539,(956) 682-5545,26.2658508,-98.2010279
 G000582-san-juan,G000582,DISTRICT,San Juan,Edificio Antigua Escuela,Medicina Tropical,San Juan,PR,00901,,18.4669792,-66.1040007
 G000582-washington,G000582,DC,Washington,1529 Longworth House Office Building,,Washington,DC,20515,(202) 225-2615,38.8867621,-77.0069216
-G000583-glen-rock,G000583,DISTRICT,Glen Rock,65 Harristown Rd,Suite 104,Glen Rock,NJ,07452,(888) 216-5646,40.9506625,-74.143801
+G000583-glen-rock,G000583,DISTRICT,Glen Rock,65 Harristown Rd,Suite 104,Glen Rock,NJ,07452,(201) 389-1100,40.9506625,-74.143801
 G000583-washington,G000583,DC,Washington,213 Cannon House Office Building,,Washington,DC,20515,(202) 225-4465,38.8868,-77.0085
+G000583-newton,G000583,DISTRICT,Newton,93 Spring Street,Suite 408,Newton,NJ,07860,(973) 814-4078,41.058088,-74.75184899999999
 H000324-palm-beach-county,H000324,DISTRICT,Palm Beach County,Town of Mangonia Park Municipal Center,1755 East Tiffany Drive,Mangonia Park,FL,33407,(561) 469-7048,26.7555179,-80.081968
 H000324-broward-county,H000324,DISTRICT,Broward County,"2701 W. Oakland Park Blvd, Suite 200",,Fort Lauderdale,FL,33311,(954) 733-2800,26.165965,-80.1797155
 H000324-washington,H000324,DC,Washington,2353 Rayburn House Office Building,,Washington,DC,20515,(202) 225-1313,38.8871071,-77.0104749
@@ -810,7 +823,8 @@ H001073-washington,H001073,DC,Washington,317 Cannon House Office Building,,Washi
 H001073-san-antonio-northside,H001073,DISTRICT,San Antonio Northside,17721 Rogers Ranch Parkway,Suite 120,San Antonio,TX,78258,(210) 921-3130,29.6043724,-98.5350201
 H001073-san-antonio-southside,H001073,DISTRICT,San Antonio Southside,Texas A&M San Antonio Patriots' Casa,"One University Way, Suite 202A",San Antonio,TX,78224,(210) 784-5023,29.3113119,-98.5246584
 H001074-washington,H001074,DC,Washington,1641 Longworth House Office Building,,Washington,DC,20515,(202) 225-5315,38.8867621,-77.0069216
-H001074-jeffersonville,H001074,DISTRICT,Jeffersonville,279 Quartermaster Court,,Jeffersonville,IN,47130,,38.2842945,-85.7413663
+H001074-jeffersonville,H001074,DISTRICT,Jeffersonville,279 Quartermaster Court,,Jeffersonville,IN,47130,(812) 288-3999,38.2842945,-85.7413663
+H001074-greenwood,H001074,DISTRICT,Greenwood,720 Executive Park Dr.,Suite 3000B,Greenwood,IN,46143,(317) 851-8710,39.60534699999999,-86.1107229
 H001075-sacramento,H001075,DISTRICT,Sacramento,501 I Street,Suite 7-600,Sacramento,CA,95814,(916) 448-2787,38.583455,-121.4987519
 H001075-fresno,H001075,DISTRICT,Fresno,2500 Tulare Street,Suite 5290,Fresno,CA,93721,(916) 448-2787,36.7374775,-119.7836709
 H001075-san-francisco,H001075,DISTRICT,San Francisco,50 United Nations Plaza,Suite 5584,San Francisco,CA,94102,(213) 894-5000,37.7804298,-122.4144643
@@ -818,7 +832,11 @@ H001075-san-diego,H001075,DISTRICT,San Diego,600 B Street,Suite 2240,San Diego,C
 H001075-los-angeles,H001075,DISTRICT,Los Angeles,312 N. Spring St.,Suite 1748,Los Angeles,CA,90012,(213) 894-5000,34.0552049,-118.241422
 H001075-washington,H001075,DC,Washington,112 Hart Senate Office Building,,Washington,DC,20510,(202) 224-3553,38.8928369,-77.0051216
 H001076-washington,H001076,DC,Washington,B85 Russell Senate Office Building,,Washington,DC,20510,(202) 224-3324,38.8925417,-77.0074155
+H001076-manchester,H001076,DISTRICT,Manchester,1589 Elm Street,Third Floor,Manchester,NH,03101,(603) 622-2204,42.9813958,-71.47229399999999
+H001076-portsmouth,H001076,DISTRICT,Portsmouth,14 Manchester Square,Suite #140,Portsmouth,NH,03801,(603) 433-4445,43.0856076,-70.8098029
 H001077-washington,H001077,DC,Washington,1711 Longworth House Office Building,,Washington,DC,20515,(202) 225-2031,38.8867621,-77.0069216
+H001077-Lafayette,H001077,DISTRICT,Lafayette,600 Jefferson Street,Suite 808,Lafayette,LA,70501,(337) 703-6105,30.22335,-92.01907
+H001077-lake-charles,H001077,DISTRICT,Lake Charles,1 Lakeshore Drive,Suite 1670,Lake Charles,LA,70629,(337) 656-2833,30.2305579,-93.2196295
 I000024-mcalester,I000024,DISTRICT,Mcalester,215 E Choctaw Ave #106,,McAlester,OK,74501,(918) 426-0933,34.931573,-95.7671124
 I000024-oklahoma-city,I000024,DISTRICT,Oklahoma City,1900 NW Expressway #1210,,Oklahoma City,OK,73118,(405) 608-4381,35.5219627,-97.5457597
 I000024-tulsa,I000024,DISTRICT,Tulsa,1924 S Utica Ave #530,,Tulsa,OK,74104-6511,(918) 748-5111,36.1341719,-95.9676084
@@ -870,8 +888,10 @@ J000297-huntington,J000297,DISTRICT,Huntington,845 Fifth Ave.,Suite 314,Huntingt
 J000297-washington,J000297,DC,Washington,1609 Longworth House Office Building,,Washington,DC,20515,(202) 225-3452,38.8868,-77.0085
 J000298-seattle,J000298,DISTRICT,Seattle,"1904 3rd Ave., Suite 510",,Seattle,WA,98101,(206) 674-0040,47.6119653,-122.3397313
 J000298-washington,J000298,DC,Washington,319 Cannon House Office Building,,Washington,DC,20515,(202) 225-3106,38.8868,-77.0085
-J000299-bossier-city,J000299,DISTRICT,Bossier City,2250 Hospital Drive,Suite 248,Bossier City,LA,71111,,32.5579513,-93.7228425
+J000299-bossier-city,J000299,DISTRICT,Bossier City,2250 Hospital Drive,Suite 248,Bossier City,LA,71111,(318) 840-0309,32.5579513,-93.7228425
 J000299-washington,J000299,DC,Washington,327 Cannon House Office Building,,Washington,DC,20515,(202) 225-2777,38.8868,-77.0085
+J000299-natchitoches,J000299,DISTRICT,Natchitoches,444 Caspari Drive,South Hall Room 224,Natchitoches,LA,71497,(318) 357-5731,31.74789669999999,-93.0973496
+J000299-leesville,J000299,DISTRICT,Leesville,3329 University Parkway,"Building 552, Room 24",Leesville,LA,71446,(337) 392-3146,31.0884912,-93.2312895
 K000009-cleveland,K000009,DISTRICT,Cleveland,17021 Lorain,,Cleveland,OH,44111,(216) 767-5933,41.4502564,-81.8160502
 K000009-lorain,K000009,DISTRICT,Lorain,200 West Erie,Room 310,Lorain,OH,44052,(440) 288-1500,41.4685695,-82.1792684
 K000009-washington,K000009,DC,Washington,2186 Rayburn House Office Building,,Washington,DC,20515,(202) 225-4146,38.8871071,-77.0104749
@@ -948,15 +968,16 @@ K000388-eupora,K000388,DISTRICT,Eupora,855 South Dunn Street,,Eupora,MS,39744,(6
 K000388-hernando,K000388,DISTRICT,Hernando,"2565 Caffey Street, #200",,Hernando,MS,38632,(662) 449-3090,34.8226252,-89.9956387
 K000389-santa-clara,K000389,DISTRICT,Santa Clara,900 Lafayette Street,Suite 206,Santa Clara,CA,95050,(408) 436-2720,37.3494432,-121.9434873
 K000389-washington,K000389,DC,Washington,513 Cannon House Office Building,,Washington,DC,20515,(202) 225-2631,38.8868,-77.0085
-K000390-north-las-vegas,K000390,DISTRICT,North Las Vegas,2250 N Las Vegas Blvd,Suite 500,North Las Vegas,NV,89030,,36.2004978,-115.1214764
+K000390-north-las-vegas,K000390,DISTRICT,North Las Vegas,2250 N Las Vegas Blvd,Suite 500,North Las Vegas,NV,89030,(702) 963-9360,36.2004978,-115.1214764
 K000390-washington,K000390,DC,Washington,313 Cannon House Office Building,,Washington,DC,20515,(202) 225-9894,38.8868,-77.0085
 K000391-schaumburg,K000391,DISTRICT,Schaumburg,1701 East Woodfield Rd,Suite 704,Schaumburg,IL,60173,(847) 413-1959,42.042839,-88.0382131
 K000391-washington,K000391,DC,Washington,515 Cannon House Office Building,,Washington,DC,20515,(202) 225-3711,38.8868,-77.0085
-K000392-dyersburg,K000392,DISTRICT,Dyersburg,100 Main Street,,Dyersburg,TN,38024,,35.9688328,-89.3845615
-K000392-martin,K000392,DISTRICT,Martin,406 South Lindell Street,,Martin,TN,38237,,36.342528,-88.850229
-K000392-memphis,K000392,DISTRICT,Memphis,5900 Poplar Ave.,Suite 202,Memphis,TN,38119,,35.1034459,-89.8641093
+K000392-dyersburg,K000392,DISTRICT,Dyersburg,100 Main Street,,Dyersburg,TN,38024,(731) 412-1037,35.9688328,-89.3845615
+K000392-martin,K000392,DISTRICT,Martin,406 South Lindell Street,,Martin,TN,38237,(731) 412-1043,36.342528,-88.850229
+K000392-memphis,K000392,DISTRICT,Memphis,5900 Poplar Ave.,Suite 202,Memphis,TN,38119,(901) 682-4422,35.1034459,-89.8641093
 K000392-washington,K000392,DC,Washington,508 Cannon House Office Building,,Washington,DC,20515,(202) 225-4714,38.8868,-77.0085
-K000393-washington,K000393,DC,Washington,B11 Russell Senate Office Building,,Washington,DC,20510,(202) 224-4623,38.8925417,-77.0074155
+K000392-jackson,K000392,DISTRICT,Jackson,117 North Liberty Street,,Jackson,TN,38301,(731) 423-4848,35.6149736,-88.81841440000001
+K000393-washington,K000393,DC,Washington,SR383 Russell Senate Building,,Washington,DC,20510,(202) 224-4623,38.8925417,-77.0074155
 L000174-burlington,L000174,DISTRICT,Burlington,"199 Main Street, 4th Floor",,Burlington,VT,05401,(802) 863-2525,44.4755314,-73.2112826
 L000174-montpelier,L000174,DISTRICT,Montpelier,"87 State Street, Room 338",,Montpelier,VT,05602,(802) 229-0569,44.260997,-72.5775843
 L000174-washington,L000174,DC,Washington,437 Russell Senate Office Building,,Washington,DC,20510,(202) 224-4242,38.8925417,-77.0074155
@@ -1054,9 +1075,10 @@ L000585-springfield,L000585,DISTRICT,Springfield,235 S Sixth Street,,Springfield
 L000585-bloomington,L000585,DISTRICT,Bloomington,3004 General Electric Road,Suite 1B,Bloomington,IL,61704,(309) 205-9556,40.5029607,-88.9230848
 L000585-jacksonville,L000585,DISTRICT,Jacksonville,201 W Morgan Street,,Jacksonville,IL,62650,(217) 245-1431,39.7336397,-90.2299815
 L000585-washington,L000585,DC,Washington,1424 Longworth House Office Building,,Washington,DC,20515,(202) 225-6201,38.8871071,-77.0104749
-L000586-tallahassee,L000586,DISTRICT,Tallahassee,435 North Macomb Street,,Tallahassee,FL,32301,,30.4463425,-84.2881976
+L000586-tallahassee,L000586,DISTRICT,Tallahassee,435 North Macomb Street,,Tallahassee,FL,32301,(850) 558-9450,30.4463425,-84.2881976
 L000586-washington,L000586,DC,Washington,1337 Longworth House Office Building,,Washington,DC,20515,(202) 225-0123,38.8867621,-77.0069216
-L000587-burnsville,L000587,DISTRICT,Burnsville,2805 Cliff Road,Ste 200,Burnsville,MN,55337,,44.7899842,-93.236107
+L000586-jacksonville,L000586,DISTRICT,Jacksonville,1010 N. Davis St,Suite 206,Jacksonville,FL,32209,(904) 354-1652,30.336823,-81.667581
+L000587-burnsville,L000587,DISTRICT,Burnsville,2805 Cliff Road,Ste 200,Burnsville,MN,55337,(651) 846-2120,44.7899842,-93.236107
 L000587-washington,L000587,DC,Washington,418 Cannon House Office Building,,Washington,DC,20515,(202) 225-2271,38.8868,-77.0085
 M000087-queens,M000087,DISTRICT,Queens,31-19 Newtown Ave.,,Astoria,NY,11102-1391,(718) 932-1804,40.7671177,-73.9204453
 M000087-manhattan,M000087,DISTRICT,Manhattan,"1651 3rd Avenue, Suite 311",,New York,NY,10128-3679,(212) 860-0606,40.7828262,-73.9506841
@@ -1205,16 +1227,18 @@ M001196-washington,M001196,DC,Washington,1408 Longworth House Office Building,,W
 M001197-sierra-vista,M001197,DISTRICT,Sierra Vista,77 Calle Portal,Suite B-160,Sierra Vista,AZ,85635,(520) 459-3115,31.5533785,-110.2663836
 M001197-tucson,M001197,DISTRICT,Tucson,4400 E. Broadway Blvd,Suite 510,Tucson,AZ,85711,(520) 881-3588,32.2209228,-110.8978934
 M001197-washington,M001197,DC,Washington,510 Cannon House Office Building,,Washington,DC,20515,(202) 225-2542,38.8867621,-77.0069216
-M001198-salina,M001198,DISTRICT,Salina,200 East Iron Avenue,,Salina,KS,67401,,38.8403082,-97.6077412
+M001198-salina,M001198,DISTRICT,Salina,200 East Iron Avenue,,Salina,KS,67401,(785) 829-9000,38.8403082,-97.6077412
 M001198-washington,M001198,DC,Washington,312 Cannon House Office Building,,Washington,DC,20515,(202) 225-2715,38.8868,-77.0085
-M001199-port-st-lucie,M001199,DISTRICT,Port St Lucie,121 SW Port St Lucie Blvd,,Port St Lucie,FL,34984,,27.2741604,-80.3430288
-M001199-stuart,M001199,DISTRICT,Stuart,171 SW Flager Ave,,Stuart,FL,34994,,27.200589,-80.2560599
+M001199-port-st-lucie,M001199,DISTRICT,Port St Lucie,121 SW Port St Lucie Blvd,,Port St Lucie,FL,34984,(772) 336-2877,27.2741604,-80.3430288
+M001199-stuart,M001199,DISTRICT,Stuart,171 SW Flager Ave,,Stuart,FL,34994,(772) 403-0900,27.200589,-80.2560599
 M001199-washington,M001199,DC,Washington,2182 Rayburn House Office Building,,Washington,DC,20515,(202) 225-3026,38.8871071,-77.0104749
 M001200-washington,M001200,DC,Washington,314 Cannon House Office Building,,Washington,DC,20515,(202) 225-6365,38.8868,-77.0085
+M001200-richmond,M001200,DISTRICT,Richmond,110 North Robinson Street,Suite 401,Richmond,VA,23220,(804) 486-1840,37.5534549,-77.4731247
 M001201-shelby-township,M001201,DISTRICT,Shelby Township,48701 Van Dyke Avenue,,Shelby Township,MI,48317,(586) 997-5010,42.653045,-83.033869
 M001201-washington,M001201,DC,Washington,211 Cannon House Office Building,,Washington,DC,20515,(202) 225-2106,38.8868,-77.0085
 M001202-orlando,M001202,DISTRICT,Orlando,225 E Robinson,Suite 525,Orlando,FL,32801,(888) 205-5421,28.546165,-81.3744028
 M001202-washington,M001202,DC,Washington,1237 Longworth House Office Building,,Washington,DC,20515,(202) 225-4035,38.8867621,-77.0069216
+M001202-sanford,M001202,DISTRICT,Sanford,110 W. First Street,Suite 210,Sanford,FL,32771,(888) 205-5421,28.8121096,-81.26861149999999
 N000002-manhattan,N000002,DISTRICT,Manhattan,"201 Varick Street, Suite 669",,New York,NY,10014,(212) 367-7350,40.7283398,-74.0062211
 N000002-brooklyn,N000002,DISTRICT,Brooklyn,6605 Fort Hamilton Parkway,,Brooklyn,NY,11219,(718) 373-3198,40.6298149,-74.0100219
 N000002-washington,N000002,DC,Washington,2109 Rayburn House Office Building,,Washington,DC,20515,(202) 225-5635,38.8873209,-77.0097973
@@ -1259,6 +1283,7 @@ O000170-washington,O000170,DC,Washington,1330 Longworth House Office Building,,W
 O000171-casa-grande,O000171,DISTRICT,Casa Grande,211 N. Florence Street,Suite 1,Casa Grande,AZ,85122,,32.8770219,-111.7541607
 O000171-flagstaff,O000171,DISTRICT,Flagstaff,405 N. Beaver Street,Suite 6,Flagstaff,AZ,68001,,35.2019797,-111.6486132
 O000171-washington,O000171,DC,Washington,126 Cannon House Office Building,,Washington,DC,20515,(202) 225-3361,38.8868,-77.0085
+O000171-tucson,O000171,DISTRICT,Tucson,3037 W. Ina Rd,Suite 101,Tucson,AZ,85741,(928) 304-0131,32.33639220000001,-111.0318291
 P000034-long-branch,P000034,DISTRICT,Long Branch,504 Broadway,,Long Branch,NJ,07740,(732) 571-1140,40.299971,-73.998411
 P000034-washington,P000034,DC,Washington,237 Cannon House Office Building,,Washington,DC,20515,(202) 225-4671,38.8868,-77.0085
 P000034-new-brunswick,P000034,DISTRICT,New Brunswick,67/69 Church St.,,New Brunswick,NJ,08901,(732) 249-8892,40.4962332,-74.4427084
@@ -1483,12 +1508,13 @@ R000605-rapid-city,R000605,DISTRICT,Rapid City,1313 W Main St.,,Rapid City,SD,57
 R000605-aberdeen,R000605,DISTRICT,Aberdeen,"514 S Main St., Suite 100",,Aberdeen,SD,57401,(605) 225-0366,45.4595325,-98.4883495
 R000605-washington,R000605,DC,Washington,502 Hart Senate Office Building,,Washington,DC,20510,(202) 224-5842,38.8928388,-77.0043561
 R000606-washington,R000606,DC,Washington,431 Cannon House Office Building,,Washington,DC,20515,(202) 225-5341,38.8868,-77.0085
-R000607-naples,R000607,DISTRICT,Naples,3299 Tamiami Trail East,Suite 105,Naples,FL,34112,,26.1270603,-81.7664209
+R000606-rockville,R000606,DISTRICT,Rockville,51 Monroe St,Suite 503,Rockville,MD,20850,(301) 354-1000,39.083791,-77.1481645
+R000607-naples,R000607,DISTRICT,Naples,3299 Tamiami Trail East,Suite 105,Naples,FL,34112,(239) 252-6225,26.1270603,-81.7664209
 R000607-washington,R000607,DC,Washington,120 Cannon House Office Building,,Washington,DC,20515,(202) 225-2536,38.8868,-77.0085
-R000607-cape-coral,R000607,DISTRICT,Cape Coral,1039 S.E. 9th Place,Suite 308,Cape Coral,FL,33990,,26.6320987,-81.9561391
-R000608-las-vegas,R000608,DISTRICT,Las Vegas,8872 S Eastern Ave,Suite 210/220,Las Vegas,NV,89123,,36.0279118,-115.1158569
+R000607-cape-coral,R000607,DISTRICT,Cape Coral,1039 S.E. 9th Ave,Suite 308,Cape Coral,FL,33990,(239) 599-6033,26.6320987,-81.9561391
+R000608-las-vegas,R000608,DISTRICT,Las Vegas,8872 S Eastern Ave,Suite 220,Las Vegas,NV,89123,(702) 963-9500,36.0279118,-115.1158569
 R000608-washington,R000608,DC,Washington,413 Cannon House Office Building,,Washington,DC,20515,(202) 225-3252,38.8868,-77.0085
-R000609-jacksonville,R000609,DISTRICT,Jacksonville,4130 Salisbury Road,Suite 2500,Jacksonville,FL,32216,,30.2539737,-81.5959646
+R000609-jacksonville,R000609,DISTRICT,Jacksonville,4130 Salisbury Road,Suite 2500,Jacksonville,FL,32216,(904) 831-5205,30.2539737,-81.5959646
 R000609-washington,R000609,DC,Washington,230 Cannon House Office Building,,Washington,DC,20515,(202) 225-2501,38.8868,-77.0085
 S000033-burlington,S000033,DISTRICT,Burlington,"1 Church St, 3rd Floor",,Burlington,VT,05401,(802) 862-0697,44.4802081,-73.2130702
 S000033-st-johnsbury,S000033,DISTRICT,St. Johnsbury,357 Western Ave. Suite 1B,,St. Johnsbury,VT,05819,(802) 748-9269,44.4173546,-72.0264647
@@ -1580,7 +1606,7 @@ S001168-annapolis,S001168,DISTRICT,Annapolis,Arundel Center,"44 Calvert Street, 
 S001168-burtonsville,S001168,DISTRICT,Burtonsville,Marilyn J. Praisner Community Recreation Center,14906 Old Columbia Pike,Burtonsville,MD,20866,(301) 421-4078,39.102063,-76.941686
 S001168-towson,S001168,DISTRICT,Towson,"600 Baltimore Avenue, Suite 303",,Towson,MD,21204,(410) 832-8890,39.4023248,-76.6073615
 S001168-washington,S001168,DC,Washington,2444 Rayburn House Office Building,,Washington,DC,20515,(202) 225-4016,38.8871071,-77.0104749
-S001170-dover,S001170,DISTRICT,Dover,660 Central Ave,,Dover,NH,03820,(888) 216-5373,43.205869,-70.8756835
+S001170-dover,S001170,DISTRICT,Dover,660 Central Ave,Unit 101,Dover,NH,03820,(603) 285-4300,43.205869,-70.8756835
 S001170-washington,S001170,DC,Washington,1530 Longworth House Office Building,,Washington,DC,20515,(202) 225-5456,38.8867621,-77.0069216
 S001172-grand-island,S001172,DISTRICT,Grand Island,"1811 West Second Street, Suite 275",,Grand Island,NE,68803,(308) 384-3900,40.9168985,-98.3583418
 S001172-scottsbluff,S001172,DISTRICT,Scottsbluff,"416 Valley View Drive, Suite 600",,Scottsbluff,NE,69361,(308) 633-6333,41.8785841,-103.6569419
@@ -1621,7 +1647,7 @@ S001187-fairfield-county,S001187,DISTRICT,Fairfield County,123 South Broad Stree
 S001189-tifton,S001189,DISTRICT,Tifton,127-B N. Central Ave.,,Tifton,GA,31794,(229) 396-5175,31.4548661,-83.5107367
 S001189-warner-robins,S001189,DISTRICT,Warner Robins,230 Margie Dr. Suite 500,,Warner Robins,GA,31088,(478) 971-1776,32.6144617,-83.6893055
 S001189-washington,S001189,DC,Washington,2417 Rayburn House Office Building,,Washington,DC,20515,(202) 225-6531,38.8871071,-77.0104749
-S001190-lincolnshire,S001190,DISTRICT,Lincolnshire,111 Barclay Blvd,Suite 200,Lincolnshire,IL,60069,,42.1964098,-87.9362154
+S001190-lincolnshire,S001190,DISTRICT,Lincolnshire,111 Barclay Blvd,Suite 200,Lincolnshire,IL,60069,(847) 383-4870,42.1964098,-87.9362154
 S001190-washington,S001190,DC,Washington,1432 Longworth House Office Building,,Washington,DC,20515,(202) 225-4835,38.8867621,-77.0069216
 S001191-phoenix,S001191,DISTRICT,Phoenix,"2944 N. 44th Street, Suite 150",,Phoenix,AZ,85018,(602) 956-2285,33.481675,-111.9874218
 S001191-washington,S001191,DC,Washington,1725 Longworth House Office Building,,Washington,DC,20515,(202) 225-9888,38.8867621,-77.0069216
@@ -1654,12 +1680,14 @@ S001198-kenai,S001198,DISTRICT,Kenai,805 Frontage Road,Suite 101,Kenai,AK,99611,
 S001198-ketchikan,S001198,DISTRICT,Ketchikan,1900 First Avenue,Suite 225,Ketchikan,AK,99901,(907) 225-6880,55.3492023,-131.6673863
 S001198-matsu-valley,S001198,DISTRICT,Mat-Su Valley,851 E. Westpoint Drive,Suite 309,Wasilla,AK,99654,(907) 357-9956,61.5826697,-149.4286826
 S001198-washington,S001198,DC,Washington,702 Hart Senate Office Building,,Washington,DC,20510,(202) 224-3004,38.8928388,-77.0043561
-S001199-lancaster,S001199,DISTRICT,Lancaster,51 South Duke St,Suite 201,Lancaster,PA,17602,,40.0368908,-76.3031804
+S001199-lancaster,S001199,DISTRICT,Lancaster,51 South Duke St,Suite 201,Lancaster,PA,17602,(717) 393-0667,40.0368908,-76.3031804
 S001199-washington,S001199,DC,Washington,516 Cannon House Office Building,,Washington,DC,20515,(202) 225-2411,38.8868,-77.0085
-S001200-kissimmee,S001200,DISTRICT,Kissimmee,804 Bryan Street,,Kissimmee,FL,34741,,28.2906297,-81.4123113
+S001200-kissimmee,S001200,DISTRICT,Kissimmee,804 W Bryan Street,,Kissimmee,FL,34741,(407) 452-1171,28.2906297,-81.4123113
 S001200-washington,S001200,DC,Washington,1429 Longworth House Office Building,,Washington,DC,20515,(202) 225-9889,38.8867621,-77.0069216
-S001201-huntington,S001201,DISTRICT,Huntington,478A Park Avenue,,Huntington,NY,11743,,40.873976,-73.411319
+S001200-orlando,S001200,DISTRICT,Orlando,6900 Lake Nona Blvd,Suites #101A & #101B,Orlando,FL,32827,(407) 266-7161,28.368175,-81.280361
+S001201-huntington,S001201,DISTRICT,Huntington,478A Park Avenue,,Huntington,NY,11743,(631) 923-4100,40.873976,-73.411319
 S001201-washington,S001201,DC,Washington,226 Cannon House Office Building,,Washington,DC,20515,(202) 225-3335,38.8868,-77.0085
+S001201-little-neck,S001201,DISTRICT,Little Neck,250-02 Northern Boulevard,,Little Neck,NY,11362,(631) 923-4100,40.7683151,-73.73727650000001
 T000193-bolton,T000193,DISTRICT,Bolton,107 West Madison Street,,Bolton,MS,39041,(601) 866-9003,32.348821,-90.459947
 T000193-greenville,T000193,DISTRICT,Greenville,910 Courthouse Lane,,Greenville,MS,38701,(662) 335-9003,33.4079337,-91.051782
 T000193-greenwood,T000193,DISTRICT,Greenwood,509 Highway 82 West,,Greenwood,MS,38930,(662) 455-9003,33.5051438,-90.1865523
@@ -1732,8 +1760,10 @@ T000476-high-point,T000476,DISTRICT,High Point,"1840 Eastchester Drive, Suite 20
 T000476-raleigh,T000476,DISTRICT,Raleigh,310 New Bern Avenue,Suite 122,Raleigh,NC,27601,(919) 856-4630,35.7799621,-78.633881
 T000476-washington,T000476,DC,Washington,185 Dirksen Senate Office Building,,Washington,DC,20510,(202) 224-6342,38.8928369,-77.0051216
 T000477-washington,T000477,DC,Washington,412 Cannon House Office Building,,Washington,DC,20515,(202) 225-4215,38.8868,-77.0085
-T000478-new-hartford,T000478,DISTRICT,New Hartford,555 French Rd,,New Hartford,NY,13413,,43.0903185,-75.278421
+T000477-virginia-beach,T000477,DISTRICT,Virginia Beach,1 Columbus Center,Suite 900,Virginia Beach,VA,23462,,36.842491,-76.13233
+T000478-new-hartford,T000478,DISTRICT,New Hartford,555 French Rd,Suite 101,New Hartford,NY,13413,(315) 732-0713,43.0903185,-75.278421
 T000478-washington,T000478,DC,Washington,512 Cannon House Office Building,,Washington,DC,20515,(202) 225-3665,38.8868,-77.0085
+T000478-binghamton,T000478,DISTRICT,Binghamton,49 Court Street,"Metro Center, Suite 210",Binghamton,NY,13901,(607) 376-6002,42.0991414,-75.91309489999999
 U000031-st-joseph,U000031,DISTRICT,St. Joseph,720 Main Street,,St. Joseph,MI,49085,(269) 982-1986,42.105351,-86.484035
 U000031-washington,U000031,DC,Washington,2183 Rayburn House Office Building,,Washington,DC,20515,(202) 225-3761,38.8871071,-77.0104749
 U000031-kalamazoo,U000031,DISTRICT,Kalamazoo,"350 E. Michigan Ave, Suite 130",,Kalamazoo,MI,49007,(269) 385-0039,42.2926475,-85.5791097
@@ -1858,6 +1888,10 @@ Y000062-washington,Y000062,DC,Washington,131 Cannon House Office Building,,Washi
 Y000063-overland-park,Y000063,DISTRICT,Overland Park,7325 W. 79th St.,,Overland Park,KS,66204,(913) 621-0832,38.9858855,-94.6703158
 Y000063-washington,Y000063,DC,Washington,2433 Rayburn House Office Building,,Washington,DC,20515,(202) 225-2865,38.8868,-77.0085
 Y000064-washington,Y000064,DC,Washington,B33 Russell Senate Office Building,,Washington,DC,20510,(202) 224-5623,38.8925417,-77.0074155
+Y000064-indianapolis,Y000064,DISTRICT,Indianapolis,46 East Ohio Street,Suite 462,Indianapolis,IN,46204,(317) 226-6700,39.770723,-86.15702999999999
+Y000064-new-albany,Y000064,DISTRICT,New Albany,121 West Spring Street,Suite 130-C & 225,New Albany,IN,47150,(812) 542-4820,43.6723143,-70.361437
+Y000064-evansville,Y000064,DISTRICT,Evansville,101 Martin Luther King Jr. Blvd,Suite 110,Evansville,IN,47708,,37.975188,-87.567486
+Y000064-fort-wayne,Y000064,DISTRICT,Fort Wayne,1300 South Harrison Street,Suite # 3161,Fort Wayne,IN,46802,,41.0737372,-85.14045349999999
 Y000065-washington,Y000065,DC,Washington,511 Cannon House Office Building,,Washington,DC,20515,(202) 225-5744,38.8868,-77.0085
 Y000065-gainesville,Y000065,DISTRICT,Gainesville,5000 NW 27thCourt,Suite E,Gainesville,FL,32606,(352) 505-0838,29.678553,-82.39626
 Y000065-orange-park,Y000065,DISTRICT,Orange Park,35 Knight Boxx Road,Suite 1,Orange Park,FL,32065,(904) 276-9626,30.1208794,-81.7974322

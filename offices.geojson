@@ -1094,7 +1094,7 @@
                 "line1": "500 Chestnut St",
                 "line2": "#819",
                 "name": "Abilene",
-                "phone": null,
+                "phone": "(325) 675-9779",
                 "rep": {
                     "bioguide_id": "A000375",
                     "chamber": "HOUSE",
@@ -1127,10 +1127,10 @@
             "properties": {
                 "city": "Lubbock",
                 "handle": "A000375-lubbock",
-                "line1": "611 University Ave. #220",
-                "line2": null,
+                "line1": "1312 Texas Ave.",
+                "line2": "Suite 219",
                 "name": "Lubbock",
-                "phone": null,
+                "phone": "(806) 763-1611",
                 "rep": {
                     "bioguide_id": "A000375",
                     "chamber": "HOUSE",
@@ -6782,7 +6782,7 @@
                 "line1": "13906 Gold Circle",
                 "line2": "Suite 101",
                 "name": "Omaha",
-                "phone": null,
+                "phone": "(402) 938-0300",
                 "rep": {
                     "bioguide_id": "B001298",
                     "chamber": "HOUSE",
@@ -6854,7 +6854,7 @@
                 "line1": "1300 S Harrison St",
                 "line2": null,
                 "name": "Fort Wayne",
-                "phone": null,
+                "phone": "(260) 702-4750",
                 "rep": {
                     "bioguide_id": "B001299",
                     "chamber": "HOUSE",
@@ -6926,7 +6926,7 @@
                 "line1": "8650 California Ave",
                 "line2": null,
                 "name": "South Gate",
-                "phone": "(323) 563-9562",
+                "phone": "(310) 831-1799",
                 "rep": {
                     "bioguide_id": "B001300",
                     "chamber": "HOUSE",
@@ -6987,6 +6987,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.2629115,
+                    33.8322958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Carson",
+                "handle": "B001300-carson",
+                "line1": "701 E. Carson St",
+                "line2": null,
+                "name": "Carson",
+                "phone": "(310) 831-1799",
+                "rep": {
+                    "bioguide_id": "B001300",
+                    "chamber": "HOUSE",
+                    "district_code": "CA44",
+                    "district_number": 44,
+                    "district_ordinal": "44th",
+                    "first_name": "Nanette",
+                    "last_name": "Barrag\u00e1n",
+                    "party": "DEMOCRAT",
+                    "state_code": "CA",
+                    "state_name": "California",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://barragan.house.gov"
+                },
+                "state_code": "CA",
+                "type": "DISTRICT",
+                "zip": "90745"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.2839378,
+                    33.7398775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "San Pedro",
+                "handle": "B001300-san-pedro",
+                "line1": "302 W. Fifth St",
+                "line2": "Suite 201",
+                "name": "San Pedro",
+                "phone": "(310) 831-1799",
+                "rep": {
+                    "bioguide_id": "B001300",
+                    "chamber": "HOUSE",
+                    "district_code": "CA44",
+                    "district_number": 44,
+                    "district_ordinal": "44th",
+                    "first_name": "Nanette",
+                    "last_name": "Barrag\u00e1n",
+                    "party": "DEMOCRAT",
+                    "state_code": "CA",
+                    "state_name": "California",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://barragan.house.gov"
+                },
+                "state_code": "CA",
+                "type": "DISTRICT",
+                "zip": "90731"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.0085,
                     38.8868
                 ],
@@ -7023,6 +7095,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -85.5961732,
+                    44.7066718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Traverse City",
+                "handle": "B001301-traverse-city",
+                "line1": "1396 Douglas Drive",
+                "line2": "Suite 22B",
+                "name": "Traverse City",
+                "phone": "(231) 944-7633",
+                "rep": {
+                    "bioguide_id": "B001301",
+                    "chamber": "HOUSE",
+                    "district_code": "MI01",
+                    "district_number": 1,
+                    "district_ordinal": "1st",
+                    "first_name": "Jack",
+                    "last_name": "Bergman",
+                    "party": "REPUBLICAN",
+                    "state_code": "MI",
+                    "state_name": "Michigan",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://bergman.house.gov"
+                },
+                "state_code": "MI",
+                "type": "DISTRICT",
+                "zip": "49696"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.4227729,
+                    46.54703800000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Marquette",
+                "handle": "B001301-marquette",
+                "line1": "1500 W. Washington St.",
+                "line2": "Suite 2",
+                "name": "Marquette",
+                "phone": "(906) 273-2227",
+                "rep": {
+                    "bioguide_id": "B001301",
+                    "chamber": "HOUSE",
+                    "district_code": "MI01",
+                    "district_number": 1,
+                    "district_ordinal": "1st",
+                    "first_name": "Jack",
+                    "last_name": "Bergman",
+                    "party": "REPUBLICAN",
+                    "state_code": "MI",
+                    "state_name": "Michigan",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://bergman.house.gov"
+                },
+                "state_code": "MI",
+                "type": "DISTRICT",
+                "zip": "49855"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -111.6870648,
                     33.3712904
                 ],
@@ -7032,9 +7176,9 @@
                 "city": "Mesa",
                 "handle": "B001302-mesa",
                 "line1": "2509 S Power Rd",
-                "line2": "Suite 205",
+                "line2": "Suite 204",
                 "name": "Mesa",
-                "phone": null,
+                "phone": "(480) 699-8239",
                 "rep": {
                     "bioguide_id": "B001302",
                     "chamber": "HOUSE",
@@ -7106,7 +7250,7 @@
                 "line1": "1105 N Market St",
                 "line2": "Suite 400",
                 "name": "Wilmington",
-                "phone": null,
+                "phone": "(302) 830-2330",
                 "rep": {
                     "bioguide_id": "B001303",
                     "chamber": "HOUSE",
@@ -7178,7 +7322,7 @@
                 "line1": "9701 Apollo Dr",
                 "line2": "Ste 103",
                 "name": "Upper Marlboro",
-                "phone": null,
+                "phone": "(301) 458-2600",
                 "rep": {
                     "bioguide_id": "B001304",
                     "chamber": "HOUSE",
@@ -7247,10 +7391,10 @@
             "properties": {
                 "city": "Advance",
                 "handle": "B001305-advance",
-                "line1": "128 Peachtree Lane-Suite A",
-                "line2": null,
+                "line1": "128 Peachtree Lane",
+                "line2": "Suite A",
                 "name": "Advance",
-                "phone": null,
+                "phone": "(336) 998-1313",
                 "rep": {
                     "bioguide_id": "B001305",
                     "chamber": "HOUSE",
@@ -7305,42 +7449,6 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.863322,
-                    35.599466
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Mooresville",
-                "handle": "B001305-mooresville",
-                "line1": "116 Morlake Dr",
-                "line2": "Suite 101A",
-                "name": "Mooresville",
-                "phone": null,
-                "rep": {
-                    "bioguide_id": "B001305",
-                    "chamber": "HOUSE",
-                    "district_code": "NC13",
-                    "district_number": 13,
-                    "district_ordinal": "13th",
-                    "first_name": "Ted",
-                    "last_name": "Budd",
-                    "party": "REPUBLICAN",
-                    "state_code": "NC",
-                    "state_name": "North Carolina",
-                    "title": "Representative",
-                    "title_short": "Rep.",
-                    "website": "https://budd.house.gov"
-                },
-                "state_code": "NC",
-                "type": "DISTRICT",
-                "zip": "28117"
             },
             "type": "Feature"
         },
@@ -14979,6 +15087,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -105.5044127,
+                    44.2920649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Gillette",
+                "handle": "C001109-gillette",
+                "line1": "300 S.Gillette Ave",
+                "line2": "Suite 2000",
+                "name": "Gillette",
+                "phone": "(307) 414-1677",
+                "rep": {
+                    "bioguide_id": "C001109",
+                    "chamber": "HOUSE",
+                    "district_code": "WY00",
+                    "district_number": 0,
+                    "district_ordinal": "At-Large",
+                    "first_name": "Liz",
+                    "last_name": "Cheney",
+                    "party": "REPUBLICAN",
+                    "state_code": "WY",
+                    "state_name": "Wyoming",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://cheney.house.gov"
+                },
+                "state_code": "WY",
+                "type": "DISTRICT",
+                "zip": "82716"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.0069216,
                     38.8867621
                 ],
@@ -15051,6 +15195,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -82.6435748,
+                    27.7717703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "St. Petersburg",
+                "handle": "C001111-st-petersburg",
+                "line1": "696 1st Avenue North",
+                "line2": "Suite 203",
+                "name": "St. Petersburg",
+                "phone": "(727) 318-6770",
+                "rep": {
+                    "bioguide_id": "C001111",
+                    "chamber": "HOUSE",
+                    "district_code": "FL13",
+                    "district_number": 13,
+                    "district_ordinal": "13th",
+                    "first_name": "Charlie",
+                    "last_name": "Crist",
+                    "party": "DEMOCRAT",
+                    "state_code": "FL",
+                    "state_name": "Florida",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://crist.house.gov"
+                },
+                "state_code": "FL",
+                "type": "DISTRICT",
+                "zip": "33701"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -120.6538213,
                     35.2838648
                 ],
@@ -15062,7 +15242,7 @@
                 "line1": "1411 Marsh St",
                 "line2": "Suite 205",
                 "name": "San Luis Obispo",
-                "phone": "(888) 202-8934",
+                "phone": "(805) 546-8348",
                 "rep": {
                     "bioguide_id": "C001112",
                     "chamber": "HOUSE",
@@ -15123,6 +15303,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -119.7468517,
+                    34.4349008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Santa Barbara",
+                "handle": "C001112-santa-barbara",
+                "line1": "360 S. Hope Ave",
+                "line2": "Suite C-301",
+                "name": "Santa Barbara",
+                "phone": "(805) 730-1710",
+                "rep": {
+                    "bioguide_id": "C001112",
+                    "chamber": "HOUSE",
+                    "district_code": "CA24",
+                    "district_number": 24,
+                    "district_ordinal": "24th",
+                    "first_name": "Salud",
+                    "last_name": "Carbajal",
+                    "party": "DEMOCRAT",
+                    "state_code": "CA",
+                    "state_name": "California",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://carbajal.house.gov"
+                },
+                "state_code": "CA",
+                "type": "DISTRICT",
+                "zip": "93105"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.0051216,
                     38.8928369
                 ],
@@ -15153,6 +15369,78 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.1424185,
+                    36.1651154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Las Vegas",
+                "handle": "C001113-las-vegas",
+                "line1": "333 Las Vegas Blvd South",
+                "line2": "Suite 8016",
+                "name": "Las Vegas",
+                "phone": "(702) 388-5020",
+                "rep": {
+                    "bioguide_id": "C001113",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Catherine",
+                    "last_name": "Cortez Masto",
+                    "party": "DEMOCRAT",
+                    "state_code": "NV",
+                    "state_name": "Nevada",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.cortezmasto.senate.gov"
+                },
+                "state_code": "NV",
+                "type": "DISTRICT",
+                "zip": "89101"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.810287,
+                    39.5215352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Reno",
+                "handle": "C001113-reno",
+                "line1": "400 S. Virginia St, Suite 902",
+                "line2": "Courthouse and Federal Building",
+                "name": "Reno",
+                "phone": " (775) 686-5750",
+                "rep": {
+                    "bioguide_id": "C001113",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Catherine",
+                    "last_name": "Cortez Masto",
+                    "party": "DEMOCRAT",
+                    "state_code": "NV",
+                    "state_name": "Nevada",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.cortezmasto.senate.gov"
+                },
+                "state_code": "NV",
+                "type": "DISTRICT",
+                "zip": "89501"
             },
             "type": "Feature"
         },
@@ -18291,6 +18579,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -89.64871409999999,
+                    39.800468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Springfield",
+                "handle": "D000622-springfield",
+                "line1": "8 South Old State Capitol Plaza",
+                "line2": null,
+                "name": "Springfield",
+                "phone": "(217) 528-6124",
+                "rep": {
+                    "bioguide_id": "D000622",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Tammy",
+                    "last_name": "Duckworth",
+                    "party": "DEMOCRAT",
+                    "state_code": "IL",
+                    "state_name": "Illinois",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.duckworth.senate.gov"
+                },
+                "state_code": "IL",
+                "type": "DISTRICT",
+                "zip": "62701"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.3428337,
                     37.9367699
                 ],
@@ -18770,7 +19094,7 @@
                 "line1": "2295 S Hiawassee Rd",
                 "line2": "Suite 301",
                 "name": "Orlando",
-                "phone": null,
+                "phone": "(321) 388-9808",
                 "rep": {
                     "bioguide_id": "D000627",
                     "chamber": "HOUSE",
@@ -18911,8 +19235,8 @@
             "properties": {
                 "city": "Panama City",
                 "handle": "D000628-panama-city",
-                "line1": "840 W. 11th St. Suite 2250",
-                "line2": null,
+                "line1": "840 W. 11th St.",
+                "line2": "Suite 2250",
                 "name": "Panama City",
                 "phone": "(850) 785-0812",
                 "rep": {
@@ -19905,6 +20229,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9474304,
+                    40.8092263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "New York",
+                "handle": "E000297-new-york",
+                "line1": "163 West 125th Street",
+                "line2": "Harlem State Office Building",
+                "name": "New York",
+                "phone": "(212) 663-3900",
+                "rep": {
+                    "bioguide_id": "E000297",
+                    "chamber": "HOUSE",
+                    "district_code": "NY13",
+                    "district_number": 13,
+                    "district_ordinal": "13th",
+                    "first_name": "Adriano",
+                    "last_name": "Espaillat",
+                    "party": "DEMOCRAT",
+                    "state_code": "NY",
+                    "state_name": "New York",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://espaillat.house.gov"
+                },
+                "state_code": "NY",
+                "type": "DISTRICT",
+                "zip": "10027"
             },
             "type": "Feature"
         },
@@ -25214,7 +25574,7 @@
                 "line1": "226 S Palafox Pl",
                 "line2": "6th Floor",
                 "name": "Pensacola",
-                "phone": null,
+                "phone": "(850) 479-1183",
                 "rep": {
                     "bioguide_id": "G000578",
                     "chamber": "HOUSE",
@@ -25275,6 +25635,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -86.6530906,
+                    30.4533919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Fort Walton Beach",
+                "handle": "G000578-fort-walton-beach",
+                "line1": "1170 Martin Luther King, Jr. Blvd",
+                "line2": "Bldg. 4, Rm 454",
+                "name": "Fort Walton Beach",
+                "phone": "(850) 479-1183",
+                "rep": {
+                    "bioguide_id": "G000578",
+                    "chamber": "HOUSE",
+                    "district_code": "FL01",
+                    "district_number": 1,
+                    "district_ordinal": "1st",
+                    "first_name": "Matt",
+                    "last_name": "Gaetz",
+                    "party": "REPUBLICAN",
+                    "state_code": "FL",
+                    "state_name": "Florida",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://gaetz.house.gov"
+                },
+                "state_code": "FL",
+                "type": "DISTRICT",
+                "zip": "32547"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -88.4094435,
                     44.2614778
                 ],
@@ -25286,7 +25682,7 @@
                 "line1": "333 W. College Ave",
                 "line2": null,
                 "name": "Appleton",
-                "phone": null,
+                "phone": "(920) 903-9806",
                 "rep": {
                     "bioguide_id": "G000579",
                     "chamber": "HOUSE",
@@ -25341,6 +25737,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.0200192,
+                    44.4852063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Green Bay",
+                "handle": "G000579-green-bay",
+                "line1": "1915 S. Webster Avenue",
+                "line2": "Suite D",
+                "name": "Greey Bay",
+                "phone": "(920) 301-4500",
+                "rep": {
+                    "bioguide_id": "G000579",
+                    "chamber": "HOUSE",
+                    "district_code": "WI08",
+                    "district_number": 8,
+                    "district_ordinal": "8th",
+                    "first_name": "Mike",
+                    "last_name": "Gallagher",
+                    "party": "REPUBLICAN",
+                    "state_code": "WI",
+                    "state_name": "Wisconsin",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://gallagher.house.gov"
+                },
+                "state_code": "WI",
+                "type": "DISTRICT",
+                "zip": "54301"
             },
             "type": "Feature"
         },
@@ -25610,7 +26042,7 @@
                 "line1": "65 Harristown Rd",
                 "line2": "Suite 104",
                 "name": "Glen Rock",
-                "phone": "(888) 216-5646",
+                "phone": "(201) 389-1100",
                 "rep": {
                     "bioguide_id": "G000583",
                     "chamber": "HOUSE",
@@ -25665,6 +26097,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.75184899999999,
+                    41.058088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Newton",
+                "handle": "G000583-newton",
+                "line1": "93 Spring Street",
+                "line2": "Suite 408",
+                "name": "Newton",
+                "phone": "(973) 814-4078",
+                "rep": {
+                    "bioguide_id": "G000583",
+                    "chamber": "HOUSE",
+                    "district_code": "NJ05",
+                    "district_number": 5,
+                    "district_ordinal": "5th",
+                    "first_name": "Josh",
+                    "last_name": "Gottheimer",
+                    "party": "DEMOCRAT",
+                    "state_code": "NJ",
+                    "state_name": "New Jersey",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://gottheimer.house.gov"
+                },
+                "state_code": "NJ",
+                "type": "DISTRICT",
+                "zip": "07860"
             },
             "type": "Feature"
         },
@@ -29210,7 +29678,7 @@
                 "line1": "279 Quartermaster Court",
                 "line2": null,
                 "name": "Jeffersonville",
-                "phone": null,
+                "phone": "(812) 288-3999",
                 "rep": {
                     "bioguide_id": "H001074",
                     "chamber": "HOUSE",
@@ -29229,6 +29697,42 @@
                 "state_code": "IN",
                 "type": "DISTRICT",
                 "zip": "47130"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.1107229,
+                    39.60534699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Greenwood",
+                "handle": "H001074-greenwood",
+                "line1": "720 Executive Park Dr.",
+                "line2": "Suite 3000B",
+                "name": "Greenwood",
+                "phone": "(317) 851-8710",
+                "rep": {
+                    "bioguide_id": "H001074",
+                    "chamber": "HOUSE",
+                    "district_code": "IN09",
+                    "district_number": 9,
+                    "district_ordinal": "9th",
+                    "first_name": "Trey",
+                    "last_name": "Hollingsworth",
+                    "party": "REPUBLICAN",
+                    "state_code": "IN",
+                    "state_name": "Indiana",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://hollingsworth.house.gov"
+                },
+                "state_code": "IN",
+                "type": "DISTRICT",
+                "zip": "46143"
             },
             "type": "Feature"
         },
@@ -29487,6 +29991,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.47229399999999,
+                    42.9813958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Manchester",
+                "handle": "H001076-manchester",
+                "line1": "1589 Elm Street",
+                "line2": "Third Floor",
+                "name": "Manchester",
+                "phone": "(603) 622-2204",
+                "rep": {
+                    "bioguide_id": "H001076",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Margaret Wood",
+                    "last_name": "Hassan",
+                    "party": "DEMOCRAT",
+                    "state_code": "NH",
+                    "state_name": "New Hampshire",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.hassan.senate.gov"
+                },
+                "state_code": "NH",
+                "type": "DISTRICT",
+                "zip": "03101"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.8098029,
+                    43.0856076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Portsmouth",
+                "handle": "H001076-portsmouth",
+                "line1": "14 Manchester Square",
+                "line2": "Suite #140",
+                "name": "Portsmouth",
+                "phone": "(603) 433-4445",
+                "rep": {
+                    "bioguide_id": "H001076",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Margaret Wood",
+                    "last_name": "Hassan",
+                    "party": "DEMOCRAT",
+                    "state_code": "NH",
+                    "state_name": "New Hampshire",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.hassan.senate.gov"
+                },
+                "state_code": "NH",
+                "type": "DISTRICT",
+                "zip": "03801"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.0069216,
                     38.8867621
                 ],
@@ -29517,6 +30093,78 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.01907,
+                    30.22335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Lafayette",
+                "handle": "H001077-Lafayette",
+                "line1": "600 Jefferson Street",
+                "line2": "Suite 808",
+                "name": "Lafayette",
+                "phone": "(337) 703-6105",
+                "rep": {
+                    "bioguide_id": "H001077",
+                    "chamber": "HOUSE",
+                    "district_code": "LA03",
+                    "district_number": 3,
+                    "district_ordinal": "3rd",
+                    "first_name": "Clay",
+                    "last_name": "Higgins",
+                    "party": "REPUBLICAN",
+                    "state_code": "LA",
+                    "state_name": "Louisiana",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://clayhiggins.house.gov"
+                },
+                "state_code": "LA",
+                "type": "DISTRICT",
+                "zip": "70501"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2196295,
+                    30.2305579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Lake Charles",
+                "handle": "H001077-lake-charles",
+                "line1": "1 Lakeshore Drive",
+                "line2": "Suite 1670",
+                "name": "Lake Charles",
+                "phone": "(337) 656-2833",
+                "rep": {
+                    "bioguide_id": "H001077",
+                    "chamber": "HOUSE",
+                    "district_code": "LA03",
+                    "district_number": 3,
+                    "district_ordinal": "3rd",
+                    "first_name": "Clay",
+                    "last_name": "Higgins",
+                    "party": "REPUBLICAN",
+                    "state_code": "LA",
+                    "state_name": "Louisiana",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://clayhiggins.house.gov"
+                },
+                "state_code": "LA",
+                "type": "DISTRICT",
+                "zip": "70629"
             },
             "type": "Feature"
         },
@@ -31370,7 +32018,7 @@
                 "line1": "2250 Hospital Drive",
                 "line2": "Suite 248",
                 "name": "Bossier City",
-                "phone": null,
+                "phone": "(318) 840-0309",
                 "rep": {
                     "bioguide_id": "J000299",
                     "chamber": "HOUSE",
@@ -31425,6 +32073,78 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0973496,
+                    31.74789669999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Natchitoches",
+                "handle": "J000299-natchitoches",
+                "line1": "444 Caspari Drive",
+                "line2": "South Hall Room 224",
+                "name": "Natchitoches",
+                "phone": "(318) 357-5731",
+                "rep": {
+                    "bioguide_id": "J000299",
+                    "chamber": "HOUSE",
+                    "district_code": "LA04",
+                    "district_number": 4,
+                    "district_ordinal": "4th",
+                    "first_name": "Mike",
+                    "last_name": "Johnson",
+                    "party": "REPUBLICAN",
+                    "state_code": "LA",
+                    "state_name": "Louisiana",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://mikejohnson.house.gov"
+                },
+                "state_code": "LA",
+                "type": "DISTRICT",
+                "zip": "71497"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2312895,
+                    31.0884912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Leesville",
+                "handle": "J000299-leesville",
+                "line1": "3329 University Parkway",
+                "line2": "Building 552, Room 24",
+                "name": "Leesville",
+                "phone": "(337) 392-3146",
+                "rep": {
+                    "bioguide_id": "J000299",
+                    "chamber": "HOUSE",
+                    "district_code": "LA04",
+                    "district_number": 4,
+                    "district_ordinal": "4th",
+                    "first_name": "Mike",
+                    "last_name": "Johnson",
+                    "party": "REPUBLICAN",
+                    "state_code": "LA",
+                    "state_name": "Louisiana",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://mikejohnson.house.gov"
+                },
+                "state_code": "LA",
+                "type": "DISTRICT",
+                "zip": "71446"
             },
             "type": "Feature"
         },
@@ -34178,7 +34898,7 @@
                 "line1": "2250 N Las Vegas Blvd",
                 "line2": "Suite 500",
                 "name": "North Las Vegas",
-                "phone": null,
+                "phone": "(702) 963-9360",
                 "rep": {
                     "bioguide_id": "K000390",
                     "chamber": "HOUSE",
@@ -34322,7 +35042,7 @@
                 "line1": "100 Main Street",
                 "line2": null,
                 "name": "Dyersburg",
-                "phone": null,
+                "phone": "(731) 412-1037",
                 "rep": {
                     "bioguide_id": "K000392",
                     "chamber": "HOUSE",
@@ -34358,7 +35078,7 @@
                 "line1": "406 South Lindell Street",
                 "line2": null,
                 "name": "Martin",
-                "phone": null,
+                "phone": "(731) 412-1043",
                 "rep": {
                     "bioguide_id": "K000392",
                     "chamber": "HOUSE",
@@ -34394,7 +35114,7 @@
                 "line1": "5900 Poplar Ave.",
                 "line2": "Suite 202",
                 "name": "Memphis",
-                "phone": null,
+                "phone": "(901) 682-4422",
                 "rep": {
                     "bioguide_id": "K000392",
                     "chamber": "HOUSE",
@@ -34455,6 +35175,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -88.81841440000001,
+                    35.6149736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Jackson",
+                "handle": "K000392-jackson",
+                "line1": "117 North Liberty Street",
+                "line2": null,
+                "name": "Jackson",
+                "phone": "(731) 423-4848",
+                "rep": {
+                    "bioguide_id": "K000392",
+                    "chamber": "HOUSE",
+                    "district_code": "TN08",
+                    "district_number": 8,
+                    "district_ordinal": "8th",
+                    "first_name": "David",
+                    "last_name": "Kustoff",
+                    "party": "REPUBLICAN",
+                    "state_code": "TN",
+                    "state_name": "Tennessee",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://kustoff.house.gov"
+                },
+                "state_code": "TN",
+                "type": "DISTRICT",
+                "zip": "38301"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.0074155,
                     38.8925417
                 ],
@@ -34463,7 +35219,7 @@
             "properties": {
                 "city": "Washington",
                 "handle": "K000393-washington",
-                "line1": "B11 Russell Senate Office Building",
+                "line1": "SR383 Russell Senate Building",
                 "line2": null,
                 "name": "Washington",
                 "phone": "(202) 224-4623",
@@ -37994,7 +38750,7 @@
                 "line1": "435 North Macomb Street",
                 "line2": null,
                 "name": "Tallahassee",
-                "phone": null,
+                "phone": "(850) 558-9450",
                 "rep": {
                     "bioguide_id": "L000586",
                     "chamber": "HOUSE",
@@ -38055,6 +38811,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -81.667581,
+                    30.336823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Jacksonville",
+                "handle": "L000586-jacksonville",
+                "line1": "1010 N. Davis St",
+                "line2": "Suite 206",
+                "name": "Jacksonville",
+                "phone": "(904) 354-1652",
+                "rep": {
+                    "bioguide_id": "L000586",
+                    "chamber": "HOUSE",
+                    "district_code": "FL05",
+                    "district_number": 5,
+                    "district_ordinal": "5th",
+                    "first_name": "Al",
+                    "last_name": "Lawson",
+                    "party": "DEMOCRAT",
+                    "state_code": "FL",
+                    "state_name": "Florida",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://lawson.house.gov"
+                },
+                "state_code": "FL",
+                "type": "DISTRICT",
+                "zip": "32209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -93.236107,
                     44.7899842
                 ],
@@ -38066,7 +38858,7 @@
                 "line1": "2805 Cliff Road",
                 "line2": "Ste 200",
                 "name": "Burnsville",
-                "phone": null,
+                "phone": "(651) 846-2120",
                 "rep": {
                     "bioguide_id": "L000587",
                     "chamber": "HOUSE",
@@ -43430,7 +44222,7 @@
                 "line1": "200 East Iron Avenue",
                 "line2": null,
                 "name": "Salina",
-                "phone": null,
+                "phone": "(785) 829-9000",
                 "rep": {
                     "bioguide_id": "M001198",
                     "chamber": "HOUSE",
@@ -43502,7 +44294,7 @@
                 "line1": "121 SW Port St Lucie Blvd",
                 "line2": null,
                 "name": "Port St Lucie",
-                "phone": null,
+                "phone": "(772) 336-2877",
                 "rep": {
                     "bioguide_id": "M001199",
                     "chamber": "HOUSE",
@@ -43538,7 +44330,7 @@
                 "line1": "171 SW Flager Ave",
                 "line2": null,
                 "name": "Stuart",
-                "phone": null,
+                "phone": "(772) 403-0900",
                 "rep": {
                     "bioguide_id": "M001199",
                     "chamber": "HOUSE",
@@ -43629,6 +44421,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4731247,
+                    37.5534549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Richmond",
+                "handle": "M001200-richmond",
+                "line1": "110 North Robinson Street",
+                "line2": "Suite 401",
+                "name": "Richmond",
+                "phone": "(804) 486-1840",
+                "rep": {
+                    "bioguide_id": "M001200",
+                    "chamber": "HOUSE",
+                    "district_code": "VA04",
+                    "district_number": 4,
+                    "district_ordinal": "4th",
+                    "first_name": "A. Donald",
+                    "last_name": "McEachin",
+                    "party": "DEMOCRAT",
+                    "state_code": "VA",
+                    "state_name": "Virginia",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://mceachin.house.gov"
+                },
+                "state_code": "VA",
+                "type": "DISTRICT",
+                "zip": "23220"
             },
             "type": "Feature"
         },
@@ -43773,6 +44601,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.26861149999999,
+                    28.8121096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Sanford",
+                "handle": "M001202-sanford",
+                "line1": "110 W. First Street",
+                "line2": "Suite 210",
+                "name": "Sanford",
+                "phone": "(888) 205-5421",
+                "rep": {
+                    "bioguide_id": "M001202",
+                    "chamber": "HOUSE",
+                    "district_code": "FL07",
+                    "district_number": 7,
+                    "district_ordinal": "7th",
+                    "first_name": "Stephanie",
+                    "last_name": "Murphy",
+                    "party": "DEMOCRAT",
+                    "state_code": "FL",
+                    "state_name": "Florida",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://stephaniemurphy.house.gov"
+                },
+                "state_code": "FL",
+                "type": "DISTRICT",
+                "zip": "32771"
             },
             "type": "Feature"
         },
@@ -45357,6 +46221,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.0318291,
+                    32.33639220000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Tucson",
+                "handle": "O000171-tucson",
+                "line1": "3037 W. Ina Rd",
+                "line2": "Suite 101",
+                "name": "Tucson",
+                "phone": "(928) 304-0131",
+                "rep": {
+                    "bioguide_id": "O000171",
+                    "chamber": "HOUSE",
+                    "district_code": "AZ01",
+                    "district_number": 1,
+                    "district_ordinal": "1st",
+                    "first_name": "Tom",
+                    "last_name": "O'Halleran",
+                    "party": "DEMOCRAT",
+                    "state_code": "AZ",
+                    "state_name": "Arizona",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://ohalleran.house.gov"
+                },
+                "state_code": "AZ",
+                "type": "DISTRICT",
+                "zip": "85741"
             },
             "type": "Feature"
         },
@@ -53427,6 +54327,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.1481645,
+                    39.083791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Rockville",
+                "handle": "R000606-rockville",
+                "line1": "51 Monroe St",
+                "line2": "Suite 503",
+                "name": "Rockville",
+                "phone": "(301) 354-1000",
+                "rep": {
+                    "bioguide_id": "R000606",
+                    "chamber": "HOUSE",
+                    "district_code": "MD08",
+                    "district_number": 8,
+                    "district_ordinal": "8th",
+                    "first_name": "Jamie",
+                    "last_name": "Raskin",
+                    "party": "DEMOCRAT",
+                    "state_code": "MD",
+                    "state_name": "Maryland",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://raskin.house.gov"
+                },
+                "state_code": "MD",
+                "type": "DISTRICT",
+                "zip": "20850"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -81.7664209,
                     26.1270603
                 ],
@@ -53438,7 +54374,7 @@
                 "line1": "3299 Tamiami Trail East",
                 "line2": "Suite 105",
                 "name": "Naples",
-                "phone": null,
+                "phone": "(239) 252-6225",
                 "rep": {
                     "bioguide_id": "R000607",
                     "chamber": "HOUSE",
@@ -53507,10 +54443,10 @@
             "properties": {
                 "city": "Cape Coral",
                 "handle": "R000607-cape-coral",
-                "line1": "1039 S.E. 9th Place",
+                "line1": "1039 S.E. 9th Ave",
                 "line2": "Suite 308",
                 "name": "Cape Coral",
-                "phone": null,
+                "phone": "(239) 599-6033",
                 "rep": {
                     "bioguide_id": "R000607",
                     "chamber": "HOUSE",
@@ -53544,9 +54480,9 @@
                 "city": "Las Vegas",
                 "handle": "R000608-las-vegas",
                 "line1": "8872 S Eastern Ave",
-                "line2": "Suite 210/220",
+                "line2": "Suite 220",
                 "name": "Las Vegas",
-                "phone": null,
+                "phone": "(702) 963-9500",
                 "rep": {
                     "bioguide_id": "R000608",
                     "chamber": "HOUSE",
@@ -53618,7 +54554,7 @@
                 "line1": "4130 Salisbury Road",
                 "line2": "Suite 2500",
                 "name": "Jacksonville",
-                "phone": null,
+                "phone": "(904) 831-5205",
                 "rep": {
                     "bioguide_id": "R000609",
                     "chamber": "HOUSE",
@@ -56928,9 +57864,9 @@
                 "city": "Dover",
                 "handle": "S001170-dover",
                 "line1": "660 Central Ave",
-                "line2": null,
+                "line2": "Unit 101",
                 "name": "Dover",
-                "phone": "(888) 216-5373",
+                "phone": "(603) 285-4300",
                 "rep": {
                     "bioguide_id": "S001170",
                     "chamber": "HOUSE",
@@ -58406,7 +59342,7 @@
                 "line1": "111 Barclay Blvd",
                 "line2": "Suite 200",
                 "name": "Lincolnshire",
-                "phone": null,
+                "phone": "(847) 383-4870",
                 "rep": {
                     "bioguide_id": "S001190",
                     "chamber": "HOUSE",
@@ -59594,7 +60530,7 @@
                 "line1": "51 South Duke St",
                 "line2": "Suite 201",
                 "name": "Lancaster",
-                "phone": null,
+                "phone": "(717) 393-0667",
                 "rep": {
                     "bioguide_id": "S001199",
                     "chamber": "HOUSE",
@@ -59663,10 +60599,10 @@
             "properties": {
                 "city": "Kissimmee",
                 "handle": "S001200-kissimmee",
-                "line1": "804 Bryan Street",
+                "line1": "804 W Bryan Street",
                 "line2": null,
                 "name": "Kissimmee",
-                "phone": null,
+                "phone": "(407) 452-1171",
                 "rep": {
                     "bioguide_id": "S001200",
                     "chamber": "HOUSE",
@@ -59727,6 +60663,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -81.280361,
+                    28.368175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Orlando",
+                "handle": "S001200-orlando",
+                "line1": "6900 Lake Nona Blvd",
+                "line2": "Suites #101A & #101B",
+                "name": "Orlando",
+                "phone": "(407) 266-7161",
+                "rep": {
+                    "bioguide_id": "S001200",
+                    "chamber": "HOUSE",
+                    "district_code": "FL09",
+                    "district_number": 9,
+                    "district_ordinal": "9th",
+                    "first_name": "Darren",
+                    "last_name": "Soto",
+                    "party": "DEMOCRAT",
+                    "state_code": "FL",
+                    "state_name": "Florida",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://soto.house.gov"
+                },
+                "state_code": "FL",
+                "type": "DISTRICT",
+                "zip": "32827"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.411319,
                     40.873976
                 ],
@@ -59738,7 +60710,7 @@
                 "line1": "478A Park Avenue",
                 "line2": null,
                 "name": "Huntington",
-                "phone": null,
+                "phone": "(631) 923-4100",
                 "rep": {
                     "bioguide_id": "S001201",
                     "chamber": "HOUSE",
@@ -59793,6 +60765,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.73727650000001,
+                    40.7683151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Little Neck",
+                "handle": "S001201-little-neck",
+                "line1": "250-02 Northern Boulevard",
+                "line2": null,
+                "name": "Little Neck",
+                "phone": "(631) 923-4100",
+                "rep": {
+                    "bioguide_id": "S001201",
+                    "chamber": "HOUSE",
+                    "district_code": "NY03",
+                    "district_number": 3,
+                    "district_ordinal": "3rd",
+                    "first_name": "Thomas",
+                    "last_name": "Suozzi",
+                    "party": "DEMOCRAT",
+                    "state_code": "NY",
+                    "state_name": "New York",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://suozzi.house.gov"
+                },
+                "state_code": "NY",
+                "type": "DISTRICT",
+                "zip": "11362"
             },
             "type": "Feature"
         },
@@ -62391,6 +63399,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.13233,
+                    36.842491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Virginia Beach",
+                "handle": "T000477-virginia-beach",
+                "line1": "1 Columbus Center",
+                "line2": "Suite 900",
+                "name": "Virginia Beach",
+                "phone": null,
+                "rep": {
+                    "bioguide_id": "T000477",
+                    "chamber": "HOUSE",
+                    "district_code": "VA02",
+                    "district_number": 2,
+                    "district_ordinal": "2nd",
+                    "first_name": "Scott",
+                    "last_name": "Taylor",
+                    "party": "REPUBLICAN",
+                    "state_code": "VA",
+                    "state_name": "Virginia",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://taylor.house.gov"
+                },
+                "state_code": "VA",
+                "type": "DISTRICT",
+                "zip": "23462"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -75.278421,
                     43.0903185
                 ],
@@ -62400,9 +63444,9 @@
                 "city": "New Hartford",
                 "handle": "T000478-new-hartford",
                 "line1": "555 French Rd",
-                "line2": null,
+                "line2": "Suite 101",
                 "name": "New Hartford",
-                "phone": null,
+                "phone": "(315) 732-0713",
                 "rep": {
                     "bioguide_id": "T000478",
                     "chamber": "HOUSE",
@@ -62457,6 +63501,42 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20515"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.91309489999999,
+                    42.0991414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Binghamton",
+                "handle": "T000478-binghamton",
+                "line1": "49 Court Street",
+                "line2": "Metro Center, Suite 210",
+                "name": "Binghamton",
+                "phone": "(607) 376-6002",
+                "rep": {
+                    "bioguide_id": "T000478",
+                    "chamber": "HOUSE",
+                    "district_code": "NY22",
+                    "district_number": 22,
+                    "district_ordinal": "22nd",
+                    "first_name": "Claudia",
+                    "last_name": "Tenney",
+                    "party": "REPUBLICAN",
+                    "state_code": "NY",
+                    "state_name": "New York",
+                    "title": "Representative",
+                    "title_short": "Rep.",
+                    "website": "https://tenney.house.gov"
+                },
+                "state_code": "NY",
+                "type": "DISTRICT",
+                "zip": "13901"
             },
             "type": "Feature"
         },
@@ -66921,6 +68001,150 @@
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.15702999999999,
+                    39.770723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Indianapolis",
+                "handle": "Y000064-indianapolis",
+                "line1": "46 East Ohio Street",
+                "line2": "Suite 462",
+                "name": "Indianapolis",
+                "phone": "(317) 226-6700",
+                "rep": {
+                    "bioguide_id": "Y000064",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Todd",
+                    "last_name": "Young",
+                    "party": "REPUBLICAN",
+                    "state_code": "IN",
+                    "state_name": "Indiana",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.young.senate.gov"
+                },
+                "state_code": "IN",
+                "type": "DISTRICT",
+                "zip": "46204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.361437,
+                    43.6723143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "New Albany",
+                "handle": "Y000064-new-albany",
+                "line1": "121 West Spring Street",
+                "line2": "Suite 130-C & 225",
+                "name": "New Albany",
+                "phone": "(812) 542-4820",
+                "rep": {
+                    "bioguide_id": "Y000064",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Todd",
+                    "last_name": "Young",
+                    "party": "REPUBLICAN",
+                    "state_code": "IN",
+                    "state_name": "Indiana",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.young.senate.gov"
+                },
+                "state_code": "IN",
+                "type": "DISTRICT",
+                "zip": "47150"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.567486,
+                    37.975188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Evansville",
+                "handle": "Y000064-evansville",
+                "line1": "101 Martin Luther King Jr. Blvd",
+                "line2": "Suite 110",
+                "name": "Evansville",
+                "phone": "",
+                "rep": {
+                    "bioguide_id": "Y000064",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Todd",
+                    "last_name": "Young",
+                    "party": "REPUBLICAN",
+                    "state_code": "IN",
+                    "state_name": "Indiana",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.young.senate.gov"
+                },
+                "state_code": "IN",
+                "type": "DISTRICT",
+                "zip": "47708"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.14045349999999,
+                    41.0737372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Fort Wayne",
+                "handle": "Y000064-fort-wayne",
+                "line1": "1300 South Harrison Street",
+                "line2": "Suite # 3161",
+                "name": "Fort Wayne",
+                "phone": "",
+                "rep": {
+                    "bioguide_id": "Y000064",
+                    "chamber": "SENATE",
+                    "district_code": null,
+                    "district_number": null,
+                    "district_ordinal": null,
+                    "first_name": "Todd",
+                    "last_name": "Young",
+                    "party": "REPUBLICAN",
+                    "state_code": "IN",
+                    "state_name": "Indiana",
+                    "title": "Senator",
+                    "title_short": "Sen.",
+                    "website": "http://www.young.senate.gov"
+                },
+                "state_code": "IN",
+                "type": "DISTRICT",
+                "zip": "46802"
             },
             "type": "Feature"
         },
