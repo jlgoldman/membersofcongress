@@ -28018,91 +28018,26 @@
         "website": "http://www.stabenow.senate.gov/"
     },
     {
-        "bioguide_id": "S001141",
+        "bioguide_id": "S001202",
         "chamber": "SENATE",
         "district_code": null,
         "district_number": null,
         "district_ordinal": null,
-        "first_name": "Jeff",
-        "last_name": "Sessions",
+        "first_name": "Luther",
+        "last_name": "Strange",
         "offices": [
             {
-                "city": "Huntsville",
-                "handle": "S001141-huntsville",
-                "latitude": 34.7307435,
-                "line1": "200 Clinton Avenue NW",
-                "line2": "Regions Center, Suite 802",
-                "longitude": -86.5882087,
-                "name": "Huntsville",
-                "phone": "(256) 533-0979",
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "35801"
-            },
-            {
-                "city": "Mobile",
-                "handle": "S001141-mobile",
-                "latitude": 30.690756,
-                "line1": "41 West I-65 Service Road North",
-                "line2": "BB&T, Suite 2300-A",
-                "longitude": -88.1268459,
-                "name": "Mobile",
-                "phone": "(251) 414-3083",
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36608"
-            },
-            {
-                "city": "Montgomery",
-                "handle": "S001141-montgomery",
-                "latitude": 32.3743211,
-                "line1": "1 Church Street",
-                "line2": "Suite 500B",
-                "longitude": -86.3099386,
-                "name": "Montgomery",
-                "phone": "(334) 230-0698",
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36104"
-            },
-            {
-                "city": "Dothan",
-                "handle": "S001141-dothan",
-                "latitude": 31.225401,
-                "line1": "100 West Troy Street",
-                "line2": "Suite 302",
-                "longitude": -85.392611,
-                "name": "Dothan",
-                "phone": "(334) 792-4924",
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36303"
-            },
-            {
                 "city": "Washington",
-                "handle": "S001141-washington",
-                "latitude": 38.8925417,
-                "line1": "326 Russell Senate Office Building",
+                "handle": "S001202-washington",
+                "latitude": 38.8928369,
+                "line1": "G-12 Dirksen Senate Office Building",
                 "line2": null,
-                "longitude": -77.0074155,
+                "longitude": -77.0051216,
                 "name": "Washington",
                 "phone": "(202) 224-4124",
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
-            },
-            {
-                "city": "Birmingham",
-                "handle": "S001141-birmingham",
-                "latitude": 33.5173384,
-                "line1": "1800 5th Avenue North",
-                "line2": "341 Vance Federal Building",
-                "longitude": -86.8102366,
-                "name": "Birmingham",
-                "phone": "(205) 731-1500",
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "35203"
             }
         ],
         "party": "REPUBLICAN",
@@ -28110,7 +28045,7 @@
         "state_name": "Alabama",
         "title": "Senator",
         "title_short": "Sen.",
-        "website": "http://www.sessions.senate.gov/"
+        "website": "https://www.senate.gov/senators/115thCongress/Luther_Strange.htm"
     },
     {
         "bioguide_id": "S001145",

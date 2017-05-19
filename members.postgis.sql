@@ -1585,12 +1585,7 @@ INSERT INTO "office" VALUES('S000770-flintsaginaw-bay','S000770','DISTRICT','Fli
 INSERT INTO "office" VALUES('S000770-northern-michigan','S000770','DISTRICT','Northern Michigan','3335 S. Airport Road West','Suite 6B','Traverse City','MI','49684','(231) 929-1031','SRID=4326;POINT(-85.642375 44.7222478)');
 INSERT INTO "office" VALUES('S000770-upper-peninsula','S000770','DISTRICT','Upper Peninsula','1901 W. Ridge','Suite 7','Marquette','MI','49855','(906) 228-8756','SRID=4326;POINT(-87.4269822 46.5484343)');
 INSERT INTO "office" VALUES('S000770-washington','S000770','DC','Washington','731 Hart Senate Office Building',NULL,'Washington','DC','20510','(202) 224-4822','SRID=4326;POINT(-77.0043561 38.8928388)');
-INSERT INTO "office" VALUES('S001141-huntsville','S001141','DISTRICT','Huntsville','200 Clinton Avenue NW','Regions Center, Suite 802','Huntsville','AL','35801','(256) 533-0979','SRID=4326;POINT(-86.5882087 34.7307435)');
-INSERT INTO "office" VALUES('S001141-mobile','S001141','DISTRICT','Mobile','41 West I-65 Service Road North','BB&T, Suite 2300-A','Mobile','AL','36608','(251) 414-3083','SRID=4326;POINT(-88.1268459 30.690756)');
-INSERT INTO "office" VALUES('S001141-montgomery','S001141','DISTRICT','Montgomery','1 Church Street','Suite 500B','Montgomery','AL','36104','(334) 230-0698','SRID=4326;POINT(-86.3099386 32.3743211)');
-INSERT INTO "office" VALUES('S001141-dothan','S001141','DISTRICT','Dothan','100 West Troy Street','Suite 302','Dothan','AL','36303','(334) 792-4924','SRID=4326;POINT(-85.392611 31.225401)');
-INSERT INTO "office" VALUES('S001141-washington','S001141','DC','Washington','326 Russell Senate Office Building',NULL,'Washington','DC','20510','(202) 224-4124','SRID=4326;POINT(-77.0074155 38.8925417)');
-INSERT INTO "office" VALUES('S001141-birmingham','S001141','DISTRICT','Birmingham','1800 5th Avenue North','341 Vance Federal Building','Birmingham','AL','35203','(205) 731-1500','SRID=4326;POINT(-86.8102366 33.5173384)');
+INSERT INTO "office" VALUES('S001202-washington','S001202','DC','Washington','G-12 Dirksen Senate Office Building',NULL,'Washington','DC','20510','(202) 224-4124','SRID=4326;POINT(-77.0051216 38.8928369)');
 INSERT INTO "office" VALUES('S001145-chicago','S001145','DISTRICT','Chicago','5533 N. Broadway',NULL,'Chicago','IL','60640','(773) 506-7100','SRID=4326;POINT(-87.6595983 41.9827237)');
 INSERT INTO "office" VALUES('S001145-evanston','S001145','DISTRICT','Evanston','820 Davis Street, Suite 105',NULL,'Evanston','IL','60201','(847) 328-3409','SRID=4326;POINT(-87.6829625 42.0466618)');
 INSERT INTO "office" VALUES('S001145-glenview','S001145','DISTRICT','Glenview','1852 Johns Drive',NULL,'Glenview','IL','60025','(847) 328-3409','SRID=4326;POINT(-87.8103273 42.0884495)');
@@ -2382,7 +2377,7 @@ INSERT INTO "rep" VALUES('S000510','Adam','Smith','WA','Washington',9,'WA09','9t
 INSERT INTO "rep" VALUES('S000522','Christopher','Smith','NJ','New Jersey',4,'NJ04','4th','REPUBLICAN','HOUSE','Representative','Rep.','http://chrissmith.house.gov');
 INSERT INTO "rep" VALUES('S000583','Lamar','Smith','TX','Texas',21,'TX21','21st','REPUBLICAN','HOUSE','Representative','Rep.','http://lamarsmith.house.gov');
 INSERT INTO "rep" VALUES('S000770','Debbie','Stabenow','MI','Michigan',NULL,NULL,NULL,'DEMOCRAT','SENATE','Senator','Sen.','http://www.stabenow.senate.gov/');
-INSERT INTO "rep" VALUES('S001141','Jeff','Sessions','AL','Alabama',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','http://www.sessions.senate.gov/');
+INSERT INTO "rep" VALUES('S001202','Luther','Strange','AL','Alabama',NULL,NULL,NULL,'REPUBLICAN','SENATE','Senator','Sen.','https://www.senate.gov/senators/115thCongress/Luther_Strange.htm');
 INSERT INTO "rep" VALUES('S001145','Janice','Schakowsky','IL','Illinois',9,'IL09','9th','DEMOCRAT','HOUSE','Representative','Rep.','https://schakowsky.house.gov');
 INSERT INTO "rep" VALUES('S001148','Michael','Simpson','ID','Idaho',2,'ID02','2nd','REPUBLICAN','HOUSE','Representative','Rep.','http://simpson.house.gov');
 INSERT INTO "rep" VALUES('S001150','Adam','Schiff','CA','California',28,'CA28','28th','DEMOCRAT','HOUSE','Representative','Rep.','http://schiff.house.gov');

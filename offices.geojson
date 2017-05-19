@@ -56595,216 +56595,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    -86.5882087,
-                    34.7307435
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Huntsville",
-                "handle": "S001141-huntsville",
-                "line1": "200 Clinton Avenue NW",
-                "line2": "Regions Center, Suite 802",
-                "name": "Huntsville",
-                "phone": "(256) 533-0979",
-                "rep": {
-                    "bioguide_id": "S001141",
-                    "chamber": "SENATE",
-                    "district_code": null,
-                    "district_number": null,
-                    "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
-                    "party": "REPUBLICAN",
-                    "state_code": "AL",
-                    "state_name": "Alabama",
-                    "title": "Senator",
-                    "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
-                },
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "35801"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -88.1268459,
-                    30.690756
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Mobile",
-                "handle": "S001141-mobile",
-                "line1": "41 West I-65 Service Road North",
-                "line2": "BB&T, Suite 2300-A",
-                "name": "Mobile",
-                "phone": "(251) 414-3083",
-                "rep": {
-                    "bioguide_id": "S001141",
-                    "chamber": "SENATE",
-                    "district_code": null,
-                    "district_number": null,
-                    "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
-                    "party": "REPUBLICAN",
-                    "state_code": "AL",
-                    "state_name": "Alabama",
-                    "title": "Senator",
-                    "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
-                },
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36608"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -86.3099386,
-                    32.3743211
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Montgomery",
-                "handle": "S001141-montgomery",
-                "line1": "1 Church Street",
-                "line2": "Suite 500B",
-                "name": "Montgomery",
-                "phone": "(334) 230-0698",
-                "rep": {
-                    "bioguide_id": "S001141",
-                    "chamber": "SENATE",
-                    "district_code": null,
-                    "district_number": null,
-                    "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
-                    "party": "REPUBLICAN",
-                    "state_code": "AL",
-                    "state_name": "Alabama",
-                    "title": "Senator",
-                    "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
-                },
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36104"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -85.392611,
-                    31.225401
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Dothan",
-                "handle": "S001141-dothan",
-                "line1": "100 West Troy Street",
-                "line2": "Suite 302",
-                "name": "Dothan",
-                "phone": "(334) 792-4924",
-                "rep": {
-                    "bioguide_id": "S001141",
-                    "chamber": "SENATE",
-                    "district_code": null,
-                    "district_number": null,
-                    "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
-                    "party": "REPUBLICAN",
-                    "state_code": "AL",
-                    "state_name": "Alabama",
-                    "title": "Senator",
-                    "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
-                },
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "36303"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -77.0074155,
-                    38.8925417
+                    -77.0051216,
+                    38.8928369
                 ],
                 "type": "Point"
             },
             "properties": {
                 "city": "Washington",
-                "handle": "S001141-washington",
-                "line1": "326 Russell Senate Office Building",
+                "handle": "S001202-washington",
+                "line1": "G-12 Dirksen Senate Office Building",
                 "line2": null,
                 "name": "Washington",
                 "phone": "(202) 224-4124",
                 "rep": {
-                    "bioguide_id": "S001141",
+                    "bioguide_id": "S001202",
                     "chamber": "SENATE",
                     "district_code": null,
                     "district_number": null,
                     "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
+                    "first_name": "Luther",
+                    "last_name": "Strange",
                     "party": "REPUBLICAN",
                     "state_code": "AL",
                     "state_name": "Alabama",
                     "title": "Senator",
                     "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
+                    "website": "https://www.senate.gov/senators/115thCongress/Luther_Strange.htm"
                 },
                 "state_code": "DC",
                 "type": "DC",
                 "zip": "20510"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -86.8102366,
-                    33.5173384
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "city": "Birmingham",
-                "handle": "S001141-birmingham",
-                "line1": "1800 5th Avenue North",
-                "line2": "341 Vance Federal Building",
-                "name": "Birmingham",
-                "phone": "(205) 731-1500",
-                "rep": {
-                    "bioguide_id": "S001141",
-                    "chamber": "SENATE",
-                    "district_code": null,
-                    "district_number": null,
-                    "district_ordinal": null,
-                    "first_name": "Jeff",
-                    "last_name": "Sessions",
-                    "party": "REPUBLICAN",
-                    "state_code": "AL",
-                    "state_name": "Alabama",
-                    "title": "Senator",
-                    "title_short": "Sen.",
-                    "website": "http://www.sessions.senate.gov/"
-                },
-                "state_code": "AL",
-                "type": "DISTRICT",
-                "zip": "35203"
             },
             "type": "Feature"
         },
